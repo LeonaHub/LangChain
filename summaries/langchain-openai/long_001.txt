@@ -1,0 +1,18 @@
+PyTorch and TensorFlow are two major deep-learning frameworks that have gained popularity among data scientists, machine learning engineers, and researchers due to their ease of use, scalability with complexity, and open-source nature. PyTorch offers flexibility for building models in computer vision, NLP, and reinforcement learning while TensorFlow provides a comprehensive suite of tools for developing machine learning models. Both frameworks have active communities and extensive documentation.
+
+Deep learning is a subset of artificial intelligence that enables computers to learn like humans by processing complex data. It uses neural networks modeled after the human brain's interconnected neurons to solve problems such as object recognition, NLP tasks like speech recognition or autonomous driving.
+
+When comparing PyTorch vs TensorFlow vs Keras:
+- PyTorch is known for its dynamic computational graph allowing modifications on the go.
+- TensorFlow focuses on computational graphs but excels in handling larger datasets efficiently.
+- Keras is a high-level API running on top of TensorFlow or other backends offering simplicity in designing neural networks.
+
+Each framework has its pros and cons:
+- PyTorch: Beginner-friendly with cloud platform support but lacks an extensive developer community.
+- TensorFlow: Designed for all experience levels with excellent visualization features but can be challenging without Python proficiency.
+- Keras: Simple API making it easy to start quickly but may face low-level backend errors during unsupported operations.
+
+In practical differences between Pytorch vs Tensorflow:
+- Python modules are used in Pytorch while specific modules are available within Tensorflow operations.
+
+Overall, choosing between these frameworks depends on project goals and requirements as each offers unique strengths suited for different tasks.

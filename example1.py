@@ -34,7 +34,7 @@ def summarize_text(text, api_key):
             frequency_penalty=1.5,
             presence_penalty=0
         )
-        print(response)
+        print(response.choices[0].message.content)
     except Exception as e:
         print(f"An error occurred: {e}")
         return None

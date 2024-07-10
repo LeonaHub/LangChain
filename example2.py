@@ -26,7 +26,7 @@ def summarize_text(text, api_key):
             SystemMessage(content="Summarize this text:"),
             HumanMessage(content=text)
         ], **options)
-        print(response)
+        print(response.content)
     except Exception as e:
         print(f"An error occurred: {e}")
         return None
