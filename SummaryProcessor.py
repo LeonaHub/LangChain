@@ -53,21 +53,20 @@ class SummaryProcessor:
         client = OpenAI(api_key=self.api_key)
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
-            messages=[{"role": "system", "content": "Summarize this text:"}, {"role": "user", "content": text}],
+            messages=[
+                {"role": "system", "content": "Summarize this text:"},
+                {"role": "user", "content": text}
+            ],
             **self.summary_options
         )
         return response.choices[0].message.content
 
     def generate_with_langchain(self, text):
         model = ChatOpenAI(api_key=self.api_key, model="gpt-3.5-turbo")
-        options = {
-            "temperature": 0.1, 
-            "max_tokens": 512, 
-            "top_p": 0.5, 
-            "frequency_penalty": 1.5, 
-            "presence_penalty": 0
-        }
-        response = model.invoke([SystemMessage(content="Summarize this text:"), HumanMessage(content=text)], **options)
+        response = model.invoke([
+            SystemMessage(content="Summarize this text:"),
+            HumanMessage(content=text)
+        ], **self.summary_options)
         return response.content
 
     def process_texts(self):
