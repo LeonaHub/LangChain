@@ -1,0 +1,157 @@
+{
+    "MedlineCitation": {
+        "PMID": 12975,
+        "DateCompleted": {
+            "Year": 1977,
+            "Month": 4,
+            "Day": 1
+        },
+        "NumberOfReferences": 0,
+        "DateRevised": {
+            "Year": 2019,
+            "Month": 6,
+            "Day": 20
+        },
+        "Article": {
+            "Abstract": {
+                "AbstractText": "The effect of alkali on the circular dichroic (CD) spectra of ovine lutropin and its subunits has been studied. Mild alkaline pH induces the appearance of a new optically active band in the 250-nm region of the spectra of lutropin without any detectable alteration in the secondary structure of the protein. This change is reversible and can be correlated with ionization of 2--3 exposed tyrosyl residues in the intact hormone. In a previous report from this laboratory it was concluded that the three exposed tyrosyl residues are located in the alpha subunit, in positions 21, 92 and 93 [Burleigh, B.D., Liu, W.-K, and Ward, D.M. (1976) J. Biol. Chem. 251, 308--315]. Nitration of these residues lowers the pH at which the intensity of the 250-nm band is maximal. The importance of the tyrosyl residues of lutropin alpha (as opposed to those of lutropin beta) is also supported by the similarity of the effect of alkali on the CD spectra of lutropin and lutropin alpha. Further evidence for this involvement was also obtained by a comparison of the alkali-induced changes of refolded lutropin (alpha + beta recombinant) and the product obtained by recombination of des-(92--96)-lutropin alpha (obtained from carboxypeptidase treatment of the alpha-subunit) and lutropin beta. The results indicate that removal of tyrosines alpha 92 and alpha 93 results in a decrease of the intensity of the 235-nm band of ovine lutropin (at pH7.5) as well as that of the 250-nm band observed under alkaline conditions. It is therefore concluded that the 250-nm band observed in alkaline solutions of lutropin arises (at least partially) from the red shift produced in the short-wavelength optically active band of tyrosines alpha 21, alpha 92, and alpha 93 upon ionization."
+            },
+            "ArticleTitle": "On the optical activity of ionized tyrosyl residues in ovine lutropin.",
+            "AuthorList": {
+                "Author": {
+                    "LastName": [
+                        "Ascoli",
+                        "Ward",
+                        "Jirgensons"
+                    ],
+                    "ForeName": [
+                        "M",
+                        "D N",
+                        "B"
+                    ],
+                    "Initials": [
+                        "M",
+                        "DN",
+                        "B"
+                    ],
+                    "CollectiveName": [
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            },
+            "Language": "eng",
+            "GrantList": {
+                "Grant": {
+                    "GrantID": [],
+                    "Agency": [],
+                    "Country": []
+                }
+            },
+            "PublicationTypeList": {
+                "PublicationType": [
+                    "Journal Article",
+                    "Research Support, U.S. Gov't, P.H.S."
+                ]
+            }
+        },
+        "MedlineJournalInfo": {
+            "Country": "England"
+        },
+        "ChemicalList": {
+            "Chemical": {
+                "RegistryNumber": [
+                    "0",
+                    "3XMK78S47O",
+                    "42HK56048U",
+                    "50-56-6",
+                    "9002-67-9"
+                ],
+                "NameOfSubstance": [
+                    "Amino Acids",
+                    "Testosterone",
+                    "Tyrosine",
+                    "Oxytocin",
+                    "Luteinizing Hormone"
+                ]
+            }
+        },
+        "CitationSubset": "IM",
+        "MeshHeadingList": {
+            "MeshHeading": {
+                "DescriptorName": [
+                    "Amino Acids",
+                    "Animals",
+                    "Biological Assay",
+                    "Circular Dichroism",
+                    "Hydrogen-Ion Concentration",
+                    "Leydig Cells",
+                    "Luteinizing Hormone",
+                    "Male",
+                    "Oxytocin",
+                    "Protein Conformation",
+                    "Rats",
+                    "Sheep",
+                    "Spectrophotometry, Ultraviolet",
+                    "Structure-Activity Relationship",
+                    "Testosterone",
+                    "Tyrosine"
+                ],
+                "QualifierName": [
+                    "analysis",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "drug effects",
+                    "analogs & derivatives",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "metabolism",
+                    "analysis"
+                ]
+            }
+        }
+    },
+    "PubmedData": {
+        "ArticleIdList": {
+            "ArticleId": [
+                [],
+                [
+                    "12975",
+                    "10.1111/j.1432-1033.1977.tb11235.x"
+                ]
+            ]
+        },
+        "PublicationStatus": "ppublish",
+        "History": {
+            "PubMedPubDate": {
+                "Year": [
+                    1977,
+                    1977,
+                    1977
+                ],
+                "Month": [
+                    1,
+                    1,
+                    1
+                ],
+                "Day": [
+                    3,
+                    3,
+                    3
+                ]
+            }
+        },
+        "ReferenceList": {
+            "Citation": [],
+            "CitationId": []
+        }
+    }
+}
