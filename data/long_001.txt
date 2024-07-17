@@ -1,228 +1,245 @@
-PyTorch and TensorFlow are two major deep-learning frameworks. They have become prevalent among data scientists, machine learning engineers, and researchers due to their ease of use, ability to scale with complexity, and open-source nature. However, you should consider several factors when deciding between PyTorch vs. TensorFlow — two powerful platforms for your next project or model training effort.
-
-PyTorch, developed by Facebook’s AI research lab, offers a flexible and efficient framework for building and training deep learning models in computer vision, Natural Language Processing (NLP), and reinforcement learning.
-
-On the other hand, TensorFlow, created by Google, provides a comprehensive suite of tools and resources for developing and deploying machine learning models. These libraries have gained widespread adoption, boasting active communities, extensive documentation, and pre-trained models.
-
-With their powerful capabilities, PyTorch and TensorFlow have become indispensable tools for researchers and practitioners seeking to harness the potential of machine learning.
-
-This article will review PyTorch vs TensorFlow side by side so you can make an informed decision based on their differences.
-
-Before diving into the details of TensorFlow vs PyTorch, let us briefly examine deep learning.
-
-What is Deep Learning?
-Deep learning is a subset of artificial intelligence that enables computers to think and learn as humans do. It processes complex data and patterns to produce accurate insights. It is generally used to automate tasks that require human intelligence.
-
-Deep learning algorithms use neural networks that are modeled after human brains. The human brain constitutes several interconnected neurons that work together to learn and process information.
-
-Likewise, deep learning has several layers of artificial neurons that work together in a computer. Artificial neurons are the software modules or nodes that play a vital role in solving complex problems.
-
-Also read: Understanding Perceptron: The Founding Element of Neural Networks
-
-Deep learning algorithms learn from data by forming complex non-linear relationships between its features, making it suitable for object recognition, natural language processing (NLP), and reinforcement learning.
-
-Its applications range from autonomous driving to medical diagnostics. Deep Learning is also important in emerging technologies such as fraud detection, virtual reality, and robotics.
-
-Some uses of deep learning are as follows:
-
-Image and facial recognition for surveillance systems.
-Speech recognition for virtual assistants such as Google Home and Alexa.
-Natural language processing (NLP) to understand the intent of complex queries or commands.
-Autonomous driving makes cars drive themselves safely on roads.
-Medical diagnostics for early disease detection.
-Reinforcement learning enables robots to interact with their environment.
-Also read: Difference between Machine Learning, Pattern Recognition, and Data Mining
-
-Before going forward, take a look at our tailored courses on Machine Learning and AI Engineering. ⬇️
-
-Learn the basics and advanced concepts of Machine Learning, Deep Learning, and AI with our tailored designed courses -
-
-Machine Learning
-AI Engineering
-Full Stack Applied AI Course
-Deep Learning with Python
-You can opt for classroom, online, or self-paced learning for a convenient and smooth learning experience. We help you decide which course is ideal for you, guide you throughout your learning journey, and ensure that you get onboard with your dream company after you complete our course.
-
-Book a demo with us and let us help you make the right choice.
-
-Now, let us understand the three most important frameworks — PyTorch, Keras, and TensorFlow.
-
-What is PyTorch?
-PyTorch is an open-source deep-learning library based on Python and Torch. It provides a versatile platform for building and training neural networks in computer vision, natural language processing (NLP), and reinforcement learning.
-
-Developed in 2016 by Facebook’s AI research lab, PyTorch has gained popularity, providing researchers and developers with a flexible and efficient framework for constructing and training deep learning models. It has grown popular due to its simplicity of use, intuitive API, extensibility, scalability, and ability to support production deployment.
-
-Features
-A distinctive feature of PyTorch is its dynamic computational graph, allowing developers to construct and modify graphs on the go. Unlike static graph-based frameworks, this flexibility enables intuitive model creation, easier debugging, and architectural experimentation.
-
-Developers can quickly iterate on ideas with minimal overhead. Additionally, it enables researchers to replicate experiments and create new ones from scratch easily.
-
-PyTorch’s Pythonic style integrates smoothly with the Python ecosystem, leveraging its libraries and tools for simplified code development, debugging, and interoperability with other frameworks.
-
-PyTorch includes TorchVision, a high-level interface featuring pre-trained models, datasets, and image transformation functions. It simplifies tasks like image classification, where renowned Convolutional Neural Network models such as ResNet, VGG, and AlexNet can be readily employed.
-
-GPU acceleration is another standout attribute of PyTorch. Leveraging the power of graphics processing units (GPUs) enables faster training and inference by performing efficient computations.
-
-The PyTorch community is vibrant and active, offering abundant tutorials, documentation, and online resources. This extensive support ecosystem facilitates a smooth learning curve for newcomers, allowing them to grasp and utilize the library’s capabilities quickly.
-
-What is TensorFlow?
-TensorFlow is an open-source machine-learning platform developed by Google. It offers a comprehensive suite of tools and resources for developing and deploying machine learning models. Additionally, it provides an extensive library of pre-trained models that can be used to build new applications quickly.
-
-TensorFlow is designed to facilitate quick experimentation while allowing production model deployment. It has many advantages over traditional machine-learning approaches, such as working across multiple platforms (including mobile devices), distributed training and inference support, and easy integration with other libraries.
-
-Features
-At its core, TensorFlow revolves around computational graphs. Developers can define intricate mathematical computations as interconnected nodes representing operations or variables. These nodes form a graph where mathematical operations are performed, and data flows through the edges.
-
-With TensorFlow, building machine learning models becomes flexible and scalable. It supports various neural network architectures, such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transformers. Additionally, TensorFlow provides APIs for reinforcement learning, natural language processing, and time series analysis.
-
-An essential feature of TensorFlow is its ability to harness hardware acceleration, including GPUs and TPUs (Tensor Processing Units). This hardware optimization expedites computations, resulting in faster training and inference for deep learning models, particularly when working with extensive datasets.
-
-The TensorFlow community is substantial and dynamic, offering many resources, tutorials, and pre-trained models. High-level APIs like Keras further enhance TensorFlow’s accessibility, providing a simplified interface for model construction and training, catering to both novices and experienced developers.
-
-What is Keras?
-Keras is an open-source neural network library written in Python. It includes a user-friendly API for implementing neural network tests. Keras is designed to be intuitive, modular, and extensible.
-
-It offers a simple API for creating neural networks that can be easily customized and reused for different tasks. Additionally, Keras provides access to TensorFlow’s low-level operations, which enables users to customize their models even further.
-
-Keras has ten variants of neural network modeling and training modules that can run on CPUs and GPUs. With Keras models, developers can easily build complicated neural networks.
-
-There are two primary types of Keras models:
-
-Keras’s sequential model enables users to develop models in layers piled upon one another with single inputs and outputs. It works well for a basic layer stack with only one input and output. However, it is not suitable for non-linear topology. It is because the paradigm fails if any of the stack layers have multiple inputs or outputs.
-Keras Functional API is a data structure that can create models with multiple inputs and outputs. You can also use it to construct layer graphs. It can be saved as a single file and used to rebuild a model without knowing the source code.
-PyTorch vs. TensorFlow
-
-Comparing PyTorch vs TensorFlow is an important decision for any aspiring deep learning developer. Both are open-source and powerful frameworks with sophisticated capabilities, allowing users to create robust neural networks for research or production purposes. Although both platforms offer a wide range of features, there are some differences between PyTorch and TensorFlow.
-
-Regarding speed and flexibility, PyTorch offers more dynamic computational graphs than TensorFlow. TensorFlow does its graph computations as static operations, which can not be modified once set up.
-
-At the same time, PyTorch allows you to modify the graph on the go, giving you much more control over your model’s training process. It makes PyTorch a more suitable choice for projects that need to adjust their architecture during training.
-
-However, TensorFlow has been engineered to perform better on larger datasets and can handle distributed computing tasks more efficiently than PyTorch.
-
-
-TensorFlow vs. Keras
-When it comes to choosing between TensorFlow vs Keras, there are a few key differences that should be considered.
-
-
-TensorFlow is an open-source machine-learning library developed by Google. It is often used for advanced tasks such as large-scale image recognition and natural language processing.
-
-It has many applications, from creating deep neural networks to training AI agents in reinforcement learning environments. TensorFlow offers powerful building blocks, including neural network layers, convolutional layers, pooling layers, optimization functions, and activation functions.
-
-Furthermore, it allows developers to construct their models using these blocks or take advantage of existing pre-trained models available on the web.
-
-Related read: Machine Learning vs. Deep Learning
-
-Keras is a high-level neural network library that runs on top of TensorFlow, Theano, or CNTK. It allows developers to build complex networks with fewer lines of code and provides an intuitive way to design and train deep learning models.
-
-Keras also offers helpful features such as automatic selection of the best optimization technique for a given task, easy integration with other libraries like OpenCV and Scikit-learn, and support for multiple backends, including TensorFlow.
-
-Additionally, Keras abstracts away many tedious tasks from developers so they can focus on the higher-level aspects of their model development.
-
-Also read: What is Data Strategy?
-
-
-Overall, the Keras TensorFlow debate concludes that both offer powerful tools for developing efficient machine-learning applications. Depending on your project goals and requirements, you may find one more suitable than the other.
-
-For instance, TensorFlow would be the better choice if you need a high degree of flexibility in constructing your models. On the other hand, if you want to build and train complex neural networks quickly, then Keras is ideal.
-
-PyTorch vs Keras
-Pytorch and Keras are both popular open-source deep-learning libraries. Both libraries offer powerful capabilities for building complex neural networks and other machine learning models.
-
-
-Also read: Different Types of Machine Learning Algorithms
-
-When comparing Pytorch vs Keras, it is important to consider the type of model you plan to build and your existing programming skillset. Both libraries have pros and cons, so it is worth weighing the differences before deciding.
-
-Pytorch is a framework for building dynamic computation graphs written in Python. At the same time, Keras is a high-level library that provides an easier way to define neural networks using only a few lines of code.
-
-Pytorch offers dynamic graphs, which means the structure of a network can be changed during runtime, giving you greater flexibility when building models. This makes it a better choice for more complex architectures and projects that require custom components.
-
-Keras is easier to use than Pytorch, as its syntax allows for quicker model development while providing good performance and accuracy.
-
-Regarding debugging and troubleshooting, Pytorch has an advantage over Keras due to the ability to modify the graph structure at any time. On the other hand, Keras often requires extra setup before a model can be used in production due to its high-level nature.
-
-
-Finally, when comparing the performance between Pytorch vs Keras, it is important to remember that the choice of a library should not be the primary factor influencing performance. Both libraries have been benchmarked for various tasks and generally perform well. Ultimately, it comes down to your preference when selecting a library.
-
-PyTorch vs. TensorFlow vs. Keras
-The three main contenders of deep learning frameworks are PyTorch, TensorFlow, and Keras.
-
-These frameworks offer powerful tools for building complex neural networks and harnessing the power of modern hardware. However, each has unique strengths and weaknesses that make them better suited for different tasks.
-
-PyTorch is a relatively new deep-learning framework. It is designed to be easy and highly flexible, with features such as dynamic execution graphs and automatic differentiation.
-
-These features make it ideal for rapidly prototyping models or implementing state-of-the-art research ideas. PyTorch also supports distributed training via its API, which makes it easy to scale your models and put them into production.
-
-TensorFlow is a larger and more mature deep learning framework than PyTorch, with extensive documentation and community support. It has been widely used in the industry for large-scale projects.
-
-Its API is one of the most user-friendly ways to create complex neural networks. Additionally, TensorFlow supports distributed computing via its tensorflow/distribute library, making training on powerful hardware like GPUs and TPUs easier.
-
-Keras is a high-level deep learning API that simplifies the creation of complex neural networks. It provides a simple interface for quickly building intuitive models without learning all the details of how TensorFlow works.
-
-Additionally, Keras includes pre-trained models that can be used directly with minimal data preprocessing.
-
-
-Pros and Cons of PyTorch, TensorFlow, and Keras
-Each framework has its unique strengths and weaknesses that make it better suited for different tasks.
-
-PyTorch is great for rapid prototyping and implementing state-of-the-art research ideas.
-TensorFlow offers excellent documentation, community support, and distributed training capabilities.
-In contrast, Keras provides a user-friendly API for quickly building neural networks without needing to understand all the details of TensorFlow.
-Ultimately, the best choice of framework will depend on what your goals are and which features you need. Let us now take a look at the pros and cons of each framework.
-
-PyTorch
-Pros
-
-Pytorch is beginner-friendly as it is easy to learn and simpler to code.
-Supports cloud platforms.
-Offers faster and more flexible optimization.
-It has high-efficiency APIs that help in extending the Pytorch libraries.
-Performs seamlessly on both CPU and GPU.
-It has powerful IDE and debugging tools.
-Cons
-
-Pytorch is comparatively new and less widely used than other machine learning frameworks.
-It has a much smaller developer community, and fewer people know extensively about using and troubleshooting PyTorch.
-Debugging can also be challenging when dealing with complex models due to its lack of support for imperative programming.
-It does not have expanded tools such as monitoring and visualization.
-TensorFlow
-Pros
-
-TensorFlow is designed for developers of all experience levels so you can get started quickly without worrying about the complexities of machine learning. It provides high-level APIs for building and training models and low-level APIs that allow users to build custom architectures from scratch.
-It is a free platform that is compatible with various programming languages such as Python, C++, Javascript, etc.
-It has excellent visualization features and allows easy debugging of nodes.
-Tensorflow is not limited to any specific device. It can work efficiently on both cellular devices as well as complex machines.
-Supports TPU, therefore, computes faster than both CPU and GPU.
-TensorFlow allows you to work with different data types, such as images, text, or structured data, making designing complex models tailored specifically for your task easier.
-Cons
-
-TensorFlow is built on Python, so mastering TensorFlow can be extremely challenging if you are not proficient in Python. It is possible to create models using other languages, such as JavaScript and Swift, but the amount of support and documentation available for those languages is limited compared to Python.
-It also requires significant time, energy, and resources to implement and debug TensorFlow models.
-TensorFlow is not as flexible as other popular frameworks, such as PyTorch.
-It has limited support for distributed computing.
-Its TPU architecture supports the execution of models and not the training.
-Keras
-Pros
-
-Keras has a simple, intuitive API, making it easy for developers to get up and running quickly with deep learning applications.
-Easily creates neural network models and implements deep learning algorithms using Natural Language Processing (NLP).
-It features excellent documentation that showcases functions in an organized and sequential manner.
-It offers deep learning models with their pre-trained weights. These models can be used to extract features or to make predictions.
-You can either use a single GPU or multiple GPUs to train the models.
-Cons
-
-Keras may face low-level backend errors while performing unsupported operations.
-The data-processing tools are less efficient than other packages, such as scikit-learn.
-It does not have features for dynamic chart creation.
-It consumes more time in computation than its backends.
-Codebase is abstracted away from the user. Mistakes in neural network architecture can be hard to track down when using Keras.
-PyTorch vs. TensorFlow: Practical Differences
-We can make use of Python modules in Pytorch. In the code below, we use Python’s numpy module to create arrays and execute multiplication.
-
-
-TensorFlow has modules for various operations to perform. In the below code, we use “tensorflow” for multiplication.
-
-
-And that’s a wrap for PyTorch vs. TensorFlow vs. Keras. Let us now look at some commonly asked questions.
-
+On the Optical Activity of Ionized Tyrosyl Residues in Ovine Lutropin 
+
+Ovine lutropin is one of the glycoprotein hormones produced by the anterior pituitary gland. The hormone is composed of two non-identical subunits of similar size designated a and p. The primary structure of both subunits has been established [l -41. Lutropin acontains five tyrosyl residues (in positions 21, 30,41, 92 and 93) and five disulfides. Lutropin B contains two tyrosyl residues (in positions 37 and 59) as well as six disulfides. 
+The CD spectra of ovine lutropin and its subunits at neutral or acid pH have been studied in detail by several authors [5-101. Analysis of the far-ultraviolet CD spectra revealed the absence of significant amounts of a-helicity in the native hormone or isolated subunits. 
+~ 
+
+A recent report on the contributions of different chromophores to the nearultraviolet CD spectra of the intact homone shows significant tyrosyl contribu- tions (mainly those from the a subunit) to the 230 
+-240-nm region of the spectra and disulfide contributions (mainly those from the p subunit) to the region above 250 nm [lo]. 
+We have investigated the effects of tyrosine ionization on the nearultraviolet CD spectra of lutropin and subunits in an effort to learn more about the con- tribution of these residues to the CD spectra of the homone and subunits. 
+MATERIALS AND METHODS 
+
+Chemicals 
+Carboxypeptidase A (42.6 Ujmg) and B (101 U/ mg) were from the Worthington Biochemical Corporation (Freehold, New Jersey). N-a-Tosyl-L-lysyl-chloro-methane and L-1-tosylamide-2-phenylethylchloro-methyl ketone were from the Sigma Chemical Com- pany (St Louis, Missouri). 
+
+Hormones and Derivatives spectra were recorded at room temperature (25 -27 "C) 
+Ovine lutropin, its subunits and oxytocin were prepared by procedures previously described [l 1-151. The preparation and characterization of tri-atyrosyl-lutropin and nitro-oxytocin have been reported re-cently [16,17]. Tris(aminotyrosy1)lutropin was pre-pared by reduction of tri-atyrosyl lutropin according to the method of Sokolovsky et al. [18]. 
+Des-(92-96)-lutropin awas prepared as follows : equal amounts of carboxypeptidase A and B (in 10% LiCl, 0.04 M sodium borate) were mixed with equal amounts of N-a-tosyl-L-lysyl-chloromethane and L-1-tosylamide-2-phenylethyl chloromethyl ketone (in methanol) to give a 0.6 ratio (by weight) of inhibitors to enzymes and incubated at 37 "C for 30 min. An aliquot of the enzyme/inhibitor mixture was then added to 15 mg of lutropin a (in 1.0 ml of 10% LiC1, 
+0.04 M sodium borate) to give an enzyme/substrate ratio of 1/15 (by weight). The mixture was then in-cubated at 37 "C for 2 h. At the end of the incubation an aliquot was saved for amino acid analysis, and the mixture was chromatographed on a 1x 100-cm column of Sephadex G-100 equilibrated and eluted with 
+0.126 M NH4HC03. The fractions containing the a subunit were pooled and lyophilized. The recovery was 85 %. The extent of the carboxypeptidase reaction was determined by amino acid analysis of an aliquot of the unhydrolyzed reaction mixture. Recombination of subunits was performed and quantitated as pre-viously described [13,19]. 
+Bioassays 
+The assay of lutropin activity was based on the stimulation in vitro of testosterone production by collagenase-dispersed rat Leydig cells [20]. The assays were carried out as previously described [21,22] except that the cells were suspended in medium 199 instead of Krebs-Ringer bicarbonate buffer. Relative potencies and 95 % confidence limits were calculated by parallel- line assays [23] and are expressed in terms of the reference preparation from the National Institutes of Health, NIH-LH-S19 (1 Ujmg). 
+Spectroscopy 
+CD spectra were obtained using a Durrum-Jasco Model CD-SP dichrograph. Near-ultraviolet (330 -230 nm) CD spectra were determined at 25 k0.5 "C using quartz cells of 1 cm pathlength, protein concen-trations of 0.4-1.0 mg/ml, and scale settings of 2 x or 5 x differential dichroic absorbance (dA)/cm on the recorder chart. The near-ultraviolet CD spectra of lutropin /?were recorded using a pro-tein concentration of 0.2 mg/ml and a scale setting of 1x dA/cm. Far-ultraviolet (230-195 nm) using cells with pathlengths of 0.05 cm and 0.1 cm and protein concentrations of 0.1 -0.2 mg/ml. The scale setting was 5 x dA/cm. CD spectra are reported as mean residue ellipticity (in deg.cm2. dmol-') based on the polypeptide moiety only. The concentrations of lutropin or subunits were calculated from the ab- sorption spectra (corrected for light scattering) and the reported absorption coefficients [7]. The absorp- tion coefficients of des-(92-96)-lutropin aand des-(92-96)-lutropin a + lutropin 8 were calculated (based on tyrosine contributions) to be 4818 M-' cm-' and 8871 M-I cm-' respectively. 
+
+Absorption and difference spectra were obtained using a Cary 14 spectrophotometer. The ionization of tyrosyl residues was measured from the difference spectra (230-320 nm) of a solution of lutropin at a given pH and that of lutropin at pH 7.0. The spectra were recorded at room temperature, using quartz cells of 1.O cm pathlength and lutropin concentra-tions of l.Omg/ml. The difference spectra showed extrema at 245 nm and 295 nm. The number of ionized tyrosines and their apparent pK values were calculated using the molar absorption coefficient changes and methods described by Tachinaba and Murachi [24]. 
+All difference and CD spectra were recorded im- mediately after adding 1.0 ml of 100 mM buffer at the desired pH to 1.0 ml of the hormone or subunit solution in H2O. The following buffers were used: pH 7.0- 10.0, Tris-C1; pH 10.5-11.5, triethylamine- C1; pH 12.0- 13.6, NaOH. 
+Other Methods 
+The fractional amounts of a-helix and 8-structure in the different preparations of lutropin and subunits were calculated by a least-square fit of the mean-resi- due ellipticity at 3-nm intervals between 210 nm and 243 nm, using the reference spectra of Grosse et al. 
+[25] with a computer program kindly provided by Dr L. A. Holladay (Vanderbilt University, Nashville, Tennessee). 
+RESULTS 
+Characterization of Hormone Derivatives 
+Table 1 shows the amino acids released upon car-boxypeptidase digestion of lutropin a. The amino acids released are those expected from the known carboxyl- terminal sequence of lutropin a [1,3] with the excep- tion of the release of arginine. The latter indicates some tryptic-like internal cleavage in spite of the use of trypsin inhibitors to treat the carboxypeptidase enzymes. The amino acids in Table 1 are presented in the order in which their release is expected according to the amino acid sequence. 
+M. Ascoli, D. N. Ward, and B. Jirgensons 
+Table 1. Amino acids released from ovine lutropin c( by hydrolysis with carboxypeptidases A and B 
+Results are corrected for 12% moisture content 
+Amino acid  Amount released in preparation -~  
+1  2  
+mol/mol lutropin DL  
+Serine Lysine Histidine Tryosine Arginine  0.91 0.63" 0.85" 1.98 0.51  0.46b 0.88" 0.71a 1.87 0.14  
+
+a These values are probably low estimates due to a baseline anomaly in the lysine-histidine area of the chromatogram. The low serine value in this preparation is probably due to the C-terminal heterogeneity of some lutropin ci preparations [I 61. 
+As previously shown by Chyg et al. [8] it was found that removal of the C-terminal pentapeptide of lutropin a does not affect its ability to recombine with lutropin p. The yield of recombination of lutro- pin a + lutropin fl and des-(92-96)-lutropin a 
++ lutropin p was 76% in both cases. 
+In a previous report from this laboratory it was shown that in tri-atyrosyl lutropin tyrosines a21, a92 and a93 are nitrated in such a way that they react to produce either an unidentified derivative or 3-nitrotyrosine [16]. This derivative was reduced with sodium hydrosulfite to yield tris(aminotyrosy1)lutro-pin. Amino acid analysis showed that the reduction was complete, as judged by the absence of nitrotyro- sine. 
+The ability of these derivatives to stimulate testo- sterone production in collagenase-dispersed rat Leydig cells is shown in Fig. 1. Only lutropin and the a+p recombinant produced a response over the range of hormone concentrations tested. The calculated po-tencies of native lutropin and the a+ p recombinant are 2.31 (1.77-3.03) U/mg and 0.83 (0.64-1.02) U/mg respectively. The potencies of the other three derivatives cannot be calculated from the data shown. It is safe to conclude, however, that they retain less than 2% of the biological activity of the native hor- mone. 
+These results confirm previous reports from this 
+[17] and other laboratories [8] on the importance of tyrosines a21, a92 and a93 (especially the last two) on the expression of the biological activity of lutropin. 
+CD of Lutropin and Derivatives 
+in Alkaline Solutions 
+Fig. 2 shows the near and far-ultraviolet CD spectra of lutropin at different alkaline pH values. It can be seen that when the pH is raised above 7.5, a 
+50 
+, 
+01 10 100 Hormone (ng) 
+Fig. 1. Dose-response curves for lutropin (O), tri-afyrosyl lutropin (o),tris(aminotyrosy1)lutropin (o),lutropin (x + lutropin fi recom-binant (m) anddes-(Y2-96)-lutropin CI + brecomhinant (A). Each point represents the average of two different samples. The bars extend to the individual values of these samples 
+new band, centered at 248 -250 nm, appears, and the band centered at 235 nm vanishes. The negative band centered at 280 nm is red-shifted by 5-10 nm, and its intensity is slightly reduced. The left panel in Fig. 2 shows that these changes are not accompanied by any significant changes in the secondary structure of the hormone. The effects of alkali on the near-ultra- violet CD spectra of lutropin are similar to those reported for ribonuclease A [26] and seem to arise from the absorption bands of ionized tyrosyl residues. 
+The changes in the 250-nm band as a function of pH, as well as the ionization of tyrosyl residues of ovine lutropin, are shown in Fig.3. The ellipticity at 250 nm shows a marked increase between pH 8 and pH 10, followed by a plateau between pH 10.5 and pH 12, and a sharp decrease above pH 12. The mid- point of the first transition occurs at pH 9. The pH- dependent changes observed up to pH 11 occurred immediately after addition of buffer, did not change with time and were totally reversible. Above pH 12, however, the pH-dependent changes were time depend- ent and only partially reversible. At these pH values both the 250-nm and 280-nm bands decreased in intensity as the time of exposure increased, and the far-ultraviolet spectra became less negative. These results are probably due to the dissociation of the hormone observed at pH 11-12 [27]. The spectro-photometric titration of the tyrosyl residues of ovine lutropin is also shown in Fig.3. It can be seen that the increase in ellipticity at 250 nm correlates well with the ionization of 2-3 exposed tyrosyl residues. Ana- lysis of the titration data indicates the presence of 
+
+
+3.4 exposed tyrosyl residues with an apparent pK of 
+
+9.9 and 3 buried residues with an apparent pK of 11.8. 
+0-
+-1 -
+
+150 
+-2 -
+-
+-a 
+. -3-
+m 9 
+-4 -
+-5 -
+-6 -
+1 
+Fig.2. Effect of alkaline pH on the CD spectra qf ovine lulropin. (-50 mM Tris-C1, pH 9.5; (......) 50 mM NaOH, pH 12.8 
+150 
+I 100 
+%
+i --a 0 
+50 
+0 
+--A 
+07 
+7 8 9 I0 11 12 13 14 
+PH 
+Fig.3. Spectrophotometric titration of'the tyrosyl residues of ovine lutropin. The number of ionized tyrosyl residues was determined from (H)or AAzs5 (0)as described in Materials and Methods. The value of [&50 (A)as a function of pH is also shown 
+These results are in good agreement with the titration data and thermal perturbation studies of Garnier etal. [28]. 
+Based on the reactivity of the tyrosyl residues to tetranitromethane, it was concluded in a previous report from this laboratory [16] that the three exposed tyrosyl residues of ovine lutropin are a21, a92 and a93. The data shown in Fig.2 and 3, suggest that the 250-nm band observed in the CD spectra of alkaline solutions of ovine lutropin is due mainly to the 245-nm 
+
+I 
+I 
+240 260 280 300 320 X (nm) 
+
+~)50 mM Tris-Cl, pH 7.5; (-----) 50 mM Tris-C1, pH 8.5; (-.-.) 
+absorption band resulting from the ionization of these residues. 
+It is well established that the phenolic group of nitrotyrosine has a lower pK than that of tyrosine, and that reduction of the nitro group returns this pK toward normal values [ls]. If the 250-nm band arises from the ionization of the exposed tyrosyl residues, the magnitude of this band, at neutral pH should be higher in tri-atyrosyl lutropin (in which tyrosines a21, a92 and a93 are nitrated) than in native lutropin. Moreover, the magnitude of the 250-nm band should return to normal upon reduction of the nitrotyrosyl residues to aminotyrosine. The data shown in Fig.4 indicate that this is the case. 
+CD spectra (not shown) obtained at pH 9.5 showed that the intensity of the 250-nm band of tri-atyrosyl lutropin is 1.4 times greater than that of lutropin. This result is consistent with the relative degree of ionization of nitrotyrosyl and tyrosyl residues at this 
+PH. In order to make this conclusion, however, it is necessary to know if the ionized nitrotyrosyl residues are optically active in this region of the spectra. This was shown by comparing the CD spectra of oxytocin (a disulfide-containing cyclic nonapeptide with a single tyrosyl residue in position 2) and its fully nitrated derivative at neutral and alkaline pH. The results shown in Fig. 5 A show the expected [29] red shift of the 228-nm tyrosyl band produced by the ionization of the tyrosyl residue. The data shown in Fig. 5 B show that the ionized nitrotyrosyl residue is also optically active in the 240 -250-nm region of the 
+M. Ascoli, D. N. Ward, and B. Jirgensons 
+0
+J 
+
+1 50 
+100 
+-50 W 
+I 
+
+0 
+-50 
+-100 
+200 220 : 
+Wavelength,X (nrn) Fig.4. CD spectra oj native lurropin (-----), rri-atyrosyl lurropin ( 
+I I ) 240 260 Wavelength, A (nm) 
+
+f  I  I  I  I  
+240  260  280  300  320  
+X (nm)  
+
+.--) and tris(aminotyrosy1)lutropin (-.--.) in 50 mM Tris-Cl,pH 7.5
+~ 
+10 
+0 
+8-
+
+-6--a N 
+'g 4-
+2-
+220 240 260 
+X (nm) 
+
+Fig. 5. Effect ofalkalinepH on the near-ultraviolet CD spectra uj oxytocin andnitro-oxytocin. (A) Oxytocin in 50 mM Tris-CI, pH 7.5 ( __ ); 50 mM Tris-C1, pH 9.5 (-.-.); 50 mM NaOH, pH 12 (------). (B) Nitro-oxytocin in 50 mM Tris-C1, pH 7.5 (---); SO mM Tris-CI, 
+pH 10.0(-----) 
+spectra. Due to the lower pk: of nitrotyrosine [18] the intensity of the 245-nm band of nitro-oxytocin is maximal at pH 10. That of oxytocin reaches a maxi-mum at pH 12. 
+CD of Lutropin Subunits and Derivatives in Alkaline Solutions 
+
+Fig.6 shows the effect of alkali on the CD spectra of lutropin M and des-(92-96)-lutropin a.The CD spectra of des-(92-96)-lutropin M confirms the data of Cheng et al. [8], who showed that removal of the C-terminal pentapeptide of bovine thyrotropin CI (whose sequence is identical to that of ovine lutropin M) produces a 50-60 % decrease in the intensity of the 232-nm band and has no effect on the ellipticity above 240 nm. The data also show that the effect ofpH on the CD spectra of this subunit is qualitatively similar to that on the spectra of native lutropin. The pH values at which the intensity of the 250-nm band is maximal, however, are shifted compared to those of native lutropin. This finding correlates well with the expected 
+0 
+-2 
+-
+a
+-
+--4 
+0 
+0 
+-6 
+-a 
+200 220 
+0 
+-2 
+
+-400 ~. 
+I
+".a -4 
+0 
+
+-200 -
+-a, 
+-6 
+
+0-
+-a -I I I 1-
+200 220 2h0 260 280 300 
+Wavelength, A (nm) X (nm) 
+Fig.6. CDspectra of lutropin a (upperpariels) antld~~s-(92-96)-lutropin a (lowerpanelsj. (---) 50 mM Tris-C1, pH 7.5;(-----) 50 mM Tns-CI, pH 9.5; (-.-.) 50 mM NaOH, pH 12.8 
+0 
+-1 
+-2 0 
+-3 -20 
+-
+a,
+I 
+0 -4 -40 
+0 
+-
+-5 a -60 
+I 
+-6 -ao 
+-7 -100 
+I 
+-a 
+
+-120 I I 280 300 320
+240 260 I I 200 220 i 
+Wavelength,X (nrn) X (nm) 
+
+Fig.7. CD spectra of'lutropin 8. ( __ ) 50 mM Tris-C1, pH 7.5; (---.-) 50 mM Tris-C1, pH 9.5; (-.-.) 50 mM NaOH, pH 12.8 
+M. Ascoli, D. N. Ward, and B. Jirgensons 
+~ 
+
+100II 
+200 220 240 260 280 300 320 
+X (nrn) X (nm) 
+100 -
+-
+-a -2 -
+~ 
+a 
+
+I 
+0 
+I
+-4 
+
+-100 I I I 1 
+200 220 240 260 280 300 320 
+Wavelength ,X(nrn) X (nm) Fig. 8. CDspectraof the lutropinil + lutropin flrecomhinant (upperpanels) and thedes-(92- 96)-lutropinfi recombinant (lowerpanels). (-----) 50 mM Tris-C1, pH 7.5; (-----) 50 mM Tris-C1, pH 9.5; (-.-.) 50 mM triethylamine-C1, pH 11.6 
+higher apparent pK of the tyrosyl residues of lutropin a [28]. The intensity of the 250-nm band (at pH 12.8) of des-(92-96)-lutropin a is about 60% of that of lutropin a.This finding supports our conclusion that the ionization of tyrosines a92 and a93 is partially responsible for the appearance of the 250-nm band observed at alkaline pH. 
+The CD spectrum of alkaline solutions of lutropin p is shown in Fig.7. Since lutropin p does not have positive ellipticity in the near ultraviolet, the results are very different from those obtained for native lutropin or lutropin a.At pH 9.5 a red shift is produced in the 280-nm band, and at higher pH values the ellipticity below 270 becomes more negative. 
+CD of Refolded Lutropin and Derivatives 
+Fig.8 shows the CD spectra of the recombined lutropin and the product obtained by recombination of des-(92-96)-lutropin a and lutropin p. A compar-ison of the CD spectra of these two products reveals that while the intensity of the 280-nm band of the des- (92-96)-lutropin a+lutropin p recombinant is about 90% of that of the a + recombinant, the intensity of the 235-nm band is only about 34%. The effect of alkali on both recombinants is qualitatively similar. The ratios of the intensity of the 250-nm band at pH 9.5 and 11.6 of the des-(92 -96)-lutropin a + lutropin p recombinant to that of the lutropin a + lutropin p recombinant are 0.66 and 0.35 respectively. These results confirm the involvement of the ionization of tyrosines a92 and a93 in the appearance of the 250-nm band in alkaline solutions of native lutropin. 
+
+Table 2. Estimated content of secondary strurture of ovine lutropin, subunits and derivatives All samples in 50 mM Tris-C1, pH 7.5. ,b,fp are the fractional contents of a-helix and b-structure. See Materials and Methods for details. The average deviation records the differences between the calculated and experimental spectra at 3-nm intervals from 210 nm 
+to 243 nm  
+Sample  fa  fp  Average deviation  
+deg.cm2.dmol-'  
+Lutropin  0.04  0.31  452  
+Tri-atyrosyl lutropin  0.05  0.29  396  
+Tris(aminotyrosy1)- 
+lutropin  0.05  0.29  23 3  
+Lutropin a  0.04  0.31  293  
+Des-(92-96)- 
+lutropin a Lutropin fi  0.06 0.03  0.27 0.32  188 450  
+a+b  0.05  0.28  237  
+Des-(92-96)-lutropin OL +fl  0.06  0.24  251  
+
+Far- Ultraviolet CD Spectra of Lutropin, Derivatives and Subunits 
+
+The effects of mild alkali on the far-ultraviolet CD spectra of lutropin, derivatives and subunits were minor or absent (Fig.2, 4-7), indicating that the changes observed in the near-ultraviolet CD spectra occur without significant changes in the main chain conformation of these compounds. Table 2 summa-rizes the far-ultraviolet CD data of the lutropin deri- vatives used. The estimated fractional amounts of a-helix and p-structure are very similar or identical for native lutropin and its two derivatives, as well as the a + p recombinant. The only difference detected (although minor) is between des-(92-96)-lutropin a and lutropin u, as well as between the recombinant obtained using this derivative or the ‘native subunits’. In both cases the amount of p-structure seems to be lower for the subunit derivative. The estimated values of & and fa (the fractional contents of a-helix and p-structure) shown in Table 2 are in good agree- ment with those of Garnier et d. 1281, but higher (especiallyfa for the subunits) than those of Holladay and Puett [lo], who recorded the spectra in the pres- ence of 6”/, dioxane. Calculations of fa and fp using the reference spectra of Chen et aZ. [30] gave essentially the same results. The uncertainties in the estimation of fractional amounts of secondary structure in such non-helical proteins as lutropin appear to be so large that thefa values reported in Table 2 have only a rela- tive significance, indicating approximately the same low content of ordered structure in the various prep- arations used. 
+DISCUSSION 
+The effects of alkali on the near-ultraviolet CD spectra of ovine lutropin seem to arise entirely from the ionization of tyrosyl residues, mainly those that are exposed to the solvent (ie.,tyrosines a21, a92 and N93). 
+Our laboratory reported [31] that phospholipid induced a strong CD effect for lutropin in the 240 
+-250-nm region at pH 9- 9.9. The present studies, in part, were planned to extend these observations to interactions with isolated hormone receptors. It soon became apparent that the effects previously described 
+[31] could be ascribed to a pH effect rather than a phospholipid effect, and that we had been misled by an operational artefact in the earlier studies. This resulted from the use of a volatile base in the pH ad- justment of our control samples in that study, which introduced an undetected downward shift of approx- imately 0.5 pH unit prior to measurement of the CD spectra. Thus, we wish herewith to set the record straight with respect to the earlier study. 
+Pflumm and Beychok [26] have reported that the 225-nm band of N-acetyltyrosineamide is red shifted (to 240nm) upon ionization of the phenolic group. The intensity of the 240-nm tyrosinate band is essen-tially the same as that of the 225-nm tyrosine band. Similar results have been obtained with Gly-Tyr-Gly and cystinyl-bis-tyrosine (Ascoli, Ward and Jirgen-sons, unpublished). Ionization also produces a red shift in the long-wavelength band of tyrosine-contain-ing compounds [32]. 
+Ionization of the exposed tyrosyl residues of native lutropin results in the appearance of a strong band centered at 250 nm and a red shift in the 280 nm band. The appearance of the 250-nm band seems to arise mainly from the ionization of tyrosyl residues in the u subunit, and the red shift of the 280-nm band from the ionization of the tyrosyl residues in the p subunit. 
+
+It was shown in a previous report from this labora- tory that isolated lutropin a has four exposed tyrosyl residues (in positions 21, 41, 92 and 93) and one buried (in position 30). The two tyrosyl residues in isolated lutropin (tyrosines p37 and p59) are also exposed [16]. Several reports from other laboratories [7,10,28] have concluded, using different kinds of spectroscopy, that some tyrosyl residues become buried when the subunits associate to form the active homone. Burleigh et al. [16] have shown that in the native hormone, only tyrosines a21, a92, and a93 are exposed to the solvent; tyrosines a41, p37, and p59, which are exposed in the isolated subunits, are buried in native lutropin. 
+Some of these residues give rise to the 235-nm band of ovine lutropin, which seems to arise mainly from tyrosine transitions [10,28]. From the data of Cheng et al. [8], as well as those presented here, it is safe to conclude that tyrosines a92 and a93 contribute to this band. It has also been postulated that tyrosines a21 and a30 contribute to the 235-nm band [10,33]. Based on the data available for model compounds and those presented here, it is concluded that the 250-nm band observed in alkaline solutions of lutropin arises from the red shift of the 235-nm band produced by ionization of the exposed tyrosyl residues. It is not known if the 235-nm band disappears completely upon ionization of the three exposed tyrosyl residues, we can only say that its intensity is greatly reduced. Our results, however, support the involvement of tyro-sines u21, a92, and u93 in generating optical activity in this region of the CD spectra of ovine lutropin. 
+The intensity of the tyrosinate band in this hormone is much greater than that expected from model com-pounds. This could result from one or more of the following mechanisms: (a) summation of the tyro-sinate band with the short-wavelength band of the disulfides which, according to the resolved spectra of Holladay and Puett [lo], is positive and centered at 250 nm; (b) alteration in the orientation of the tyrosyl residues and/or alteration of the optical activity of the disulfide bond adjacent to tyrosine a92; and (c) enhancement of the intensity of the optical activity of tyrosinate cr21 by the presence of phenylalanine a22. It is worth noting that the first two mechanisms could also explain the increased intensity of the tyrosinate band of oxytocin. The results presented might be helpful in understanding the contribution of specific tyrosyl residues to the 235-nm band of ovine lutropin. First, it is worth noting that we have confirmed the observations of Garnier et al. [28] on the variability of the intensity of this band. We have observed that 
+M. Ascoli, D. N. Ward, and B. Jirgensons 
+the intensity of the 235-nm band ranges from 40 
+
+-135 deg .cm2.dmol-in different lutropin prepara- tions with similar (or identical) biological potencies. The intensity of this band (in native lutropin and lutro- pin a) is also increased by lowering the temperature or in the presence of guanidine (D. Puett and L. A. Holla-day, personal communication) or urea [6]. The in-crease in intensity of the 232-235-nm extremum of lutropin 01 produced by denaturants does not seem to be accompanied by a decrease in the amount of sec-ondary structure of the subunit, but it correlates with the exposure of tyrosine 30, which is buried in the ‘native subunit’ [16]. Therefore, it seems that this band has contributions from exposed (ie.,tyrosines 1x21,a92, and 0193) as well as buried (Le., tyrosine a30) tyrosyl residues. 
+It was previously pointed out [28] that it is in this region of the spectra where the only difference between the native hormone and the a + p recombinant is ob- served. We have confirmed this observation (compare Fig. 1 and 8). Since some of the tyrosyl residues that are very important in the expression of the biological activity of lutropin seem to contribute to this band (ie.,tyrosines a92 and a93), it is quite possible that the failure to recover 100% of the biological activity of the native hormone upon recombination of the isolated subunits is due (at least partially) to the in- correct orientation of these residues. 
+Supportedby GrantsG-051andG-147from the Robert A. Welch Foundation and Research Grant AM-09801-1 1 from the Institute for Arthritis, Metabolism and Digestive Disease, National Insitutes of Health; United States Public Health Service. It is a pleasure to thank Drs Wan-Kyng Liu and Bruce D. Burleigh for providing us with the tri-atyrosyl lutropin, tris(aminotyrosyl)lutropin, and nitro- oxytocin preparations, and Mr Joel Willard for the amino acid ana- lyses and assistance with the carboxypeptidase studies. We also wish to thank Dr Leslie Holladay for the computer program used to calculate & and jp, and Dr David Puett for communicating results to us prior to publication. 
