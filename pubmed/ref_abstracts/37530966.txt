@@ -1,0 +1,11 @@
+Purpose
+Vascular endothelium plays a central role in the pathogenesis of acute and chronic radiation injuries, yet the mechanisms which promote sustained endothelial dysfunction and contribute to late responding organ failure are unclear. We employed 2nd window (> 1100 nm emission) Near-Infrared (NIR) imaging using indocyanine green (ICG) to track and define the role of the notch ligand Delta-like ligand 4 (Dll4) in mediating vascular injury in two late-responding radiosensitive organs: the lung and kidney.
+
+Procedures
+Consomic strains of female Salt Sensitive or SS (Dll4-high) and SS with 3rd chromosome inherited from Brown Norway, SS.BN3 (Dll4-low) rats at ages 11–12 weeks were used to demonstrate the impact of reduced Dll4 expression on long-term vascular integrity, renal function, and survival following high-dose 13 Gy partial body irradiation at 42- and 90 days post-radiation. 2nd window dynamic NIR fluorescence imaging with ICG was analyzed with physiology-based pharmacokinetic modeling and confirmed with assays of endothelial Dll4 expression to assess the role of endogenous Dll4 expression on radiation injury protection.
+
+Results
+We show that SS.BN3 (Dll4-low) rats are relatively protected from vascular permeability disruption compared to the SS (Dll4-high) strain. We further demonstrated that SS.BN3 (Dll4-low) rats have reduced radiation induced loss of CD31+ vascular endothelial cells, and increased Dll4 vascular expression is correlated with vascular dysfunction.
+
+Conclusions
+Together, these data suggest Dll4 plays a key role in pathogenesis of radiation-induced vascular injury to the lung and kidney.
