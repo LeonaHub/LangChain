@@ -1,0 +1,140 @@
+1. Introduction
+Collagen is a very important structural protein, accounting for nearly 30% of proteins in vertebrates, which has a triple-helical structure of Gly-Xaa-Yaa repeating unit (
+Liu, Nikoo, Boran, Zhou, & Regenstein, 2015
+). The collagen molecule consists of three chains forming a triple-helical structure, and the triple helix is stabilized by intramolecular hydrogen bonds between the hydroxyl groups of hydroxyproline (
+Nagai, Kobayashi, Katayama, & Munekata, 2009
+). Currently, collagen or gelatin has been widely used in food, pharmaceuticals and cosmetics, as well as in drug delivery, skin substitutes and cell attachment substrates (
+Zou et al., 2017
+).
+
+Collagen is normally extracted from terrestrial animals such as pig and cattle (
+Gómez-Guillén, Giménez, López-Caballero, & Montero, 2011
+). However, the use of these collagens in pharmaceutical and cosmetic applications are not always safe because of the risk of transmitting diseases such as mad cow disease and foot-and-mouth disease to humans (
+Yang, Li, Song, Wang, & Qian, 2016
+). In addition, many Muslims and Jews do not consume pig-derived food products, and many Hindus do not consume cow-derived products (
+Yamamoto, Uemura, Sawashi, Mitamura, & Taga, 2016
+). Therefore, more and more investigators pay their attention to the collagen derived from aquatic species and their by-products such as collagen-rich skins, bones and scales for utilization (
+Abdollahi, Rezaei, Jafarpour, & Undeland, 2018
+).
+
+The soft-shelled turtle (Pelodiscus sinensis, SST), is a commercially important aquatic species in Asian countries due to its high nutritional and medicinal values (
+Li et al., 2007
+, 
+Nagai et al., 2009
+, 
+Yamamoto et al., 2016
+, 
+Zou et al., 2017
+). Soft-shelled turtle calipash, which has been determined to have the highest concentration and purity of collagen, could be a good source of collagen for pharmaceutical and cosmetic applications (
+Liao et al., 2018
+). SST is widely distributed in China and has been farmed for many years. In 2020, the annual production of SST in China exceeded 332, 000 tons. Thus, collagen from calipash is a potential good alternative to animal collagens. However, few studies have been reported on quality control of calipash and its products.
+
+Most recently, mass spectrometry (MS)-based proteomics and peptidomics have proven to be an excellent strategy for the classification and identification of species-specific peptide biomarkers. Based on our previous work (
+Cai et al., 2021
+, 
+Han et al., 2022
+, 
+Liu et al., 2019
+), a combination of mathematical set analysis, statistical and bioinformatics analysis can identify peptide biomarkers specific to calipash and its products. In addition, we found that common post-translational modifications (PTMs) in gelatin peptide biomarkers are hydroxylation on Pro and deamidation on Gln or Asn. Since PTMs can cause collagens to differ in amino acid sequences from those translated from their genes (
+Han et al., 2021
+), this could help us to have more options when using peptide biomarkers to identify calipash and its products.
+
+In this work, PTM detection-based peptidomics analysis of SST gelatin (STG) extracts from calipash were performed to identify seven specific peptide biomarkers from collagen type I (COL1), and the discovered peptide biomarkers were validated using multiple-reaction monitoring (MRM), with which specific peptide biomarkers could be detected exclusively in STG sample. This work provided an efficient strategy for precise quality control of collagen and its products from SST with authenticity and traceability.
+
+2. Materials and methods
+2.1. Materials and sample preparation
+LC-MS grade formic acid, acetonitrile (ACN) and methanol (MeOH) were purchased from Thermo Fisher Scientific (Waltham, MA, USA). Water was prepared by Millipore’s Milli-Q Gradient A10 system (Schwalbach, Germany) for all buffers and other solutions, including LC eluents. All other chemicals and reagents were of the highest grade available. Trypsin (sequencing grade) was obtained from Promega (Fitchburg, WI, USA). Thirteen skin, tissue or commercial gelatin samples, including five turtle gelatin, two deer gelatin, two donkey gelatin, two cattle gelatin and two pig gelatin were collected from the medicinal materials market (Bozhou, Anhui, China). Gelatin was prepared in-house by soaking skin, tissue or shell pieces in 1% Na2CO3 solution for 30 min at 70 °C and then decocted in water for 4 h at 120 °C, then the extract was concentrated and lyophilized. Five SST calipash samples were cut into pieces and decocted in water for twice with eight quantities of water for 8 h, then the extract was concentrated and lyophilized.
+
+A 50 mg dried and powdered gelatin sample was transferred to a 5-mL centrifuge tube and sonicated in 1% (v/v) NH4HCO3 solution for 30 min. The sample was then centrifuged at 16,000 × g for 15 min at 4 °C and the supernatant was collected. Protein concentration was determined by the bicinchoninic acid (BCA) method according to the manufacturer’s instructions. The sample was digested overnight by adding trypsin at a trypsin-to-protein mass ratio of 1:100, and then the peptide mixture was desalted and dried by vacuum centrifugation.
+
+Eight identified species-specific peptides (Pep-P1–Pep-P8) were chemically synthesized by GenScript Corporation (Nanjing, China) and their species are shown in 
+Table 1
+.
+
+Table 1. Amino acid sequences and MRM transitions of STG-specific peptide biomarkers. Q1 stands for precursor ion, Q3 stands for product ion. DP and CE stand for the optimized decluttering potential and collision energy values of selected Q1 and Q3 MRM transitions, respectively. RT stands for retention time of each peptide biomarker.
+
+2.2. Nano-LC-MS/MS analysis
+All digested gelatin samples were analyzed using a Dionex Ultimate 3000 nanoLC system (Thermo Scientific) coupled to a Q Exactive Plus quadrupole-Orbitrap mass spectrometer (Thermo Fisher Scientific, San Jose, CA). One microliter of each sample was directly injected in 0.1% formic acid and separated at a flow rate of 300 nL min−1 on a lab-fabricated reverse phase capillary column (75 μm × 15 cm, particle size 1.7 μm, pore size 150 Å). The gradient elution procedure was as follows: solvent B increased from 5% to 20% (0.1% FA in 98% acetonitrile) in 42 min, from 20% to 25% in 5 min, from 25% to 35% in 5 min, then to 80% in 4 min and remained 80% for the last 4 min.
+
+Data-dependent acquisition in positive mode alternated between one MS scan, and MS/MS scans were performed for the top 20 most abundant precursor ions after a single MS scan with the normalized collision energy set to 30. The isolation width for dissociative tandem mass spectrometry analysis was set to 2.0 Da, which was done above a threshold ion count of 10,000 in the MS survey scan with 30.0 s dynamic exclusion. The electrospray voltage was 2.0 kV. Automatic gain control was used to prevent overfilling of the ion trap, and MS/MS spectra were generated by accumulation of 50,000 ions. The m/z scan range was 350 to 1800 for MS scans and 200 to 2000 for MS/MS scans, respectively.
+
+2.3. Database searching and peptide identification
+The resulting MS/MS data were analyzed using Peaks Studio Software (8.5 Edition, Bioinformatics Solutions Inc., Waterloo, Canada). Tandem mass spectra were searched against Uniprot_Laurasiatheria database (downloaded on the October 6th, 2022). Peptide profile matches were validated against q-values using percolator achieve to 1% FDR (false discovery rate). Trypsin was chosen as the enzyme and two missed cleavages were allowed. Hydroxylation of Pro (+15.99) and deamidation of Gln and Asn (+0.98) were designated as variable modifications. All other parameters were set by default, fragment ion tolerance was set to 0.02 Da and maximum precursor ion tolerance to 10 ppm. Identified peptides were filtered with FDR less than 1% at both the peptide and protein levels.
+
+2.4. Discovery of STG-specific peptide sequences
+STG-specific peptide sequences were selected using mathematical analysis according to the previous method with slight modification (
+Liu et al., 2019
+). All identified peptides in each STG sample were defined as Set 1, 2, 3, etc., and then the intersection Set of STG samples can be taken and defined as Set I; peptides identified in other samples were defined as sets (1), (2), (3), etc., and the union of all these sets were made and defined as Set II. Peptides could be obtained from Set I by excluding the peptides present in Set II, were selected as potential specific peptides, and their amino acid sequences might be showed STG-specificity.
+
+Then the selected STG-specific peptide sequences were verified the uniqueness of their amino acid sequences using Basic Local Alignment Search Tool (BLAST) search. Peptide sequences were then validated by nano-LC MS/MS. Gelatins were extracted from five SST (STG), five turtle shell (turtle gelatin, TG), two cattle skin (cattle-hide gelatin, CHG), two deer skin (deer-hide gelatin, DHG), two donkey skin (donkey-hide gelatin, ACC) and two pig skin (pig-hide gelatin, PHG), digested and analyzed using the protocol in section 2.2. A self-constructed database of homologous peptide sequences from different species, including soft-shelled turtle, turtle, cattle, deer, donkey, pig and fish, was built. The obtained MS/MS spectra were searched against this database, and the searching parameters were set according to section 2.3. Peptide sequences detected exclusively in each STG samples were selected as STG-specific peptide sequences.
+
+2.5. PTM detection-based discovery of STG-specific peptide biomarkers
+The MS/MS spectra of STG samples were further searched against a homemade database (only containing STG-specific peptide amino acid sequences) with hydroxylation (+15.99) on Pro and Lys, deamidation (+0.98) on Gln/Asn set as PTM parameters. All the number and sites of hydroxylation, deamidation were analyzed, and all of the possible PTM types of STG-specific peptide sequences were detected. Finally, the signal intensities and fragmentation information of different PTM types of peptides were compared, and STG-specific peptide biomarkers with certain PTMs were selected.
+
+2.6. Verification of peptide biomarkers
+After verification by nano-LC MS/MS, eight specific peptide biomarkers were synthesized and then verified using LC-QQQ MS. A Shimadzu Nexera UPLC LC-20A system (Shimadzu, Kyoto, Japan) and a QTRAP 5500 Plus mass spectrometer (Applied Biosystems, Foster City, CA, USA) were operated in positive ion mode coupled with an ESI source. An Acquity UPLC C18 column (2.1 mm × 50 mm, 1.7 μm) was used in conjunction with an Acquity UPLC BEH Amide VanGuard pre-column (1.7 μm) for chromatographic separation. 0.1% FA aqueous solution (A) and 0.1% FA in ACN (B) composed the mobile phases. Samples (1 μL each) were separated by gradient elution with 5%-20% B for 0–3.5 min and 20%-50% B for 3.5–4 min at a flow rate of 0.3 mL min−1. The column was maintained at 35 °C. The eluate was directed to the mass spectrometer for analysis.
+
+MS Analyst software version 1.5.2 was used to control the UPLC-MS/MS system. The ESI source parameters were set as: ion source temperature, 500 °C; ionization voltage, 5,500 V; desolvation temperature, 500 °C; curtain gas pressure, 40 psi; ion source gas 160 psi; ion source gas 260 psi. The detection of peptide biomarker was performed in multiple-reaction monitoring (MRM) mode. 
+Table 1
+ summarizes the optimized collision energy (CE) and decluttering potential (DP) values for the selected MRM transitions of Q1 and Q3.
+
+3. Results and discussion
+3.1. Identification of proteins and peptides from STG
+To identify proteins in STG, tryptic digests from STG extracted solution was analysed using a nanoLC Q Exactive Plus quadrupole-Orbitrap mass spectrometer. Our main goal was to comprehensively identify tissue-specific proteins and peptides in highly processed STG. 16 to 23 proteins were identified from five STG samples, of which 13 to 18 proteins were identified as collagen or collagen-associated proteins, and Collagen type I α1 chain (COL1A1) and α2 chain (COL1A2), as well as Collagen type III α1 chain (COL3A1) were identified with high coverage (
+Table S1
+). 849–1512 peptides were identified from five STG samples, and over 75% of all peptides identified in each STG sample were from COL1A1, COL1A2 and COL3A1. Thus, the majority of the peptides in the STG samples were derived from collagen. Collagens are highly conserved proteins characterized by an uninterrupted Gly-Xaa-Yaa triplet repeat that gives them a triple helical structure, and find specific peptides from collagen-derived peptides is not an easy work. Therefore, In this work we used an exclusion method to screen and discover STG-specific peptide.
+
+3.2. Selection of STG-specific peptide sequences
+To screen out peptides that would definitely appear in the STG samples, we first imported peptides from STG-1 to STG-5 into Venn diagram analysis, as shown in 
+Fig. S1
+, 358 peptides were found in STG. Then the peptides in TG, CHG, DHG, ACC and PHG digested samples were analyzed by nanoLC-MS/MS and combined all the identified peptides into a total of 15,240 peptides. As shown in 
+Fig. 1
+, 263 peptides could be obtained from the 358 peptides of the STG (Set I) by excluding the peptides present in 15,240 non-STG samples (Set II), which were screened as potential peptide biomarkers.
+
+To further select reliable peptide sequences from the above results, the filter parameters were set as follows: (i) peptides should be cleaved in a tryptic manner to ensure that peptides are cleaved between trypsin cleavage sites; (ii) peptides with same sequences but different PTMs sites should be considered as an independent sequence; (iii) the most important filter parameter is that the peptide sequences in BLAST search should be unique among all species. Among the 263 peptides in the target set, the sequences of 180 peptides were obtained after removing peptides with identical sequences but different modifications. Then, 76 peptide sequences were selected that matched the trypsin cleavage mode. Finally, 16 peptide sequences were selected by BLAST as specific peptide sequences for STG (
+Table S2
+).
+
+3.3. Verification of STG-specific peptide sequences
+We used nanoLC-MS/MS to verify the specificity of selected peptide sequences. Five STG, five TG, two CHG, two DHG, two ACC and two PHG samples were digested according to the protocol in section 2.2. MS/MS spectra obtained from various gelatin samples were then searched against a self-constructed database containing 16 STG-specific peptides and their homologous peptides from turtle, deer, bovine, donkey, pig, and fish. As shown in 
+Table S3
+, the STG-specific peptide sequences were exclusively detected in the STG samples. However, not all the 16 selected peptide sequences could be detected in each STG sample, as shown in 
+Fig. S2
+, where only 8 peptide sequences were detected in each STG sample (
+Table 1
+), then these sequences were compared with homologous peptides derived from other species using MEGA software. As shown in 
+Fig. 2
+, all these STG-specific peptide sequences showed good specificity.
+
+3.4. PTM detection-based discovery of STG-specific peptide biomarkers
+Collagen consists of repeating Gly-Xaa-Yaa triplets, and Pro is the most frequent amino acid at both the Xaa and Yaa positions, while Asn and Gln are frequently located at the Xaa position. Thus, hydroxylation of Pro and deamidation of Asn and Gln are PTMs abundant in collagen. Hydroxylation and deamidation could provide stabilizing effect on the collagen processed into gelatin. Changes in both Asn → Asp and Gln → Glu at the Xaa position result in increased stability. In this work, eight STG specific peptide sequences were detected, however, peptides with various PTM patterns could be detected, any of which could be considered as STG-specific peptide biomarkers.
+
+In addition to the hydroxylation of Pro and deamidation of Asn/Gln, we also found oxidation of Met, hydroxylation of Lys, galactosyl-hydroxylation and glucosyl-galactosyl-hydroxylation of Lys. However, since peptides containing hydroxylated and glycosylated Lys were not easy to synthesize, which their MRM conditions could not be effectively optimized, thus these peptides were not suitable as peptide biomarkers. Therefore, in this work, peptides containing hydroxylated Pro, deamidated Ans/Gln and oxidated Met could be selected and used as peptide biomarkers.
+
+Therefore, series of STG-specific peptide biomarkers, in total of 74 peptides with different PTMs derived from the eight sequences were listed in 
+Table S4
+. We take sequence of peptide 7 (Pep-P7) as instance, as shown in 
+Table S5
+, peptide sequence GDRGETGPAGAPGAPGAPGAPGPVGPSGK contains six proline residues. In this study, it was found that four prolines in Pep-P7 could be hydroxylated and converted to hydroxyproline. On the basis of this amino acid sequence, hydroxylation modification at different sites lead to different peptide sequences. Therefore, a series of peptides formed by having the same amino acid sequence but with modification at different sites can all be considered as specific peptides. As shown in 
+Table S5
+, all eight peptides with the same amino acid sequence but with different hydroxylation and/or deamidation modifications can be considered as STG-specific peptide biomarkers. Likewise, other 7 peptides with various modifications could also lead to serious peptides, which all could be considered as STG-specific peptides.
+
+Specific-peptide sequences have a variety of PTM forms; however, the signal intensity of each specific-peptide peptides varies, theoretically those 74 STG-specific peptides can be used as biomarkers for STG detection, but not all the 74 peptides are suitable to be used as specific peptide biomarkers due to the weak signal intensity or low relative content of certain peptides. Therefore, as shown in 
+Table S4
+ (in bold), eight peptides with the highest signal intensity among 74 peptides as STG-specific peptide biomarkers were selected, as shown in 
+Table 1
+. Among these 7 peptide biomarkers in this work, Pep-P1, Pep-P5 and Pep-P6 might be more suitable for STG identification, because their good mass response allowed easy detection of peptides in complex STG digestion samples. If the retention time is one of the considerations, then Pep-P1 and Pep-P6 were more suitable to be applied as peptide biomarkers because these two peptides had a later retention time and were more easily separated from other similar components. Meanwhile, Pep-P6-1 ∼ P6-5 in 
+Table S4
+ also showed good response intensities, thus, these 5 peptides could be used as potential peptide biomarkers as well.
+
+3.5. Application in evaluating STG samples
+Eight STG-specific peptide biomarkers were synthesized and analyzed by UPLC-MS/MS with ESI positive ionization in MRM mode. The MRM transitions of 8 peptides are summarized in 
+Table 1
+, and MRM chromatograms are shown in 
+Fig. 3
+. We used peptide GLHypGQHypGDSGPAGK (Pep-P5) as an example, which carried 2 + charges with m/z 635.3 giving the strongest precursor (Q1) signal. Under collision induced dissociation (CID) with optimized collision energy (CE), fragments of y9 + ion (m/z 801.1) and y6 + ion (m/z 516.2) produced from precursors were generated and selected as the product ions due to their strong intensity. Thus, MRM transitions 635.3 > 801.1 and 635.3 > 516.2 were chosen, the former was used for identification and the later for quantification. Under the optimized digestion conditions, Pep-P1 ∼ Pep-P3, and Pep-P5 ∼ Pep-P8 could be exclusively detected in the STG samples, while Pep-P4 showed no good signal, as shown in 
+Fig. 3
+. Therefore, these seven synthesized STG-specific peptide biomarkers were confirmed and could be used for STG authenticity identification. As a result, all the seven peptides could be exclusively detected in STG samples and not detected in deer, cattle, donkey and pig samples, which could be used as STG specific peptide biomarkers.
+
+4. Conclusion
+In this study, PTM detection-based peptidomics analysis were used to identify STG-specific peptide biomarkers. From thousands of identified peptides, eight peptide sequences with STG specificity were screened out, 74 peptides containing different PTM types derived from those eight sequences were further detected, which also showed STG specificity. To better detect the STG samples, eight peptides with high signal intensities among those 74 peptides were selected for further analysis. In addition, the optimal peptides from these series of peptides could be selected as specific peptide biomarkers based on their intensities and/or relative contents. This method was successfully applied to identify seven STG-specific peptide biomarkers, which could distinguish STG from other gelatins based on the existence of biomarkers. The present study provides an effective, competitive, and simple method of STG authentication and traceability, which help to ensure high quality and safety of products for consumers.
