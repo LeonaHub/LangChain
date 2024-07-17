@@ -1,0 +1,11 @@
+Background
+The impact of the arbovirus vector Aedes aegypti is of major concern for global public health as the viruses that it transmits affect millions of people each year worldwide. Originating in Africa, Ae. aegypti has now spread throughout much of the world. While the genetic makeup of Ae. aegypti in the New World has been extensively studied, there is limited knowledge on its genetic diversity in Africa, particularly at a microgeographical level.
+
+Methods
+We investigated mitochondrial cytochrome oxidase I of four Ae. aegypti populations from Benin and employed wing morphometric analyses as a cost-effective and reliable tool to explore population structure. Our sampling encompassed various areas of Benin, from the southern to the northern borders of the country, and included urban, semi-urban, and sylvatic sites.
+
+Results
+We observed a notable level of genetic diversity (haplotype diversity of 0.8333) and nucleotide diversity (0.00421986), and identified seven distinct haplotypes. Sylvatic and semi-urban sites exhibited a greater number of haplotypes compared to urban sites. Utilizing 18 wing landmarks, we calculated the centroid size, which revealed significant variation among the three landscape types. However, principal component analysis, employed to assess wing shape variation, did not demonstrate significant differences between populations based on landscape type.
+
+Conclusions
+Our findings indicate substantial genetic and morphological diversity among Ae. aegypti populations in Benin, and provide insight into important biological characteristics of these populations with respect to their potential to transmit viruses. To the best of our knowledge, this is the first study undertaken in Africa to integrate genetics with morphology to analyse the population structure of the major arbovirus vector Ae. aegypti.

@@ -1,0 +1,334 @@
+1. Introduction
+Biological invasions have a substantial impact on biodiversity; they alter ecosystem functions and threaten human well-being (
+Bennett et al., 2018
+; 
+Ogden et al., 2019
+; 
+Simberloff et al., 2013
+). The invasion process of non-native species includes three successive phases (introduction, establishment, and dispersal) (
+Jeschke et al., 2021
+). Moreover, the globalization of trade has promoted the introduction of numerous non-native species worldwide with the advent of the Anthropocene (
+Chapman et al., 2017
+; 
+Hulme, 2021
+). Introduction pathways, through which non-native species are transported from their native regions to new regions, play a key role in their invasion success (
+Devorshak, 2012
+). Accordingly, managing introduction pathways is the most effective measure for preventing the invasion of non-native species (
+Jamieson et al., 2022
+). The establishment and dispersal of non-native species populations in new regions are determined by climate matching, host availability, suitable habitats (pests or plants), and dispersal vectors (
+Resasco et al., 2014
+; 
+Van Kleunen et al., 2010
+; 
+Van Kleunen et al., 2015
+). As such, explorations of the mechanisms that facilitate the establishment and dispersal of non-native species in new regions will have a significant impact on early warnings and their control. Consequently, developing a framework to assess the introduction, establishment, and dispersal risks of non-native species is a major component in the management of invasive alien species (IAS).
+
+The most commonly used IAS risk assessment frameworks consider the probabilities of the introduction and establishment, as well as the dispersal capacities, of vectors (
+Devorshak, 2012
+). For example, an integrated biosecurity risk assessment model was used to assess the establishment and dispersal risks of the Queensland fruit fly (Bactrocera tryoni) and brown marmorated stink bug (Halyomorpha halys) along trade pathways in New Zealand (
+Jamieson et al., 2022
+). Thus, network analysis is an important tool for assessing the risk of introducing IAS, which can estimate multiple introduction pathways via transportation networks (
+Frost et al., 2019
+; 
+Tatem, 2009
+). For example, network analysis approaches have been used to analyze the relationships between global trade networks and 422 non-native plant pest invasions worldwide (
+Chapman et al., 2017
+). Species distribution models (SDMs) and niche concepts (Hutchinson's n-dimensional) can be further used to estimate potentially suitable areas (PSAs) for IAS under conditions of climate change and to compare niches between the IAS and their hosts or dispersal vectors (
+Hutchinson, 1957
+; 
+Lantschner et al., 2019
+; 
+Peterson et al., 2011
+). As the ensemble model (EM) can obtain better separation of signal from noise for single SDMs, it has been frequently selected to predict the PSAs of IAS (
+Dormann et al., 2018
+; 
+Xian et al., 2023
+). Consequently, integrating network analysis, SDMs, and niche concepts into IAS risk assessment frameworks can provide insight into their introduction, establishment, and dispersal risks.
+
+Pine wilt disease (PWD) is caused by pine wood nematodes (PWN, Bursaphelenchus xylophilus), which is one of the most destructive IAS in pine forests worldwide; moreover, it is native to North America and has successfully invaded Japan (in 1905), China (in 1982), South Korea (in 1988), Portugal (in 1999), and Spain (in 2008) (
+Abelleira et al., 2011
+; 
+Li et al., 1983
+; 
+Mota et al., 1999
+; 
+Nickle et al., 1981
+). PWD kills pine trees, resulting in huge economic losses; this poses a substantial threat to forest ecosystems worldwide (
+Futai, 2013
+; 
+Zhao et al., 2014
+; 
+Zhao et al., 2020
+). Since 1970, PWD has caused losses of >2 million cubic meters of pine wood annually in Japan (
+Mamiya and Shoji, 2009
+). PWD is widespread in southern, eastern, northeastern, northwestern, and central China (covering 19 provinces) and can result in damage to >15 pine species (
+Xu et al., 2023
+). Furthermore, the geographic distribution of PWD is not yet saturated, and it has still been rapidly spreading in China in recent years (especially in the northeastern and northwestern parts) (
+Xu et al., 2023
+). The mean annual economic losses caused by PWD comprise more than one billion dollars, with direct economic losses (destruction of forest resources) of approximately 250 million dollars in China (
+Zhao et al., 2020
+).
+
+Containers and packaging (pine wood) are the main introduction pathway vectors for PWN worldwide (
+Bonifácio et al., 2014
+). After the PWN successfully invades a new region, it disperses between host Pinus species almost exclusively via insect vectors, namely beetles of the genus Monochamus (
+Akbulut and Stamps, 2012
+; 
+Linit, 1988
+; 
+Sousa et al., 2001
+; 
+Zhao et al., 2014
+). Previous studies have indicated that two Monochamus species (M. alternatus and M. saltuarius) are the principal insect vectors of PWN in China (
+Shi et al., 2022
+; 
+Wang et al., 2021
+; 
+Wu et al., 2021
+; 
+Zheng et al., 2021
+). Climate change has a marked impact on the establishment and dispersal of the PWN, via its effects on the survival, growth, and distribution patterns of this species, and interactions between the PWN and its insect vectors (
+Roques et al., 2015
+). For example, the PWN has gradually expanded to northern China with climate warming (
+Pan et al., 2020a
+). Monochamus alternatus was the principal insect vector of PWN in China until 2016 (
+Shi et al., 2022
+). Since the PWN spread to Liaoning province (northeastern China) in 2017, M. saltuarius has become the new and principal insect vector of PWN in northeastern China (
+Ge et al., 2021
+; 
+Pan et al., 2020b
+). Consequently, research on PWN invasion mechanisms in China should consider their introduction pathways and multispecies interactions among the PWN, hosts, and insect vectors under current and future climate conditions. Most previous studies have mainly considered a particular invasion phase of PWN, such as the PSAs of PWN in China (
+Ouyang et al., 2022
+; 
+Tang et al., 2021
+); however, the introduction pathways, dispersal capacity, and distribution patterns of insect vectors remain unclear.
+
+Here, we integrated network analysis, SDMs, and niche concepts into an invasion risk assessment framework for PWD, with respect to the introduction pathways and multispecies interactions among the PWN, hosts, and insect vectors. Based on this framework, the present study had the following objectives: (1) estimate the different introduction pathways of the PWN in China, including source countries and entry ports; (2) determine the areas of overlap between the PWN and its hosts and that between the PWN and its insect vectors; (3) assess niche overlap between the PWN and its insect vectors; and (4) explore the effect of climate change on multispecies interactions. Thus, this framework will advance our knowledge of invasion risk assessments for the PWN in three successive phases.
+
+2. Materials and methods
+2.1. Risk assessment framework
+We aimed to assess the introduction, establishment, and dispersal risks of the PWN in China. The first step was to estimate the introduction risk with respect to the source country, entry port, and pathway. The second step was to estimate the establishment risk under climate change conditions with respect to the areas of overlap between the PWN and hosts. The third and final step was to explore the dispersal risk of the PWN via insect vectors under climate change conditions (
+Fig. 1
+).
+
+Fig. 1
+Download: Download high-res image (307KB)
+Download: Download full-size image
+Fig. 1. Risk assessment framework for pine wilt disease: introduction, establishment, and dispersal risk assessment for pine wood nematode (Bursaphelenchus xylophilus).
+
+2.2. Distribution and environmental data
+Records of the presence of the PWN and its two insect vectors (M. alternatus and M. saltuarius) were obtained from an online database, published literature, and field survey data in China (see 
+Appendix A
+ and 
+Appendix B
+: Fig. S1). Duplicate records and those with geographical location errors were removed. To avoid the effects of sampling bias and the presence of record redundancy on the accuracy of model predictions, ENMTools was selected to filter these records, ensuring that only one record of the presence of a species was retained in each grid cell of the environmental variables (
+Warren et al., 2010
+). Distribution data for PWN hosts in China, including >10 Pinus species, were extracted from the 1:1 million vegetation map of China using the spatial analysis tools of ArcGIS software. We assumed that the distribution of PWN hosts would not change until the 2050s in China.
+
+The global climate, altitude, and anthropogenic data were collected from two online databases. Climate data for 1970–2000 (nearly current), 2021–2040 (2030s), and 2041–2060 (2050s) were downloaded from WorldClim version 2.1, which included 19 bioclimatic variables at a resolution of 2.5 arcmin (
+Fick and Hijmans, 2017
+). For future climate data (for the 2030s and the 2050s), we adopted the BCC-CSM2-MR global circulation model under three shared socioeconomic pathways (SSP: SSP1–2.6, SSP2–4.5, and SSP5–8.5), which can simulate the evolution of multiyear temperature and precipitation data in China (
+Xin et al., 2019
+). Altitude data with a resolution of 2.5 arcmin were downloaded from WorldClim. Anthropogenic data at a resolution of 30 arcsec, including the human influence index (HII), were downloaded from the Global Human Influence Index (Geographic) v2 (1995– 2004) (
+WCS and CIESIN, 2005
+). ENMTools was selected to analyze the multicollinearity of 19 bioclimatic variables, altitude, and HII (
+Warren et al., 2010
+). Based on the results of multivariate collinearity analysis and the biological characteristics of the PWN and its two insect vectors (
+Akbulut and Stamps, 2012
+; 
+Futai, 2013
+), and global-scale environmental variables (excluding Antarctica) with high multicollinearity (|r| > 0.8) (
+Appendix B
+: Fig. S2), we retained the minimum or maximum temperature and precipitation during the extreme months. Finally, eight environmental variables were retained as follows: mean diurnal range (bio2), maximum temperature of the warmest month (bio5), minimum temperature of the coldest month (bio6), annual precipitation (bio12), precipitation of the driest month (bio14), precipitation seasonality (bio15), altitude, and HII.
+
+2.3. Introduction pathway analysis, SDM selection, setting, and evaluation
+To derive the introduction pathways of the PWN in China, we constructed an introduction pathway quantitative network using inspection records of the PWN from Chinese entry ports. The introduction pathway quantitative network was analyzed and plotted using ArcGIS software. The frequency of an interaction is defined here as the total number of inspection records of PWN from containers and packaging (pine wood) at Chinese entry ports during 2010–2014.
+
+For model selection, to reduce the uncertainty of extrapolation with the single modeling algorithm, we selected eight modeling algorithms to construct an EM with the Biomod2 platform (
+Akbulut and Stamps, 2012
+; 
+Thuiller et al., 2016
+), including the artificial neural network, categorical regression tree analysis, flexible discriminant analysis, gradient boosting model, generalized linear model, multiple adaptive regression spline, maximum entropy model, and random forest. For model setting and evaluation, 10,000 random pseudo-absence records were generated for each modeling algorithm in the global-scale background areas (excluding Antarctica) (
+Barbet-Massin et al., 2012
+). The eight modeling algorithms and EM were calibrated using 75 % of random distribution data (presence and pseudo-absence samples) and tested based on the remaining 25 % of the random distribution data using both the receiver operating characteristic curve (ROC) and the true skill statistic (TSS) (
+Allouche et al., 2006
+; 
+Peterson et al., 2008
+). The entire training evaluation process was repeated 40 times (5 times for the modeling algorithm) for each study species, ensuring the robustness of the modeling predictions. We then estimated the values of the area under the ROC curve (AUC) and TSS for each single modeling algorithm, thereby selecting one with an AUC value >0.9 and TSS value >0.8 to construct the EM. Finally, the EM was used to model the potential geographical distribution of PWN and its two insect vectors in China. By maximizing TSS values of the EM, we performed binary transformation of all potential geographical distributions of each study species (including unsuitable and suitable areas) using the “BIOMOD_EnsembleModeling” function in the Biomod2 platform. We then produced area maps of PWN overlap with its two insect vectors and with its host Pinus species using the “spatial analysis tools” with ArcGIS software.
+
+2.4. Centroids of overlapping areas and trends in suitable probability
+We extracted the centroids of overlapping areas of PWN based on its two insect vectors using the “Feature to point” tool in ArcGIS software based on nearly current and future periods, which can create a feature class containing points generated from the representative locations of input features. For the trends in suitable probabilities of PWN and its two insect vectors, we used the mean values of suitable probability at each latitude to generate a polynomial fit with a 95 % confidence band with Origin software, exploring the trends in their suitable probabilities from low- to high-latitude gradients.
+
+2.5. Niche comparison between PWN and its two insect vectors
+We compared the recognized niche of PWN against that of its two insect vectors using the PCA-env framework (
+Broennimann et al., 2012
+). Eight environmental variables were considered for the entire background environment (bio2, bio5, bio6, bio12, bio14, bio15, and HII). We then used the “kernel density” function to smooth the density of distribution samples and the whole background of environment samples, thereby comparing the degree of niche overlap between PWN and its two insect vectors based on Schoener's D (ranging from 0 to 1, with higher values indicating a higher niche overlap degree) (
+Schoener, 1970
+). We also generated the predicted niche occupancy profiles of the significant environmental variables of PWN and its two insect vectors, which were identified using the “var.import” function in the biomod2 platform. Niche similarity tests were used to calculate similarity between the PWN and its two insect vectors with 100 repeats. The significance of the niche similarity test (P < 0.05) showed that the observed niche overlaps were more similar than those expected by chance (
+Warren et al., 2008
+). All analyses were performed using the “ecospat” package with R version 4.2.2 (
+Di Cola et al., 2017
+).
+
+3. Results
+3.1. Introduction pathways for PWN
+There were > 600 inspection records and > 15 source countries of PWN from containers and packaging (pine wood) in Chinese entry ports during 2010–2014 (
+Fig. 2
+). The top five source countries of PWN were the United States, South Korea, Japan, Germany, and Mexico, accounting for >88 % of all inspection records. Frequent PWN interception was observed at 11 Chinese ports. Overall, 94 % of the interception records were from the entry ports of Jiangsu, Shanghai, Shandong, Tianjin, and Zhejiang. In summary, multiple pathways were identified for the introduction of PWN into China.
+
+Fig. 2
+Download: Download high-res image (606KB)
+Download: Download full-size image
+Fig. 2. Introduction pathways (inspection records), source countries, and entry ports of pine wood nematode (Bursaphelenchus xylophilus) during 2010–2014. USA: United States. CAN: Canada. MEX: Mexico. PRT: Portugal. ESP: Spain. FRA: France. ITA: Italy. AUT: Austria. DEU: Germany. GBR: United Kingdom. NLD: Netherlands. IND: India. THA: Thailand. MYS: Malaysia. KOR: South Korea. JPN: Japan. FJ: Fujian. GX: Guangxi. JS: Jiangsu. LN: Liaoning. SD: Shandong. SH: Shanghai. TJ: Tianjin. ZJ: Zhejiang. BJ: Beijing. GD: Guangdong. JX: Jiangxi.
+
+3.2. Model evaluation
+Based on the results of the model evaluation using the AUC and TSS for PWN and its two insect vectors, eight single modeling algorithms and the EM had excellent predictive performance (
+Table 1
+). The mean AUC and TSS values of eight single modeling algorithms exceeded 0.79 and 0.91, respectively, and those of the EM exceeded 0.93 and 0.96, respectively. The predictive performance of the EM was more reliable than that of the eight single modeling algorithms. Consequently, the EM constructed using eight single modeling algorithms enhanced the predictive accuracy and reduced the uncertainty of extrapolation.
+
+Table 1. Mean values of under the receiver operating characteristic (ROC) curve (AUC) and true skill statistic (TSS) for pine wood nematode (Bursaphelenchus xylophilus) and its two insect vectors (Monochamus alternatus and Monochamus saltuarius). EM: ensemble model; ANN: artificial neural network; CTA: categorical regression tree analysis; FDA: flexible discriminant analysis; GBM: gradient boosting model; GLM: generalized linear model; MARS: multiple adaptive regression spline; MaxEnt: maximum entropy model; and RF: random forest.
+
+Fig. 3. Areas of pine wood nematode (Bursaphelenchus xylophilus) overlap with its two insect vectors (Monochamus alternatus and Monochamus saltuarius) under nearly current climate conditions in China. AH: Anhui; BJ: Beijing; CQ: Chongqing; FJ: Fujian; GD: Guangdong; GX: Guangxi; GZ: Guizhou; HA: Henan; HB: Hubei; HE: Hebei; HI: Hainan; HK: Hongkong; HL: Heilongjiang; HN: Hunan; NM: Inner Mongolia; JL: Jilin; JS: Jiangsu; JX: Jiangxi; LN: Liaoning; NX: Ningxia; QH: Qinghai; SC: Sichuan; SD: Shandong; SH: Shanghai; SN: Shaanxi; SX: Shanxi; TJ: Tianjin; TW: Taiwan; XJ: Xinjiang; XZ: Tibet; YN: Yunnan; ZJ: Zhejiang. The same abbreviations are used for other figures.
+
+Fig. 4. Areas of pine wood nematode (Bursaphelenchus xylophilus) overlap with its two insect vectors (Monochamus alternatus and Monochamus saltuarius) based on three shared socio-economic pathways of the 2030s and 2050s in China.
+
+Fig. 5. Changes in overlapping areas of pine wood nematode (Bursaphelenchus xylophilus) and its two insect vectors (Monochamus alternatus and M. saltuarius) between nearly current and future climates.
+
+Fig. 6. Trends in suitable probability of pine wood nematode (Bursaphelenchus xylophilus) and its two insect vectors (Monochamus alternatus and Monochamus saltuarius) based on latitude gradients under nearly current and future (2030s and 2050s) climate conditions. a-c: B. xylophilus. d-e: M. alternatus. g-i: M. saltuarius.
+
+Fig. 7. Niche overlap and similarity tests for pine wood nematode (Bursaphelenchus xylophilus) and its two insect vectors (Monochamus alternatus and Monochamus saltuarius) and predicted niche occupancy profiles of their significant variables. Bio2: mean diurnal range. Bio5: maximum temperature of the warmest month. Bio6: minimum temperature of the coldest month. HII: human influence index.
+
+3.3. Areas of PWN overlap with its two insect vectors and hosts
+The PWN had wide overlapping areas with its two insect vectors (M. alternatus and M. saltuarius) in China and hosts (Pinus species) under nearly current and future climate conditions in China (
+Appendix B
+: Table S1). The areas of PWN overlap with the insect vector M. alternatus under the nearly current (1970–2000), SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios of the 2030s and 2050s accounted for 92.84 %, 92.16 %, 94.27 %, 91.55 %, 91.64 %, 92.68 %, and 91.08 %, respectively, of the total suitable areas for PWN, which were primarily distributed in southern, eastern, Yangtze River Basin, central, and northeastern China regions (
+Fig. 3
+, 
+Fig. 4
+). The areas of PWN overlap with the insect vector M. saltuarius under the nearly current (1970–2000), SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios of the 2030s and 2050s accounted for 25.42 %, 12.81 %, 14.99 %, 12.41 %, 11.89 %, 13.60 %, and 12.82 %, respectively, of the total suitable areas for PWN, which were primarily distributed in eastern and northeastern China (
+Fig. 3
+, 
+Fig. 4
+). The areas of PWN overlap with both insect vectors under the nearly current (1970–2000), SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios of the 2030s and 2050s accounted for 20.77 %, 9.45 %, 11.61 %, 8.79 %, 8.75 %, 9.85 %, and 9.67 %, respectively, of the total suitable areas for PWN, which were also primarily distributed in eastern and northeastern China (
+Fig. 3
+, 
+Fig. 4
+). The areas of PWN overlap with its host Pinus species under the nearly current (1970–2000), SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios of the 2030s and 2050s accounted for 57.54 %, 58.79 %, 58.52 %, 59.47 %, 59.95 %, 61.47 %, and 62.93 %, respectively, of the total areas of Pinus species in China, which were primarily distributed in southern, eastern, Yangtze River Basin, central, and northeastern China regions (
+Appendix B
+: Figs. S3, 4).
+
+3.4. Changes in overlapping areas between nearly current and future climates
+The areas of PWN overlap with the insect vector M. alternatus showed an expanding trend from nearly current to future climates (
+Appendix B
+: Table S2). The areas exhibiting an increase under the SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios accounted for 4.99 %, 7.35 %, and 6.15 %, respectively, for the 2030s, and 6.45 %, 13.39 %, and 16.25 % for the 2050s, of the total areas of PWN overlap with the insect vector M. alternatus under nearly current climate conditions, which were primarily distributed in southwestern, northwestern, and northeastern China regions (
+Fig. 5
+). The areas associated with a decrease under the SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios accounted for 1.63 %, 1.04 %, and 1.31 %, respectively, for the 2030s, and 1.30 %, 1.83 %, and 2.07 % for the 2050s, of the total areas of PWN overlap with the insect vector M. alternatus under the current climate conditions, which were primarily distributed in southeastern China (
+Fig. 5
+).
+
+The areas of PWN overlap with the insect vector M. saltuarius showed a decreasing trend from nearly current to future climates (
+Appendix B
+: Table S2). The areas exhibiting an increase under SSP1–2.6, SSP2–4.5, and SSP5–8.5 accounted for 8.18 %, 13.45 %, and 10.59 %, and 9.31 %, respectively, for the 2030s, and 9.31 %, 21.85 %, and 22.65 % for the 2050s, of the total areas of PWN overlap with the insect vector M. saltuarius under current climate conditions, which were primarily distributed in northeastern China (
+Fig. 5
+). The areas associated with a decrease under the SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios accounted for 55.43 %, 50.18 %, and 59.9 %, respectively, for the 2030s, and 59.91 %, 61.95 %, and 64.9 % for the 2050s, of the total areas of PWN overlap with the insect vector M. saltuarius under the current climate conditions, which were primarily distributed in central China and Yangtze River Basin regions.
+
+The areas of PWN overlap with both insect vectors also showed a decreasing trend from nearly current to future climates. Under SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios of the 2030s and 2050s, the areas showing an increase were primarily distributed in northeastern China, and those associated with a decrease were primarily distributed in central China and Yangtze River Basin regions (
+Appendix B
+: Fig. S5).
+
+The areas of PWN overlap with its host Pinus species showed an expanding trend from nearly current to future climates (
+Appendix B
+: Table S2). The areas exhibiting an increase under SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios accounted for 2.94 %, 2.85 %, and 3.59 %, respectively, for the 2030s, and 5.21 %, 7.65 %, and 10.35 % for the 2050s, of the total areas of PWN overlap with Pinus species in China under the current climate conditions, which were primarily distributed in northeastern China (
+Appendix B
+: Fig. S6). The areas associated with a decrease under SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios accounted for 0.87 %, 1.30 %, and 0.56 %, respectively, for the 2030s, and 1.33 %, 1.36 %, and 1.55 % for the 2050s, of the total areas of PWN overlap with Pinus species in China under the current climate conditions, which were primarily distributed in southern China (
+Appendix B
+: Fig. S6).
+
+3.5. Centroid shifts in overlapping areas and trends in suitable probabilities for PWN and its two insect vectors
+The centroids of the areas of PWN overlap with its two insect vectors showed a general tendency to shift northward and to higher-latitude regions from the nearly current timeframe to the 2030s and 2050s (
+Appendix B
+: Fig. S7). The centroids of areas of PWN overlap with the insect vector M. alternatus were distributed in Hunan (112.34° E, 28.73° N) under the nearly current climate, shifting from its current position to northwestern Hunan under the SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios of the 2030s and 2050s. The centroids of areas of PWN overlap with the insect vector M. saltuarius were distributed in Shandong (118.89° E, 35.29° N) under the nearly current climate, shifting from its current position to Liaoning under the SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios of the 2030s and 2050s.
+
+The trends in suitable probabilities for PWN and its insect vector M. alternatus were similar under the nearly current and SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios of the 2030s and 2050s, showing a general tendency to decrease with an increase in latitude (
+Fig. 6
+, 
+Appendix B
+: Fig. S8). The suitable probabilities of PWN and its insect vector M. alternatus were higher at 25° N–35° N than at the other latitude gradients. Based on the data, their suitable probabilities will increase in the 40° N–50° N range under the SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios of the 2030s and 2050s. The suitable probabilities for the insect vector M. saltuarius showed a slight tendency to increase with an increasing latitude (
+Fig. 6
+, 
+Appendix B
+: Fig. S8) and were higher at 37° N–45° N than at the other latitude gradients. Based on the results, these suitable probabilities will increase in the 45° N–50° N range under the SSP1–2.6, SSP2–4.5, and SSP5–8.5 scenarios of the 2030s and 2050s.
+
+3.6. Significant environmental variables and niche overlap
+The contribution values of the environmental variables indicated that bio2, bio5, bio6, and HII were significant environmental variables affecting their geographical distribution (
+Appendix B
+: Fig. S9). Results indicated that PWN and its insect vector M. alternatus had a high degree of niche overlap (Schoener's D = 0.68), whereas PWN and the insect vector M. saltuarius had a low degree of niche overlap (Schoener's D = 0.47) (
+Fig. 7
+). Similarity tests indicated that the niches of PWN and its two insect vectors were more similar than expected by chance (
+Fig. 7
+). The results of the predicted niche occupancy profiles also indicated that PWN and the insect vector M. alternatus had similar temperature requirements, including bio2, bio5, and bio6; however, the insect vector M. saltuarius was more suitable for lower-temperature conditions than PWN (
+Fig. 7
+).
+
+4. Discussion
+Exploring the introduction pathways and multispecies interactions among the PWN and its insect vectors and hosts can shed light on the underlying mechanisms that facilitate its introduction, dispersal, and damage. This study represents the first attempt to construct a risk assessment framework to estimate the pathways of PWN introduction and model the geographical distribution of areas of PWN overlap and niche overlap with its two insect vectors and host Pinus species in China. We also estimated the trends in suitable probabilities for PWN and its two insect vectors along latitudinal gradients under climate change conditions in China. Our results provide new insights to better understand the mechanisms underlying PWN introduction, establishment, and dispersal, facilitating early warning, prevention, and management strategies.
+
+4.1. Multiple pathways for the introduction of PWN
+The PWN has successfully invaded and established populations in Portugal, Spain, China, South Korea, and Japan (
+Abelleira et al., 2011
+; 
+Li et al., 1983
+; 
+Mota et al., 1999
+; 
+Nickle et al., 1981
+). However, we found that the source countries included native countries and those invaded by the PWN. The source countries also included several countries that had not been invaded by this species (India, Malaysia, France, Italy, and Germany), which were the principal and important transit countries of infected containers and packaging (pine wood) from native countries and those invaded by the PWN. These findings indicate multiple pathways for the introduction of PWN to China. Previous studies have indicated that the bridgehead effect leads to the emergence of secondary invasions, resulting in the diversity, complexity, and randomization of invasion sources (
+Blumenfeld and Vargo, 2020
+; 
+Lombaert et al., 2010
+). For example, Africa served as a bridgehead for invasion of the destructive invasive alien insect Spodoptera frugiperda into Asia and later into China in 2019, with the help of South Asia as a bridgehead (
+Guo et al., 2020
+). Consequently, the country invaded by this species and the bridgehead role of the transit country, with respect to global trade, together constitute multiple introduction pathways of PWN in China. We also found that PWN entry records have been intercepted at entry ports in northeastern and southeastern China, and the areas where the aforementioned ports are located have now experienced PWN infestations. Consequently, the multiple entry ports also comprise one of the factors contributing to the successful invasion of PWN in China, which also increases the risk of secondary or multiple introductions in China.
+
+4.2. Multispecies interactions for PWN dispersal and damage
+The interactions between the PWN and its insect vectors or hosts, such as climate matching and niche overlap, are the basic requirements for PWN dispersal and damage (
+Xu et al., 2023
+). Previous studies have revealed that M. alternatus is the main insect vector in southern, central, and northern China (
+Wang et al., 2021
+), whereas M. saltuarius is the main insect vector in northeastern China (
+Li et al., 2020
+). The PWN was determined to be jointly transmitted by both insect vectors in northeastern China (Liaoning and Jilin) (
+Wang et al., 2006
+). Our results showed that the potential geographical areas of PWN overlap with the two insect vectors are also distributed in these regions. However, we also found that the suitable probabilities of the PWN and M. alternatus were the highest in southern and central China (25° N–35° N) but decreased with an increase in latitudinal gradients in China. The suitable probabilities of M. saltuarius were the highest in northeastern China (37° N–45° N). The latitudinal biotic interaction hypothesis indicates that the heterogeneity of environmental variables in latitudinal patterns changes the suitable probabilities of species, further leading to a decrease in the intensity of biotic interactions from low- to high-latitude gradients (
+Fischer, 1960
+; 
+Schemske et al., 2009
+; 
+Zvereva and Kozlov, 2021
+). The high suitable probabilities of PWN and the insect vector M. alternatus in southern and central China might increase the interactions between PWN and M. alternatus, further promoting the dispersal of PWN via M. alternatus in these regions. We also found that the areas of PWN overlap with its host Pinus species decreased with an increase in latitude. Consequently, the widespread distribution of the host Pinus species, as well as the high suitable probabilities or interactions between PWN and M. alternatus, was one of several reasons for the widespread dispersal of and damage caused by the PWN in southern and central China. The suitable probabilities of the insect vector M. alternatus were low in northeastern China (37° N–45° N), but those of the insect vector M. saltuarius were high in the aforementioned regions, which might explain the dispersal of the PWN via M. saltuarius in northeastern China. A previous study revealed that low temperatures have a suppressive effect on the dispersal of the PWN, reducing its dispersal efficiency via insect vectors (
+Togashi et al., 1993
+). The low suitable probability of PWN, local distribution of host Pinus species, and low-temperature conditions limited the dispersal of and damage caused by the PWN in the higher-latitude areas of northeastern China.
+
+Climate change promotes the spread and establishment of numerous IAS, which could affect the distribution patterns, species interactions, and dispersal capacity of their vectors (
+Carlson et al., 2022
+; 
+Lach, 2021
+). For example, the geographical distribution of IAS shifts poleward and upward with climate warming (
+Bebber et al., 2013
+). Climate change has increased the potential distribution of 76 invasive pests worldwide (
+Yan et al., 2017
+). Regarding the response of the PWN to climate change, a previous study indicated that climate warming would expand the distribution of its insect vectors, accelerate its development, and enhance its flight performance, thereby increasing its dispersal rates (
+Roques et al., 2015
+). We found that the potential geographical distribution areas and suitable probabilities of the PWN and its two insect vectors will expand in the higher-latitude regions of China (northeastern China). Moreover, climate change increases the threat of PWN in these regions. Consequently, the multispecies interactions among PWN and its insect vectors and hosts, as a result of climate warming, are an important part of the complex PWD system, which leads to the complex dispersal and damage patterns of PWN on a spatiotemporal scale.
+
+4.3. Implications for PWN management in China
+For the early warning, prevention, and management of PWN in China, the risks of introduction, establishment, and dispersal should be assessed. For the assessment of PWN introduction risk, the trade of pine wood products and packaging are thought to be the most important pathway vectors for its global spread (
+Evans et al., 1996
+). The primary source countries were the United States, South Korea, Japan, Germany, and Mexico, and the primary entry ports were Jiangsu, Shanghai, Shandong, Tianjin, and Zhejiang. Consequently, these entry ports should implement strict quarantine regulations for imported pine wood products and packaging from primary source countries to prevent the secondary or multiple introduction of PWN in China. For PWN establishment and dispersal risk assessments, previous studies have found that this species is presently dispersed in the coldest northern regions of China, having already occupied the southern subtropical regions (
+Cheng et al., 2008
+; 
+Wu et al., 2013
+). Our results indicate that the PWN has occupied regions of host distribution in southern, central, and northeastern China (Liaoning Province). Monochamus alternatus was found to be the main insect vector in southern and central China, whereas M. saltuarius was determined to be the main insect vector in northeastern China. Climate change will increase the suitable probabilities of PWN and its two insect vectors at high latitudes, which will increase their threat to hosts in northeastern China. Consequently, more attention should be paid to biological control agents for both the PWN and its two insect vectors in regions occupied by the PWN in China. In the future, early warning and prevention measures, with respect to the dispersal and establishment of PWN, should be strengthened at high latitudes (northeastern China).
+
+5. Conclusions
+Regarding the risk assessment and management implications of PWD, most studies have considered a particular stage of the invasion process. In this study, we developed an entire-phase risk assessment framework for PWD. We considered the introduction pathways, insect vectors, and hosts to assess introduction, establishment, and dispersal risks. We found multiple introduction pathways for PWN in China, including native countries, those associated with PWN invasion, and trade transit countries. The areas of PWN overlap with its hosts were mainly distributed in southern, central, and northeastern China. Further, the insect vector M. alternatus was mainly distributed in the southern and central areas, and PWN with its insect vector M. saltuarius was mainly distributed in northeastern China. Climate change will increase the suitable probabilities of PWN and its two insect vectors at high latitudes, which will increase the threat of PWN to its hosts and the dispersal capacity of its two insect vectors. Our framework considers the multiple pathways of PWN introduction and provides new insights for evaluating geographical locations where the establishment and dispersal risks of PWN could be mitigated. Our framework could also serve as a reference for the development of whole-phase risk schemes for IAS.
