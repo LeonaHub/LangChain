@@ -1,0 +1,11 @@
+Background
+Peer-led interventions for adolescents are effective at accelerating behavioral change. The Sources of Strength suicide preventive program trains student peer change agents (peer leaders) in secondary schools to deliver prevention messaging and conduct activities that increase mental health coping mechanisms. The program currently has school staff select peer leaders. This study examined potential for more efficient program diffusion if peer leaders had been chosen under network-informed selection methods.
+
+Methods
+Baseline assessments were collected from 5,746 students at 20 schools. Of these, 429 were selected by adults as peer leaders who delivered intervention content through the school year. We created theoretical alternate peer leader sets based on social network characteristics: opinion leadership, centrality metrics, and key players. Because these sets were theoretical, we examined the concordance of these sets with the actual adult-selected peer leaders sets and correlated this metric with diffusion of intervention modalities (i.e., presentation, media, communication, activity) after the first year.
+
+Results
+The sets of adult-selected peer leaders were 13.3%—22.7% similar to theoretical sets chosen by other sociometric methods. The use of friendship network metrics produced peer leader sets that were more white and younger than the general student population; the Key Players method produced more representative peer leader sets. Peer opinion leaders were older and more white than the general population. Schools whose selected peer leaders had higher overlap with theoretical ones had greater diffusion of intervention media and peer communication.
+
+Conclusions
+The use of network information in school-based peer-led interventions can help create more systematized peer leader selection processes. To reach at-risk students, delivery of an indirect message, such as through a poster or video, may be required. A hybrid approach where a combination of visible, respected opinion leaders, along with strategically-placed key players within the network, may provide the greatest potential for intervention diffusion.
