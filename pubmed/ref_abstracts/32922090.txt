@@ -1,0 +1,11 @@
+Objective
+To compare the cervical shear wave elastography (SWE) by using transvaginal ultrasound (TVS) between twin and singleton pregnant women.
+
+Materials and Methods
+This was a prospective cohort study involving the twin and singleton pregnant women who attended the antenatal care at Ramathibodi Hospital, Bangkok, Thailand. The participants who met the inclusion criteria were serially measured the shear wave speed (SWS) by using TVS at early, mid-, and third trimester. The changes in SWS with advancing gestational age between twin and singleton pregnancies were evaluated. The gestational age at delivery and spontaneous preterm delivery rate were also analyzed.
+
+Results
+A total of 36 twin pregnancies and 38 singleton pregnancies were analyzed. No significant difference in baseline characteristics, except the age of participants (twin pregnancies 33.1±4.6 years, singleton pregnancies 29.9±5.4 years, p-value = 0.006) was observed. The cervical SWS decreased with advancing gestational age in both twin and singleton pregnancy, but there was a statistically significant difference of cervical SWS at the lower point in mid-trimester (twin pregnancies 2.27±0.4, singleton pregnancies 2.71±0.6 m/s, p-value = 0.001). However, no significant difference in cervical SWS at the upper point and the lower point in the early and third trimester was demonstrated. Even though the gestational age at delivery between both groups revealed a significant difference (twin pregnancies 35.9±2.8, singleton pregnancies 37.6±2.9 wk., p-value = 0.008) but the spontaneous preterm delivery rate did not differ significantly (twin pregnancies 22.2%, singleton pregnancies 15.8%, p-value = 0.483).
+
+Conclusion
+The mid-trimester cervical SWS measurement at the lower point detects the difference in cervical softness between twin pregnancies and singleton pregnancies. The cervical SWS might be an additional option for monitoring the change in cervical softness in twin pregnancies.

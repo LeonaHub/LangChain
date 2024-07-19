@@ -1,0 +1,11 @@
+Objective
+The objective of this study was to investigate the risk and prevalence of venous thromboembolism (VTE) for patients undergoing a diagnostic test for VTE with confirmed COVID‐19 infection compared with patients with no COVID‐19 infection.
+
+Methods
+This was a retrospective cross‐sectional study of patients in an integrated healthcare system in Sweden, covering a population of 465,000, with a diagnostic test for VTE between March 1 and May 31 in the years 2015 to 2020. Risk for VTE with COVID‐19 was assessed by logistic regression, adjusting for baseline risk factors.
+
+Results
+A total of 8702 patients were included, and 88 of those patients tested positive on the severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) polymerase chain reaction test. A positive SARS‐CoV‐2 test did not increase the odds for VTE (odds ratio, 0.97; 95% confidence interval [CI], 0.55–1.74) and did not change when adjusting for sex, previous VTE, previous malignancy, Charlson score, hospital admission, intensive care, or ongoing treatment with anticoagulation (odds ratio, 0.72; 95% CI, 0.16–3.3). The prevalence of VTE was unchanged in 2020 compared with 2015 to 2019 (16.5% vs 16.1%, respectively), and there was no difference in VTE between the SARS‐CoV‐2 positive, negative, or untested groups in 2020 (15.9%, 17.6%, and 15.7%, respectively; P = 0.85).
+
+Conclusions
+We found no increased prevalence of VTE in the general population compared with previous years and no increased risk of VTE in patients who were SARS‐CoV‐2 positive, suggesting that SARS‐CoV‐2 status should not influence VTE workup in the emergency department. The prevalence of VTE was high in patients with SARS‐CoV‐2 treated in the intensive care unit (ICU), where the suspicion for VTE should remain high.

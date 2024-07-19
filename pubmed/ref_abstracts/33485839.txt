@@ -1,0 +1,11 @@
+Background
+Gut microbiota (GM) contribute to obesity and insulin resistance (IR). Obstructive sleep apnea (OSA), characterized by intermittent hypoxia (IH), promotes IR and alters GM. Since circulating exosomes are implicated in IR, we examined the effects of IH and physical activity (PA) in mice on GM, colonic epithelium permeability, systemic IR, and plasma exosome cargo, and exosome effects on visceral white adipose tissues (vWAT) IR.
+
+Methods
+C57BL/6 mice were exposed to IH or room air (RA) for 6 weeks with and without PA (n = 12/group), and GM and systemic IR changes were assessed, as well as the effects of plasma exosomes on naïve adipocyte insulin sensitivity. Fecal microbiota transfers (FMT) were performed in naïve mice (n = 5/group), followed by fecal 16S rRNA sequencing, and systemic IR and exosome-induced effects on adipocyte insulin sensitivity were evaluated.
+
+Findings
+Principal coordinate analysis (PCoA) ordinates revealed B-diversity among IH and FMT recipients that accounted for 64% principal component 1 (PC1) and 12.5% (PC2) of total variance. Dominant microbiota families and genera in IH-exposed and FMT-treated were preserved, and IH-exposed GM and IH-FMT induced increased gut permeability. Plasma exosomes from IH-exposed and IH-FMT mice decreased pAKT/AKT responses to exogenous insulin in adipocytes vs. IH+PA or RA FMT-treated mice (p = 0.001).
+
+Interpretation
+IH exposures mimicking OSA induce changes in GM, increase gut permeability, and alter plasma exosome cargo, the latter inducing adipocyte dysfunction (increased IR). Furthermore, these alterations improved with PA. Thus, IH leads to perturbations of a singular GM-circulating exosome pathway that disrupts adipocyte homeostasis resulting in metabolic dysfunction, as reflected by IR.
