@@ -1,0 +1,11 @@
+Background
+The Response Evaluation Criteria in Solid Tumors (RECIST) for computed tomography (CT) is preoperatively used to evaluate therapeutic effects. However, it does not reflect the pathological treatment response (PTR) of pancreatic ductal adenocarcinoma (PDAC). The Positron Emission Tomography Response Criteria in Solid Tumors (PERCIST) for positron emission tomography (PET)/CT is effective in other cancers. This study aimed to confirm the usefulness of PERCIST and the prognostic utility of PET/CT for PDAC.
+
+Methods
+Forty‐two consecutive patients with PDAC who underwent neoadjuvant therapy (NAT) and pancreatectomy at our institution between 2014 and 2018 were retrospectively analyzed. We evaluated the treatment response and prognostic significance of PET/CT parameters and other clinicopathological factors.
+
+Results
+Twenty‐two patients who underwent PET/CT both before and after NAT with the same protocol were included. RECIST revealed stable disease and partial response in 20 and 2 cases, respectively. PERCIST revealed stable metabolic disease, partial metabolic response, and complete metabolic response in 8, 9, and 5 cases, respectively. The PTR was G3, G2, and G1 in 8, 12, and 2 cases, respectively. For comparing the concordance rates between PTR and each parameter, PERCIST (72.7% [16/22]) was significantly superior to RECIST (36.4% [8/22]) (P = .017). The area under the curve survival values of PET/CT parameters were 0.777 for metabolic tumor volume (MTV), 0.500 for maximum standardized uptake value, 0.554 for peak standardized uptake value corrected for lean body mass, and 0.634 for total lesion glycolysis. A 50% cut‐off value for the MTV reduction rate yielded the largest difference in survival between responders and nonresponders. On multivariate analysis, MTV reduction rates < 50% were independent predictors for relapse‐free survival (hazard ratio [HR], 3.92; P = .044) and overall survival (HR, 14.08; P = .023).
+
+Conclusions
+PERCIST was more accurate in determining NAT’s therapeutic effects for PDAC than RECIST. MTV reduction rates were independent prognostic factors for PDAC.
