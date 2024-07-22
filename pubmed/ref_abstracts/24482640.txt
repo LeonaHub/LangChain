@@ -1,0 +1,11 @@
+Introduction
+Altered neutrophil apoptosis might be responsible for recurrent bacterial infections encountered in hemodialysis (HD) and chronic kidney disease (CKD) patients. This work was designed to assess the neutrophil apoptotic activity and the impact of implementation of granulocyte macrophage colony stimulating factor (GM-CSF), as a survival factor, on neutrophil apoptosis among these patients.
+
+Material and methods
+Twenty-five patients on regular HD along with 34 CKD patients on conservative treatment, as well as 15 healthy controls, were investigated for apoptotic rate via assessment of neutrophil expression of Annexin-V by flow cytometry, before and after 20 h culture in absence and presence of GM-CSF. Neutrophil viability was determined using light microscopy. The preservation of neutrophil activation in these patients was analyzed by flow cytometric CD18 neutrophil expression. Chronic inflammatory state was evaluated by estimating C-reactive protein (CRP) and soluble intercellular adhesion molecule-1 (sICAM-1). Obtained data were statistically analyzed.
+
+Results
+Compared to controls, both HD and CKD groups had a significant increase of Annexin-V and CD18 expression and significant decrease in neutrophil viability. Culture of their neutrophils with GM-CSF showed significant decrease of apoptosis accompanied by improvement of neutrophil viability compared to their cultured cells without GM-CSF. These patients also showed significant elevation of CRP and sICAM-1.
+
+Conclusions
+Granulocyte macrophage colony stimulating factor demonstrated an evident impact on improving in vitro neutrophil survival and viability in HD and CKD patients. Therefore, this may represent promising preventive and/or therapeutic strategies against infection frequently observed in these patients and causing morbidity and mortality.

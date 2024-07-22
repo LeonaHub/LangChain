@@ -1,0 +1,11 @@
+Background
+Combination antiretroviral therapy (ART) for HIV-1 infected individuals prevents sexual transmission if viral load is suppressed.
+
+Methods
+Participants were HIV-1 infected partners randomized to early ART (CD4 350-550) in HPTN052 (n=886, median follow-up = 2.1 years), a clinical trial of early ART to prevent sexual transmission of HIV-1 in serodiscordant couples at 13 sites in 9 countries. Adherence was assessed via pill-count (dichotomized at <95%) and via self-report items. Predictors of adherence were mental health and general health perceptions, substance use, binge drinking, social support, sexual behaviors, and demographics. Viral suppression was defined as HIV plasma viral load <400 copies/ml. Adherence counseling and couples counseling about safer sex was provided. Logistic and linear regression models using generalized estimating equation for repeated measurements were employed.
+
+Findings
+Via pill-count, 82% of participants were adherent at 1 month and 83.3% at 1 year. Mental health was the only psychosocial variable associated with adherence (pill-count OR=1.05: 95% CI: 1.00 – 1.11; self-report parameter estimate (b)=0.02, 95% CI: 0.01 –0.04), though regional differences emerged. Pill-count (OR=1.19, 95% CI: 1.10-1.30) and self-report (OR=1.42, 95% CI: 1.14-1.77) adherence were associated with viral suppression.
+
+Interpretation
+While adherence was high among individuals in stable relationships taking ART for prevention, mental health and adherence co-varied. Assessing and intervening on mental health in the context of promoting adherence to ART as prevention should be explored. Adherence and couples counseling, feedback about viral suppression, and/or altruism may also help explain the magnitude of adherence observed.

@@ -1,0 +1,11 @@
+Objectives
+The aim of this paper is to determine the interrelationship between the microstructure--in terms of chemical composition and crystallinity--to the microhardness of coronal dentin.
+
+Methods
+Dentin microhardness was tested by a novel reference point indenter and compared to the traditional Knoop hardness method. Micro-Raman spectroscopy was used to determine the chemical composition and crystallinity of dentin.
+
+Results
+From the occlusal groove to the border of the coronal pulp chamber, dentin hardness decreased from superficial dentin (SD) to deep dentin (DD). Mineral/organic matrix ratios (phosphate/C-H and phosphate/amide I) also decreased from SD to DD; however, this change was significant (P<0.05) in the phosphate/amide I ratio only. The phosphate/carbonate ratio decreased significantly by varying position from SD to DD. The degree of the crystallinity, as measured by the full width at half maximum (FWHM) of the peak at 960cm−1, decreased significantly going from superficial to deep dentin.
+
+Significance
+For the first time, the interrelationship between the microstructure and the mechanical properties of coronal dentin was determined by using the novel reference point indentation technique and micro-Raman spectroscopy. We hypothesize that the decrease in hardness from superficial to deep dentin can potentially be explained by decreased mineral content and increased carbonate content, which is also associated with decreased crystallinity. Collectively, there is a positive association between dentin hardness and mineral content and a negative association between dentin hardness and carbonate content.

@@ -1,0 +1,8 @@
+Background
+Hirudin is an anti-coagulation protein produced by the salivary glands of the medicinal leech Hirudomedicinalis. It is a powerful and specific thrombin inhibitor. The novel recombinant hirudin, RGD-hirudin, which contains an RGD motif, competitively inhibits the binding of fibrinogen to GPIIb/IIIa on platelets, thus inhibiting platelet aggregation while maintaining its anticoagulant activity.
+
+Results
+Recombinant RGD-hirudin and six mutant variants (Y3A, S50A, Q53A, D55A, E57A and I59A), designed based on molecular simulations, were expressed in Pichia pastoris. The proteins were refolded and purified to homogeneity as monomers by gel filtration and anion exchange chromatography. The anti-thrombin activity of the six mutants and RGD-hirudin was tested. Further, we evaluated the binding of the mutant variants and RGD-hirudin to thrombin using BIAcore surface plasmon resonance analysis (SPR). Kinetics and affinity constants showed that the KD values of all six mutant proteins were higher than that of RGD-hirudin.
+
+Conclusions
+These findings contribute to a novel understanding of the interaction between RGD-hirudin and thrombin.

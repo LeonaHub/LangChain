@@ -1,0 +1,11 @@
+Background
+Growth is an essential outcome measure for evaluating the safety of any new ingredients, including probiotics, added to infant formulae. The aim of this systematic review was to determine the effects of supplementation of infant formulae with Bifidobacterium lactis Bb12 (B lactis) and/or Lactobacillus rhamnosus GG (LGG) compared with unsupplemented formula on the growth of healthy infants.
+
+Methods
+The MEDLINE, EMBASE, and Cochrane Library databases were searched in June 2013 for relevant randomized controlled trials (RCTs) conducted in healthy term infants. Unpublished data were obtained from the manufacturer of B lactis-supplemented formula. The primary outcome measures were weight, length, and head circumference.
+
+Results
+Nine eligible trials were identified. Compared with unsupplemented controls, supplementation of infant formula with B lactis had no effect on weight gain [4 RCTs, n = 266, mean difference (MD) 0.96 g/day, 95% confidence interval (CI) -0.70 to 2.63)], length gain (4 RCTs, n = 261, MD −0.39 mm/month, 95% CI −1.32 to 0.53), or head circumference gain (3 RCTs, n = 207, MD 0.56 mm/month, 95% CI −0.17 to 1.30). Data limited to one small (n = 105) trial suggest that infants who received standard infant formula supplemented with LGG grew significantly better. No such effect was observed in infants fed hydrolyzed formula supplemented with LGG.
+
+Conclusions
+Supplementation of infant formula with B lactis results in growth similar to what is found in infants fed unsupplemented formula. Limited data do not allow one to reach a conclusion regarding the effect of LGG supplementation on infant growth.

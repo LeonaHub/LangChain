@@ -1,0 +1,11 @@
+Background and Objectives
+A recent study demonstrated that tinnitus could be eliminated by vagus nerve stimulation (VNS) paired with notched sounds in a rat tinnitus model. The aims of this clinical study were to investigate the effects and safety of transcutaneous VNS (tVNS) by patch-type electrode paired with notched music for treating chronic tinnitus.
+
+Subjects and Methods
+Thirty patients with refractory chronic tinnitus for >12 months were included in this study. A patch-type electrode was attached to the auricular concha of the patient's left ear and tVNS was performed for 30 min (pulse rate 25 Hz, pulse width 200 µs, and amplitude 1-10 mA) using a transcutaneous electric nerve stimulation eco2. During tVNS, the patients listened to notched music cleared of the frequency spectrum corresponding to the tinnitus with a 0.5 octave notch width.
+
+Results
+After 10 treatment sessions, 15/30 patients (50%) reported symptom relief in terms of a global improvement questionnaire. The mean tinnitus loudness (10-point scale) and the mean tinnitus awareness score (%) improved significantly from 6.32±2.06 to 5.16±1.52 and from 82.40±24.37% to 65.60±28.15%, respectively (both p<0.05). None of the patients had any specific side effects, such as changes in heart rate or blood pressure.
+
+Conclusions
+This study has demonstrated the feasibility and safety of tVNS paired with notched music therapy in patients with chronic tinnitus, with the use of a pad-type electrode attached to the auricular concha.
