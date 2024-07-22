@@ -1,0 +1,11 @@
+Background
+Idiopathic pulmonary fibrosis (IPF) is chronic fibrosing pneumonia with an unpredictable natural disease history. Functional respiratory imaging (FRI) has potential to better characterize this disease. The aim of this study was to identify FRI parameters, which predict FVC decline in patients with IPF.
+
+Methods
+An IPF-cohort (treated with pamrevlumab for 48 weeks) was retrospectively studied using FRI. Serial CT’s were compared from 66 subjects. Post-hoc analysis was performed using FRI, FVC and mixed effects models.
+
+Results
+Lung volumes, determined by FRI, correlated with FVC (lower lung volumes with lower FVC) (R2 = 0.61, p < 0.001). A negative correlation was observed between specific image based airway radius (siRADaw) at total lung capacity (TLC) and FVC (R2 = 0.18, p < 0.001). Changes in FVC correlated significantly with changes in lung volumes (R2 = 0.18, p < 0.001) and siRADaw (R2 = 0.15, p = 0.002) at week 24 and 48, with siRADaw being more sensitive to change than FVC. Loss in lobe volumes (R2 = 0.33, p < 0.001), increasing fibrotic tissue (R2 = 0.33, p < 0.001) and airway radius (R2 = 0.28, p < 0.001) at TLC correlated with changes in FVC but these changes already occur in the lower lobes when FVC is still considered normal.
+
+Conclusion
+This study indicates that FRI is a superior tool than FVC in capturing of early and clinically relevant, disease progression in a regional manner.

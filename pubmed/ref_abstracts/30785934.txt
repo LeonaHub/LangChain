@@ -1,0 +1,11 @@
+Background
+Premature neonates (PN) present multiple risk factors for high frequencies and high levels of colonization by C. difficile, yet data is missing about this specific pediatric population. Here, we investigated PN C. difficile carriage and colonization dynamics, analyzed the impact of perinatal determinants on colonization, and characterized the isolates.
+
+Methods
+A one year longitudinal monocentric prospective cohort study was performed on 121 PN. C. difficile strains isolated from fecal samples on selective medium were identified and characterized by PCR (tpi housekeeping gene; tcdA and tcdB, and binary toxin genes), capillary gel-based electrophoresis PCR-ribotyping, and Multi-Locus Variable-number tandem-repeat Analysis (MLVA).
+
+Results
+Of the 379 samples analyzed, 199 (52%) were C. difficile culture positive with the mean levels of C. difficile colonization decreasing significantly (P = .027) over time. During hospitalization, C. difficile colonization frequency increased up to 61% with 95% of the strains belonging to both non-toxigenic PCR-ribotypes (RTs) FR082 (35%) and 032 (60%). After hospital discharge, if a higher diversity in RTs was observed, RTs FR082 and 032 remained predominant (respectively 40% and 28%). MLVA showed clonal relationship within each FR082 and 032 RTs. Ten toxigenic strains (5%) were isolated, all tcdA+/tcdB+ except for one tcdA-/tcdB+, and all being acquired after hospitalization. At 1 week, the only factors found to be linked with a higher frequency of C. difficile colonization were a higher gestational age (P = 0.006) and a higher birth weight (P = 0.016).
+
+Conclusion
+The dynamics of C. difficile colonization in PN followed a specific pattern. C. difficile colonization rapidly occurred after birth with a low diversity of non-toxigenic RTs. After hospitalization, non-toxigenic RTs diversity increased. Sporadic carriage of toxigenic strains was observed after hospitalization.

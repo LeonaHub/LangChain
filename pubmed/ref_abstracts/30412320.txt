@@ -1,0 +1,11 @@
+Purpose:
+Some crowns returned from the laboratory are clinically unacceptable, and dentists must remake them. The objectives of this study were to: (1) quantify the remake rate of single-unit crowns; and (2) identify factors significantly associated with crown remakes and intraoral fit.
+
+Materials and Methods:
+Dentists participating in the National Dental Practice-Based Research Network recruited patients needing crowns and documented fabrication techniques, patient characteristics, and outcomes. Crowns were considered clinically acceptable or rejected. Also, various aspects of the clinical fit of the crown were graded and categorized as ‘Goodness of Fit (GOF).’ Dentist and patient characteristics were tested statistically for associations with crown acceptability and GOF.
+
+Results:
+More than 200 dentists participated in this study (N = 205) and evaluated 3750 single-unit crowns. The mean age (years) of patients receiving a crown was 55. The remake rate for crowns was 3.8%. The range of rejection rates among individual practitioners was 0% to 42%. Most clinicians (118, or 58%) did not reject any crowns; all rejections came from 42% of the clinicians (n = 87). The most common reasons for rejections were proximal misfit, marginal errors, and esthetic failures. Fewer years in practice was significantly associated with lower crown success rates and lower fit scores. GOF was also associated with practice busyness and patient insurance status, patient gender (dentists reported better fit for female patients), and patient ethnicity.
+
+Conclusions:
+The crown remake rate in this study was about 4%. Remakes and crown GOF were associated with certain dentist and practice characteristics.

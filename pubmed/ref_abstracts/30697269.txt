@@ -1,0 +1,11 @@
+Introduction
+This study aimed to explore the bio-function of miR-210 in the pathogenesis of pre-eclampsia and provide new insights into the diagnosis and treatment of pre-eclampsia.
+
+Material and methods
+A JAR cell line cultured in standard or hypoxic conditions was used in this study. Expression levels of miR-210 and PTPN2 were determined using real-time polymerase chain reaction (RT-PCR). Protein and phosphorylation levels were assessed using western blotting. Proliferation of JAR cells was evaluated using MTT assay. Migration and invasion were measured using transwell assay.
+
+Results
+Expression of miR-210 increased significantly in a time-dependent manner after hypoxia treatment within 36 h (p < 0.05). miR-210 inhibitor significantly decreased the cell proliferation, migration, and invasion (p < 0.05), while miR-210 mimic reversed these findings (p < 0.05). Hypoxia significantly suppressed the expression of PTPN2; however, this elevation was abolished by miR-210 inhibitor (p < 0.05). Inhibition of PTPN2 or hypoxia significantly increased the proliferation, migration, and invasion of JAR cells, while miR-210 inhibitor significantly reversed these changes (p < 0.05). The phosphorylation levels of PDGFR, Akt, and Erk were markedly upregulated by hypoxia or si-PTPN2, but this effect was abolished by miR-210 inhibitor (p < 0.05).
+
+Conclusions
+miR-210 can promote proliferation, migration, and invasion via downregulating PTPN2 in the PDGFR-Akt pathway.
