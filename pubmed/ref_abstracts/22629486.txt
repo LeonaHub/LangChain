@@ -1,0 +1,11 @@
+Background:
+Little is known about the relation between preoperative glycemic state and neurosurgical outcomes. Improved understanding of this relationship may identify patients at increased risk of complicated recovery and guide postoperative treatment strategies.
+
+Methods:
+Data were collected about 918 consecutive craniotomy or spine-related neurosurgical cases at the University of Michigan Hospitals. Univariate statistics, bivariate chi-square tests, and analysis of variance were used to assess relations between preoperative blood glucose, demographics, medical comorbidities, systemic glucocorticoid use, and postoperative complication risk and postoperative hospital and intensive care unit (ICU) stay. We fit a multivariable logistic regression model of 30-day complication risk by preoperative blood glucose adjusted for potential confounders, and used analysis of covariance to assess the relation between preoperative blood glucose and hospital, as well as ICU stay, adjusted for potential confounders.
+
+Results:
+Among all patients, 56.1% had peri-operative blood glucose levels below 100 mg/dl. 20.7% had levels from 100 to 120 mg/dl, 16.3% had levels from 121 to 160 mg/dl, and 6.9% had levels greater than 160 mg/dl. In multivariable regression models, blood glucose greater than 120 mg/dl was associated with increased risk of postoperative complications at all levels. Analysis of covariance showed that preoperative blood glucose above 120 mg/dl was associated with both increased length of ICU stay and length of hospital stay.
+
+Conclusions:
+Our findings suggest that even mild preoperative hyperglycemia is a predictor of postoperative complication risk, and prolonged hospital and ICU stay following neurosurgical intervention. Tight glycemic control may be in order when attempting to reduce risk of complications and limit postoperative recovery time.

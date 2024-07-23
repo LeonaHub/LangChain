@@ -1,0 +1,11 @@
+Background
+The membrane permeability transition of mitochondria has been suggested to be involved in toxic and oxidative forms of cell injury. Mitochondrial dysfunction is considered to play a critical role in neurodegeneration in Parkinson's disease. Despite the suggestion that indole β-carbolines may be neurotoxic, these compounds provide a protective effect against cytotoxicity of other neurotoxins. In addition, the effect of indole β-carbolines on change in the mitochondrial membrane permeability due to reactive nitrogen species (RNS), which may lead to cell death, has not been clarified.
+
+Methods
+Differentiated PC12 cells were used as the experimental culture model for the investigation of neuronal cell injury, which occurs in Parkinson's disease. The effect of indole β-carbolines (harmalol and harmine) on differentiated PC12 cells against toxicity of S-nitroso-N-acetyl-DL-penicillamine (SNAP) was determined by measuring the effect on the change in transmembrane potential, cytochrome c release, formation of ROS, GSH contents, caspase-3 activity and cell viability, and was compared to that of R-(-)-deprenyl.
+
+Results
+Specific inhibitors of caspases (z-LEHD.fmk, z-DQMD.fmk) and antioxidants (N-acetylcysteine, dithiothreitol, melatonin, carboxy-PTIO and uric acid) depressed cell death in PC12 cells due to SNAP. β-Carbolines and R-(-)-deprenyl attenuated the SNAP-induced cell death and GSH depletion concentration dependently with a maximal inhibitory effect at 25-50 µM. The compounds inhibited the nuclear damage, decrease in mitochondrial transmembrane potential, cytochrome c release and formation of reactive oxygen species caused by SNAP in PC12 cells. β-Carbolines and R-(-)-deprenyl attenuated the H2O2-induced cell death and depletion of GSH.
+
+Conclusions
+The results suggest that indole β-carbolines attenuate the SNAP-induced viability loss in PC12 cells by inhibition of change in the mitochondrial membrane permeability, which may be caused by free radicals. Indole β-carbolines appear to exert a protective effect against the nitrogen species-mediated neuronal cell injury in Parkinson's disease comparable to R-(-)-deprenyl.
