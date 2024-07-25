@@ -1,0 +1,8 @@
+Purpose
+This paper discusses a novel approach for treatment of lexical retrieval deficits in aphasia in which treatment begins with complex, rather than simple, lexical stimuli. This treatment considers the semantic complexity of items within semantic categories, with a focus on their featural detail.
+
+Methods and Results
+Previous work on training items within animate categories (Kiran & Thompson, 2003a) and preliminary work aimed at items within inanimate categories are discussed in this paper. Both these studies indicate that training atypical category items that entail features inherent in the category prototype as well as distinctive features that are not characteristic of the category prototype results in generalization to untrained typical examples which entail only features consistent with the category prototype. Conversely, training typical examples does not result in generalization to untrained atypical examples. In this paper, it is argued that atypical items are more complex than typical items within a category and a theoretical framework for this dimension of semantic complexity is discussed. Then, evidence from treatment studies that support this complexity hierarchy is presented. Potential patient- and stimulus- specific factors that may influence the success of this treatment approach are also discussed.
+
+Conclusions
+The applications of semantic complexity to treatment of additional semantic categories and functional applications of this approach are proposed.

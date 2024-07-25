@@ -1,0 +1,11 @@
+Purpose
+To three-dimensionally delineate the anterior and posterior surface of the lamina cribrosa, scleral flange and peripapillary sclera so as to determine the position and thickness of these structures within digital three-dimensional (3D) reconstructions of the monkey optic nerve head (ONH).
+
+Methods
+The trephinated ONH and peripapillary sclera from both eyes of three early glaucoma (EG) monkeys (one eye Normal, one eye given laser-induced EG) were serial-sectioned at 3-μm thickness, with the embedded tissue block face stained and imaged after each cut. Images were aligned and stacked to create 3D reconstructions, within which Bruch's membrane opening (BMO) and the anterior and posterior surfaces of the lamina cribrosa and peripapillary sclera were delineated in 40 serial, radial (4.5° interval), digital, sagittal sections. For each eye, a BMO zero reference plane was fit to the 80 BMO points, which served as the reference from which all position measurements were made. Regional laminar, scleral flange, and peripapillary scleral position and thickness were compared between the Normal and EG eyes of each monkey and between treatment groups by analysis of variance.
+
+Results
+Laminar thickness varies substantially within the Normal eyes and is profoundly thicker within the three EG eyes. Laminar position is permanently posteriorly deformed in all three EG eyes, with substantial differences in the magnitude and extent of deformation among them. Scleral flange and peripapillary scleral thickness vary regionally within each Normal ONH with the scleral flange and peripapillary sclera thinnest nasally. Overall, the scleral flange and peripapillary sclera immediately surrounding the ONH are posteriorly displaced relative to the more peripheral sclera.
+
+Conclusion
+Profound fixed posterior deformation and thickening of the lamina is accompanied by mild posterior deformation and thinning of the scleral flange and peripapillary sclera at the onset of confocal scanning laser tomography detected (CSLT) ONH surface change in young adult monkey eyes with early experimental glaucoma.
