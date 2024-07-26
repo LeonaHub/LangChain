@@ -1,0 +1,124 @@
+The administration of intravenous dipyridamole during perfusion scintigraphy has been carried out since 1978 (1, 2, 3, 4) with good results in patients who are unable to perform a conventional exercise test ([5]). Some investigators (6, 7, 8, 9) have suggested that the use of isometric exercise in association with dipyridamole administration would improve test results. Performance of dynamic exercise after dipyridamole administration has also been reported (10, 11, 12, 13, 14, 15, 16, 17) to improve test results; however, this approach implies giving dipyridamole to all patients before they perform the exercise test.
+
+In everyday practice, the clinician wants the information provided by the exercise test itself when assessing the severity of coronary artery disease (
+[18]
+). For this reason maximal subjective stress testing is encouraged in most cases. However, if the patient’s exercise level is insufficient, the yield of perfusion scintigraphy is suboptimal (19, 20, 21, 22, 23). In many cases, it is not possible to foresee which patients will achieve a high enough heart rate and an appropriate peak O2consumption for an adequate test. Therefore, on the basis of promising results with thallium-201 (201Tl) planar scintigraphy ([24]), we designed a prospective protocol using technetium-99m methoxy isobutyl isonitrile (99mTc-MIBI) myocardial single-photon emission computed tomography (SPECT). In this protocol we administered intravenous dipyridamole during exercise to patients who, after the start of exercise testing, are unable to achieve either 80% of the predicted peak heart rate for their age or a peak O2consumption >5 metabolic equivalents (METs), or both.
+
+The use of dipyridamole (
+[25]
+) or adenosine (
+[26]
+) in combination with a maximal subjective stress test has improved the quality of the 201Tl myocardial perfusion images by providing a better heart/background ratio and reducing the noncardiac side effects of these drugs. However, there are no studies demonstrating that this combination improves the diagnostic accuracy of myocardial perfusion SPECT.
+
+The aim of the present study was to demonstrate that the diagnostic value of 99mTc-MIBI SPECT performed in association with simultaneous intravenous dipyridamole injection during exercise is higher than that obtained with exercise testing alone when physical performance is inadequate.
+
+1. Methods
+1.1. Study patients.
+We studied 231 consecutive patients free from previous myocardial infarction who 1) had undergone myocardial 99mTc-MIBI SPECT between October 1992 and March 1995, and 2) had undergone coronary angiography within 3 months of the SPECT study. During the SPECT study period, 1,300 patients were evaluated with 99mTc-MIBI SPECT in our institution. We excluded 1,069 of these patients because 1) coronary angiography was not available (n = 650) or had been performed >3 months before or after SPECT (n = 48); or 2) the patient had had a previous myocardial infarction (n = 209), had undergone myocardial revascularization (n = 119) or had valvular heart disease (n = 19), cardiomyopathy (n = 12) or left bundle branch block (n = 12).
+
+One hundred nine (47%) of the 231 included patients were studied for diagnostic purposes because results of a previously performed conventional stress test were inconclusive. In 35 (32%) of these 109 patients, peak heart rate had been insufficient, in 34 (31%) the results of stress electrocardiography were indeterminate and in the remaining 40 (37%) coronary artery disease was suspected clinically despite negative results in an exercise electrocardiogram (ECG).
+
+In 122 (53%) of the 231 included patients the diagnosis of coronary artery disease was previously obtained by coronary angiography, and 99mTc-MIBI SPECT was performed in prognostic purposes. In 83 (68%) of the 122, SPECT was ordered to localize ischemia; in the remaining 39 (32%) it was ordered for assessment of the functional effect of an angiographically demonstrated coronary stenosis that was of doubtful severity. Ninety-five (78%) of these 122 patients had stable angina and 27 (22%) underwent SPECT during their hospital stay ≥3 days after stabilization of unstable angina.
+
+Since October 1992 it has been routine practice in our laboratory to administer intravenous dipyridamole to all patients who do not achieve a peak heart rate 80% of that predicted for age and >5 METs during exercise testing. Dipyridamole is injected while exercise is continued, as described later.
+
+According to these criteria the study patients were classified in three groups: Group 1(adequate exercise test) comprised 91 patients who had a peak heart rate ≥80% of predicted value for their age (220 beats/min − age) or who manifested ST segment depression ≥1 mm or angina during the test. Group 2(inadequate exercise test) comprised 68 patients who had a peak heart rate <80% of the predicted value, O2consumption >5 METs, no ST segment depression ≥1 mm and no angina. Group 3(inadequate exercise test plus dipyridamole during exercise) comprised 72 patients with a peak heart rate <80% of the predicted value, O2consumption <5 METs and no ST segment depression ≥1 mm or angina who received intravenous dipyridamole during exercise.
+
+1.2. Exercise test.
+All patients performed a symptom-limited exercise test on a bicycle ergometer, with an initial load of 50 W and successive 25-W increments every 3 min until exhaustion, symptoms or >2-mm ST segment depression developed.
+
+An exercise test result was considered positive when the patient had angina or ≥1-mm horizontal or downsloping ST segment depression 0.08 s after the J point. ST segment depression between 0.5 and 1 mm was considered indeterminate.
+
+1.3. Dipyridamole.
+Patients whose peak heart rate was <80% of the predicted value and whose oxygen consumption was <5 METs (group 3) received intravenous dipyridamole (0.14 mg/kg body weight per min for 4 min) while they continued to exercise at the maximal tolerated load until 2 min after the end of dipyridamole administration. When the first level of exercise was not optimally tolerated by the patient (50 W for a 70-kg adult represents an O2consumption of 4.3 METs) the administration of dipyridamole was indicated. Fifteen percent of patients needed lowering the maximal load so as to complete dipyridamole administration. Administration of the drug was interrupted if angina or ≥1-mm ST segment depression developed.
+
+To compare the extent of ischemia in polar maps in 20 patients with proved coronary artery disease (the last 9 patients from group 2 and the last 11 from group 3), we submitted these patients to two SPECT studies performed with and without dipyridamole 1 week apart, at the same level of exercise.
+
+1.4. 99mTc-MIBI SPECT.
+All patients received an intravenous dose of 99mTc-MIBI (15 mCi) 30 to 60 s before the end of exercise. The stress and rest studies were carried out on separate days, with an interval of ≥24 h; the same dose was used for both studies. Images were acquired 1 h after administration of the radiopharmaceutical by using an Elscint SP4 scintillation camera with a high resolution collimator and a semicircular orbit starting at a 30° right anterior oblique position and with detection being carried out every 3°. Reconstruction was performed (Butterworth filter, order 5, section frequency 0.4), and short-axis, horizontal long-axis and vertical long-axis sections were obtained according to current recommendations (
+[27]
+) (
+Fig. 1
+).
+Fig. 1. Myocardial single-photon emission computed tomograms from a patient after a submaximal exercise test (E), after a submaximal exercise test plus dipyridamole (E + D) and at rest (R). The severity of the inferior defect and its anteroseptal and apical extension are clearly greater in E + D. hla = horizontal long axis; sa = short axis; vla = vertical long axis.
+
+Myocardial uptake was assessed by consensus of three experienced observers who were unaware of the results of coronary angiography. Thirteen segments were evaluated: anterobasal, midanterior, anteroapical, septal-basal, midseptal, septal-apical, inferobasal, midinferior, inferoapical, lateral-basal, midlateral, lateral-apical and apical. In each of these segments, uptake was assessed as normal, equivocal, mild, moderate or severe defect (similar to the background uptake) (
+[28]
+).
+
+A SPECT study was considered positive only when a mild, moderate or severe defect was present in stress images in at least two of the three axes or in three consecutive tomographic sections on the same axis of the stress images, with normal uptake at rest.
+
+In the 20 patients who underwent two SPECT studies, one with and one without simultaneous dipyridamole administration, the extent of ischemia was quantified in the polar maps (
+[29]
+). Following a methodology of our own, we established four regions: anteroseptal, apical, inferior and lateral (
+Fig. 2
+). We quantified the polar image of ischemia (using the difference between the polar rest and polar exercise images and between the polar rest and polar exercise plus dipyridamole images), with a 10% cutoff value. In the polar image of ischemia all pixels with values >10% are displayed in red. The extent of ischemia is calculated as the percent rate of ischemia in the interest area with pixel values >10% as compared with the overall value of the area of each of the four regions. The overall rate of ischemia is calculated from the four areas weighted for their surface.
+Fig. 2. Same patient. Polar maps after exercise (E), after exercise plus dipyridamole (E + D) and at rest (R). At bottom,the extent of ischemia is shown in redand clearly appears greater in the inferior (i, 33% vs. 11%), anteroseptal (as, 36% vs. 7%) and apical (a, 100% vs. 40%) territories after exercise test plus dipyridamole than after exercise alone. See Methods. l = lateral.
+
+1.5. Cardiac catheterization.
+All patients underwent cardiac catheterization. The procedure included left ventriculography and coronary angiography, performed with the usual Seldinger technique within 3 months of myocardial SPECT. Coronary stenoses >50%, as established by the consensus of two experts after visual examination, were considered significant.
+
+1.6. Statistical analysis.
+The sensitivity, specificity, global value, positive predictive value and negative predictive value and their 95% confidence intervals were calculated for groups 1, 2 and 3. The chi-square test was used to compare results between these groups. p ≤ 0.05 was accepted as the level of statistical significance.
+
+In the 20 patients who underwent two SPECT studies (with and without dipyridamole at the same exercise level), the extent of ischemia (global and for each territory) in the polar maps without and with dipyridamole was compared by using the Student ttest for paired data.
+
+2. Results
+2.1. Cardiac catheterization.
+The prevalence of coronary artery disease in the study group was 65%. Eighty-two (35%) of the 231 patients in groups 1, 2 and 3 had angiographically normal coronary arteries; of the remaining 149 patients, 46 had one-vessel disease, 50 had two-vessel disease and 53 had three-vessel disease. One hundred twenty-five had stenosis of the left anterior descending coronary artery, 97 of the right coronary artery and 83 of the left circumflex coronary artery (
+Table 1
+).
+
+Table 1. Clinical Characteristics and Results of Exercise Testing and Coronary Angiography in the Three Patient Groups
+All 20 patients (mean age ± SD 58 ± 8 years, 35% women) with two SPECT studies (one with and one without dipyridamole at the same exercise level) had coronary artery disease. Six patients had >50% stenosis in one vessel, 3 in two vessels and 11 in three vessels. The left anterior descending coronary artery was involved in 15 patients, the right coronary artery in 16 and the left circumflex coronary artery in 14.
+
+2.2. Exercise test and dipyridamole.
+Table 1
+shows the clinical characteristics, the purpose of the exercise test (diagnostic or prognostic evaluation), test results and the treatment that patients in the three groups were receiving when the test was performed.
+
+Angina developed after dipyridamole administration in 23 percent of the patients in group 3. These patients were given intravenous theophylline (125 to 250 mg), and the symptoms were controlled in all. Headache after dipyridamole administration was spontaneously reported by 8% of patients.
+
+Table 2
+shows the results of the two exercise tests in the 20 patients who underwent two SPECT studies (one with and one without dipyridamole at the same exercise level).
+
+Table 2. Results of the Exercise Test and Extent of Ischemia (polar map) in the 20 Patients With and Without Simultaneous Dipyridamole Administration
+2.3. Myocardial SPECT.
+The sensitivity, specificity, global value and positive and negative predictive values of myocardial SPECT in the three patient groups, with their 95% confidence intervals, are shown in 
+Table 3
+The results for sensitivity, global value and negative predictive value in group 1 (adequate exercise test) were significantly better (p = 0.003, p = 0.002 and p = 0.002, respectively) than those in group 2 (inadequate exercise test).
+
+The results for sensitivity and negative predictive value in group 3 (inadequate exercise test plus dipyridamole with exercise) were significantly better (p = 0.03 and p = 0.02, respectively) than in group 2 (inadequate exercise test) although the patients in group 2 had a higher level of O2consumption (6.1 ± 1.2 vs. 3.9 ± 1.3 METs, p < 0.0001).
+
+The extent of ischemia in the polar maps from the exercise tests with and without simultaneous dipyridamole in the 20 patients in whom two tests were performed is shown in 
+Table 2
+. The extent of ischemia, in each territory and in all territories considered as a whole, was significantly greater when dipyridamole was administered in addition to physical exercise (
+Fig. 1
+and 2).
+
+3. Discussion
+The good results obtained with perfusion scintigraphy by using intravenous dipyridamole in patients unable to exercise (1, 2, 3, 4) and those obtained when exercise was undertaken after the administration of dipyridamole at rest (10, 11, 12, 13, 14, 15, 16) prompted us to design a protocol in which dipyridamole is administered after the start of exercise testing in patients who prove unable to achieve sufficient peak heart rate and oxygen consumption. This protocol both permits assessment of the patient’s functional capacity and avoids administering the drug to all patients.
+
+3.1. Inadequate exercise test.
+A high proportion of patients who undergo perfusion scintigraphy do not achieve a high enough peak heart rate to confidently rule out coronary artery disease if the test result is negative. In many instances the diagnosis has already been made—for example, in patients receiving antianginal drugs who undergo exercise perfusion scintigraphy for prognostic purposes. The diagnostic efficacy of perfusion scintigraphy with 201Tl (17, 18, 19, 20, 21) and radionuclide ventriculography (30, 31) has been shown to be suboptimal in patients who have a low peak heart rate or are receiving beta-blocker therapy, or both.
+
+The sensitivity of 99mTc-MIBI SPECT was high in patients who had peak O2consumption values >5 METS and a peak heart rate 80% of predicted value for age in this series and in others (
+[23]
+) that used the same methods and interpretation criteria. Therefore, we decided to establish a protocol for administering dipyridamole during exercise in patients who did not meet the criteria for adequate heart rate and O2consumption.
+
+The present results confirm that the sensitivity of myocardial SPECT is reduced in patients with an inadequate exercise test (peak heart rate <80% of predicted value for age in the absence of symptoms or ischemic response in the exercise ECG). About 70% of the patients with false negative results were receiving beta-blocker therapy. As other investigators (18, 19, 21) have suggested, this factor is clinically important, and our findings highlight the need to withdraw such medication when the test is carried out for diagnostic purposes.
+
+3.2. Inadequate exercise test plus dipyridamole.
+Our study confirms the hypothesis that, with the administration of dipyridamole simultaneously with physical exercise, the diagnostic yield of myocardial SPECT can be significantly improved without loss of the important prognostic data provided by a maximal subjective exercise test.
+
+With the simultaneous dipyridamole/exercise test, sensitivity improved from 71% in group 2 to 89% in group 3 (p = 0.03) and the negative predictive value from 56% to 83%, respectively (p = 0.002), even though peak O2consumption was lower in group 3 (
+Table 1
+) because one criterion for administering dipyridamole was the patient’s inability to exercise to >5 METs. The only differences between the two groups were the greater prevalence of one-vessel disease in group 2 with respect to group 3 (32% vs. 19%, p = 0.004) and the greater proportion of women in group 3 with respect to group 2 (49% vs. 22%, p = 0.003). This finding might help to explain the lower O2consumption in group 3. In 15% of patients from group 3, maximal load had to be reduced to complete dipyridamole administration. In >90% of these patients, who had coronary artery disease, 99mTc-MIBI SPECT showed ischemia; therefore, we think that their inclusion does not distort the results.
+
+In addition, as shown in 20 patients who underwent exercise SPECT studies both with and without dipyridamole, the extent of ischemia as quantified in the polar maps was significantly higher at the same levels of heart rate and METs when dipyridamole was administered during exercise.
+
+3.3. Pathophysiologic effects of dipyridamole plus exercise.
+The vasodilation induced by dipyridamole, which may be up to two or three times greater than that induced by exercise, accounts for the greater flow to normally perfused areas than that to areas in which perfusion is reduced. This phenomenon results in a more reduced relative uptake of the radionuclide in the areas with more severe fixed stenoses. Exercise-induced hypoperfusion is always accompanied by myocardial ischemia (“absolute hypoperfusion”); this is not the case with dipyridamole-induced hypoperfusion (“relative hypoperfusion”). Therefore, in most patients the addition of dipyridamole infusion to exercise leads to maximal vasodilation in combination with the effects of exercise, such as an increase in heart rate, mean arterial pressure and contractility.
+
+In addition, as other investigators (13, 14, 32) have shown, the use of dipyridamole in combination with physical exercise improves cardiac image quality because the myocardial activity/background activity ratio is increased. The combined protocol also attenuates the secondary effects of dipyridamole which, in the absence of contraindications such as bronchial asthma and unstable coronary artery disease, are rare, even when this drug is given at rest (33, 34).
+
+Of the last 1,000 patients studied with 99mTc-MIBI SPECT in our hospital, 13% could not perform any kind of dynamic exercise and were tested pharmacologically. Only 23% had a peak heart rate >80% of predicted value for age, and 40% could not reach a peak heart rate of 80% of predicted value but experienced angina, had ischemic ECG changes or O2consumption >5 METs. The remaining patients (24%) did not exercise to peak heart rate of 80% of predicted value or 5 METs and did not have angina or ischemic ECG changes. We believe that our results indicate that systematic dipyridamole administration during exercise testing is warranted in these patients. Dipyridamole, unlike adenosine or dobutamine, can be directly administered intravenously in a short time period and without a perfusion pump, which allows performance of exercise testing during its administration. Thus, its use permits physicians to obtain the clinical and ECG information derived from a maximal subjective exercise test while optimizing the results of myocardial SPECT.

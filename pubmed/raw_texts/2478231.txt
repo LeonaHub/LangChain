@@ -1,0 +1,191 @@
+THE 7 CHAIN of human plasma fibrinogen is heterogeneous in molecular weight
+ and differs in amino acid sequence at the C-terminus.
+3
+ Three forms of γ chain designated γ50, γ55, and γ57.5 have been purified from human plasma.
+ The γ55 chain is four amino acids shorter than γ57.5, ending with a C-terminal P-423, and is most likely produced by post-translational modification of the γ57.5 chain.
+6
+ The composition of purified variant γ chain fibrinogens, which comprise 10% to 13% of total plasma fibrinogen, is heterodimeric (Aα, Bβ, γ50/γ55 or Aα, Bβ, γ50/γ57.5),
+ whereas the composition of the predominant form of the γ chain is homodimeric (Aα, Bβ, γ50/γ50).
+The γ50 and γ57.5 polypeptides are encoded by two different mRNA species produced in the liver by alternative RNA processing of the γ chain primary transcript.
+8
+, 
+9
+ This differential splicing event occurs in the RNA sequences encoding the platelet recognition site between C-terminal residues Q-407 (γ50/γ57.5) and A-408 (γ50) or V-408 (γ57.5), resulting in unique sequences coding for A-408-GDV-411 (γ50) or V408-RPEHPAETEYDSLYPEDDL-427 (γ57.5).
+8
+ The splicing event is also close to the sites involved in factor XIIIa-mediated crosslinking, which is accomplished by reciprocal bridging between two neighboring γ chains in an antiparallel fashion through residues Q-398 or Q-399 and K-406.
+10
+, 
+11
+ Differential RNA processing is conserved in expression of the rat γ chain gene as well, resulting in γ chains with C-termini of four unique residues for γA or 12 for γB.
+12
+ (The smallest γ chain has been termed γ,
+2
+ γA,
+1
+, 
+12
+ and γ505; the largest γ chain: γ’,
+2
+ γB,
+1
+, 
+12
+ and γ57.55; and the intermediate size γ chain: γ55.
+5
+)
+
+Recently we demonstrated that fibrinogen γ57.5 is expressed in hepatocytes but not in megakaryocytes using a specific monoclonal antibody (MoAb), L2B.
+13
+ The C-terminal extension of fibrinogen γ57.5 has been shown to affect platelet aggregation.
+ Adenosine diphosate (ADP)-stimulated platelets bind only 50% as much fibrinogen γ57.5 as fibrinogen γ50 bound at saturation,
+ although fibrinogen γ57.5 supports platelet aggregation nearly as well as fibrinogen γ50 when its Aα chains are intact.
+ However, when C-terminal Aα chain degradation is present, fibrinogen γ57.5 is 50% less effective in supporting ADP-induced platelet aggregation than fibrinogen γ50.
+ The ability of factor XIIIa to crosslink fibrinogens γ55 and γ57.5 in fibrin is similar to that of fibrinogen γ50.
+5
+ Because of the functional importance of the C-terminal end of the γ chain in fibrin formation and platelet aggregation, we investigated these properties in fibrinogen γ57.5. Specifically, to define the role of the γ57.5 chain in platelet-fibrinogen interactions, we examined the effects of MoAb L2B and synthetic peptide γ57.5408-416 on platelet function in comparison with Arg-Gly-Asp-Ser (RGDS) and γ50400-411 peptides, which are known to inhibit platelet-fibrinogen interactions.
+
+ Following fibrin polymerization and crosslinking, we studied the availability of the γ57.5 extension sequences using MoAb L2B.
+
+MATERIALS AND METHODS
+Synthetic peptides, peptide purification and amino acid analysis. Peptide γ57.5408-416 was synthesized by Applied Biosystems (Foster City, CA). Sixty milligrams of this peptide was fractionated by reverse phase-high-pressure liquid chromatography (RP-HPLC) on a Dynamax C-18 column (2.2 × 25 cm; Rainin Instrument Co, Woburn, MA) using a bilinear gradient of 2% to 40% 0.09% (vol/vol) trifluoroacetic acid in acetonitrile. Two peptide peaks were collected, lyophilized, and characterized by amino acid analysis on a Waters Pico-Tag Amino Acid Analysis System (Milford, MA) as described by Bidlingmeyer et al.
+29
+ The 7 chain platelet binding site dodecapeptide (γ504400-411)
+18
+ was purchased from Peninsula Laboratories (Belmont, CA), γ50397-411 and the RGDS cell attachment site tetrapeptide
+20
+ from Bachem (Torrance, CA). The control peptide (LNAGNQLS) used in platelet function studies was a kind gift of Joan Olson (University of Rochester, Rochester, NY).
+
+Antibody preparation. MoAb L2B was prepared using a synthetic peptide immunogen, γ57.5408-416 coupled to bovine serum albumin (BSA) as was H9B7 against γ50397-411 and anti-γ chain MoAb J88B was prepared against crosslinked fibrin digestion products as described.
+13
+ Mouse polyclonal anti-γ50 chain antiserum was produced by immunizing BALB/c mice with purified, reduced, and carboxymethylated γ50 chains prepared as described.
+5
+
+Purification of fibrinogen. Fibrinogen (Grade L; Helena Laboratories, Beaumont, TX) was chromatographed on a diethylaminoethanol-Sephacel column (Pharmacia Fine Chemicals, Piscataway, NJ) using a combined pH and ionic strength gradient. Fractions containing only γ50 chains (Peak A = 87%), equivalent amounts of γ50 and γ55 (Peak B = 3%), or equivalent amounts of γ50 and γ57.5 (Peak C = 7% to 10%) were pooled and concentrated as described.
+4
+
+Plasmic degradation of fibrinogen. Fibrinogen γ50 and γ57.5 were diluted to 1.3 mg/mL in 0.15 mol/L NaCl, 0.05 mol/L Tris-hydrochloric acid buffer (TBS), pH 7.6, containing 0.04 mol/L CaCl2. Plasmin (provided at 10.2 Committee on Therapeutic Agents U/mL by Dr D. Aronson, Bureau of Biologic Standards, Bethesda, MD) was added to a final concentration of 0.2 U/mL. The mixtures were incubated at 37°C, and the reaction terminated with the addition of soybean trypsin inhibitor to a final concentration of 0.2 mg/mL after 20 minutes (Peak C) or 90 minutes (Peak A) incubation.
+30
+ Fibrinogen γ chain related peptides, γ50397-411 and γ57.5408-416, (100 µg/mL) were digested in phosphate buffered saline (PBS) with plasmin (0.15 U/mL) for 3 hours at 37°C, and the reaction was terminated with the addition of 100 U/mL aprotinin (Mobay Chemical Co, New York, NY).
+
+Gel electrophoresis and Western blot analysis. Plasmin digested fibrinogens were electrophoresed under nonreducing conditions, and the polypeptide chains of purified fibrinogens γ50, γ55 and γ57.5 were resolved under reducing and denaturing conditions by sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE) using 7% gels of Weber and Osborn.
+31
+ SDS-PAGE of crosslinked fibrin employed a 5% to 14% gradient gel using the sulfate-borate buffer system of Neville
+32
+ as previously described.
+33
+ SDS-PAGE under non-reducing conditions was performed using 6% gels of Laemmli
+34
+ for Peak A and C fibrinogens. Western blot analysis was performed
+35
+, 
+36
+ with modifications as described.
+13
+ Slot-blot analysis was performed on nitrocellulose (Bio-Rad, Centerville, NY) using a slot-blot apparatus (Hybri-slot, Bethesda Research Laboratories, Gaithersburg, MD), and the nitrocellulose-slot-blot was analyzed by the Western blot procedure.
+
+Platelet preparation. Blood was obtained from volunteers after obtaining informed consent. It was collected into 0.1 volume 3.2% sodium citrate and 0.01 volume 1 mmol/L acetylsalicylic acid to prevent the release reaction. Platelet-rich plasma was obtained by centrifugation (15 minutes, 280 × g), and platelets were gel-filtered over a column of Sepharose 2B equilibrated with 0.01 mol/L N2-hydroxyethyl piperazine ethane sulfonic acid (HEPES) buffered modified Tyrode’s solution containing no added calcium, 2 mmol/L MgCl2 and 2 mg/mL BSA (Sigma, St Louis, MO).
+15
+
+Platelet function studies. Platelet aggregation studies were performed with gel-filtered platelets (GFP) preincubated (30 minutes, 22°C) with control peptide or γ57.5408-416 (0.1 to 0.2 mmol/L). Platelets were stimulated with 10 µmol/L ADP in the presence of 0.05 to 0.2 mg/mL fibrinogen γ50 or γ57.5 in a Chronolog aggregometer (Haverton, PA). Aggregometer baselines were set to 90% light transmission using a buffer blank and 10% light transmission using the GFP suspension. In other studies, fibrinogen γ50 or γ57.5 (0.05 mg/mL) was preincubated (60 minutes, 22°C) with 0.2 mg/mL MoAb L2B, and GFP were added and stimulated with 10 µmol/L ADP in the aggregometer.
+
+Similar studies were performed to examine the effect of MoAb L2B and synthetic peptide γ57.5408-416 on fibrinogen binding to or dissociation from ADP-stimulated GFP. Fibrinogen y50 and γ57.5 were radiolabeled with 125I as previously described.
+37
+ Platelets were preincubated (30 minutes, 22°C) with 0.1 to 0.2 mmol/L γ57.5408-416, then stimulated with 10 µmol/L ADP in the presence of trace amounts of 125I-fibrinogen, and fibrinogen binding was measured after 5 minutes. In some experiments, platelets were stimulated with ADP in the presence of fibrinogen γ50 or γ57.5. Peptide γ57.5408-416, was added 5 minutes later, and 125I-fibrinogen dissociation was measured over 60 minutes at 22°C. In other studies, trace amounts of 125I-labeled fibrinogen γ57.5 were incubated (60 minutes, 22°C) with 0.2 mg/mL L2B. GFP were added, stimulated with 10 µmol/L ADP and fibrinogen γ57.5 binding was determined after 5 minutes.
+
+Competitive inhibition enzyme-linked immunosorbent assay. Competitive inhibitor (γ57.5408-416, γ50400-411, RGDS, fibrinogen γ57.5 or γ50) was diluted from 0 to 0.3 nmol of protein or peptide in a constant volume, and each dilution was added to a constant volume of MoAb L2B. The reaction was incubated (1 hour, 22°C) with shaking. The excess unbound MoAb remaining in the solution was then measured by enzyme-linked immunosorbent assay (ELISA) using fibrinogen γ57.5 as the antigen. The data are expressed as the percent inhibition of ELISA based on the reduction in A490, as a function of the amount of competitive inhibitor.
+
+Preparation of crosslinked and non-crosslinked fibrin. Purified fibrinogen was diluted to a concentration of 2.5 mg/mL in TBS containing 15 mmol/L CaCl2. Clotting was initiated by adding thrombin (1.25 NIH U/mL, final concentration, Calbiochem-Behring Corp, La Jolla, CA) and 5 U/mL placenta factor XIII (kindly provided by Behringwerke-Hoechst-Roussel, Somerville, NJ) for crosslinked fibrin. The clots were incubated at 25°C for 18 hours, entrapped fluid was removed, and the clots were washed extensively in TBS.
+28
+ Non-crosslinked fibrin was prepared from factor XIII-deficient fibrinogen prepared as described.
+38
+
+Binding of MoAb L2B to pre-formed, crosslinked, and non-crosslinked fibrin. Purified MoAbs (IgG, isotype) were radiolabeled with 125I using the Enzymobeads lactoperoxidase method from Bio-Rad per manufacturer’s instructions. Crosslinked and non-crosslinked clots (1.5 mg) prepared from fibrinogen γ50 and unfractionated plasma fibrinogen were incubated (3 hours, 22°C) in TBS containing trace labeled MoAb L2B (0.5 mg/mL) or MoAb J88B (0.5 mg/mL). Clots were washed with seven changes of TBS containing 0.05% Tween 20 (vol/vol) (Bio-Rad) and bound radioactivity determined. The amount of non-specific binding of radiolabeled L2B to γ50-clots was 0.3% of input radioactivity in the presence of excess unlabeled L2B, and less than 0.5% without the addition of unlabeled L2B. The amount of 125I-L2B or 125I-J88B bound was calculated after subtracting the non-specific binding of L2B to γ50 fibrin clots. J88B was used as a control MoAb because it binds equally to all γ chain types in fibrinogen and crosslinked and non-crosslinked fibrin. MoAb L2B was preincubated (1 hour, 22°C) with an excess of synthetic peptide γ57408-416 to demonstrate specificity of binding. The binding of radiolabeled L2B to γ57.5 clots (84,058 cpm) was inhibited by preincubation of the MoAb with the peptide (9,357 cpm) to equal the non-specific binding of peptidebound-125I-L2B to γ50 fibrin clots (10,948 cpm).
+
+RESULTS
+Localization of the L2B epitope. The crude commercial peptide γ57.5408-416 was separated by RP-HPLC into two fractions, differing in the presence (CVRPEHPAET) or absence (CVRPE-PAET) of histidine, the latter resulting from a lower yield in the coupling of this residue during synthesis. Differential ELISA reactivity against the RP-HPLC purified peptides was observed with MoAb L2B, which was reactive with the histidine-containing peptide (A490 = 0.184) but non-reactive with the peptide lacking histidine (H-412). Since synthetic peptides less than 15 residues may bind poorly to microtiter plates,
+39
+ slot-blot analysis was performed confirming the reaction of L2B with the H-412 peptide from 20 µg down to 1 µg, but not with the same amounts of the H-412 deleted peptide (not shown), suggesting that H-412 is important in defining the L2B epitope in fibrinogen γ57.5.
+
+Western blot analysis of plasmic digests of fibrinogen to fragments D1 to D340 was used to further localize the L2B epitope. Fibrinogen γ50 was digested to produce fragments D2 and D3, and fibrinogen γ57.5 was digested to D, (
+Fig 1
+ A). L2B reacted with residues 408-416 in both denatured fibrinogen γ57.5 (
+Fig 1
+B, lane 4) and in reduced and denatured fibrinogen γ57.5 chain (
+Fig 1
+B, lane 5); however, plasmic digestion of fibrinogen γ57.5 to D1 resulted in loss of the L2B epitope (
+Fig 1
+B, lane 2). The plasmic digest was also tested by ELISA to detect reaction with small peptides released during cleavage, but L2B showed no reaction with plasmin cleaved fibrinogen γ57.5. All three D fragments produced from plasmic cleavage were detected by Western blot analysis using polyclonal anti-γ chain antiserum (
+Fig 1
+C) and by ELISA (not shown). In addition, ELISA reactivity of L2B with synthetic peptide γ57.5408-416 was lost after plasmic digestion, suggesting cleavage at R-409. However, reactivity of MoAb H9B7, which reacts with γ50406-411 13 was preserved after plasmic digestion of γ50397-411 which contains a plasmin cleavage site at K-406.
+41
+ A third synthetic peptide (EYDSLYPEDDL) with no plasmin cleavage site retained ELISA reactivity with its anti-peptide MoAb after incubation in the plasmic digestion reaction as well (not shown).
+ Fig 1. SDS-PAGE and Western blot analysis of plasmic digested fibrinogen-γ57.5. (A) Coomassie stained gels. (B) Western blot using MoAb L2B. (C) Western blot using anti-γ chain antiserum. In all panels the following gel electrophoresis systems were used: lanes 1 and 2, 7% nonreducing Weber-Osborn; lanes 3 and 4,6% nonreducing Laemmli; and lane 5,7% reducing Weber-Osborn. The fibrinogen samples in all panels are: lane 1, plasmin cleaved fibrinogen γ50; lane 2, plasmin cleaved fibrinogen γ57.5; lane 3, nonreduced fibrinogen γ50; lane 4, nonreduced fibrinogen γ57.5; and lane 5, reduced fibrinogen γ57.5. The position of migration of plasmin derived fragments of fibrinogen (marked with arrowheads from top to bottom) is, in kilodaltons: D1, 92; D2, 86; D3, 82; E. 50; and soybean trypsin inhibitor, 21. The arrow points to the reduced and denatured γ57.5 chain in lane 5. The increased migration of fibrinogen γ57.5 (lane 4) in comparison with fibrinogen γ50 (lane 3) is due to some proteolytic degradation of the Aα chain in the former, as shown in lane 5.
+
+Platelet function studies. MoAb L2B had no measureable effect on ADP-induced platelet aggregation supported by either fibrinogen γ50 or γ57.5 (
+Fig 2
+). L2B also failed to inhibit 125I-labeled fibrinogen γ50 or γ57.5 binding to stimulated platelets in parallel studies (not shown). In contrast, the synthetic peptide γ57.5408-416 had a measureable effect on ADP-induced platelet aggregation, albeit only at high concentrations (
+Fig 3
+). In other studies, synthetic peptide γ57.5408-416 showed a weak inhibition of fibrinogen γ50 binding to ADP-induced platelets as compared to the control peptide (
+Fig 4
+) with a concentration causing 50% inhibition (IC50) of 780 µmol/L. Similar inhibition of fibrinogen γ57.5 binding to platelets by peptide γ408-416 was observed (IC50 = 650 µmol/L). In parallel experiments, the RGDS peptide had an IC50 = 15 µmol/L, and the dodecapeptide γ50400-411 had an IC50 = 25 µmol/L. Peptide γ57.5408-416 had no measureable effect on the dissociation of bound fibrinogen γ50 or γ57.5 from platelets. Concentrations of peptide as high as 2 mmol/L failed to dissociate either fibrinogen γ50 or γ57.5 from ADP-stimulated platelets: 96% ± 4% and 99% ± 6% of fibrinogen γ50 or γ57.5, respectively, remained bound to stimulated platelets 60 minutes after peptide addition. In comparison, RGDS (150 µmol/L) and γ50400-411 (200 µmol/L) dissociated 70% ± 16% and 65% ± 21% of fibrinogen γ50, and 68% ± 12% and 74% ± 15% of fibrinogen γ57.5, respectively (n = 3).
+Fig 2. Effect of MoAb L2B on ADP-induced platelet aggregation supported by fibrinogen γ50 or γ57.5. GFP were aggregated with 10 µmol/L ADP in the presence of fibrinogen γ50 (A) or fibrinogen γ57.5 (B) preincubated (60 minutes, 22°C) with control (upper tracing) or MoAb L2B (200 µg/mL; lower tracing).
+Fig 3. Effect of synthetic peptide γ57.5408-416 on ADP-induced platelet aggregation. GFP were preincubated (30 minutes, 22°C) with (a) 1 mmol/L or (b) 500 µmol/L of synthetic peptide γ57.5408-416 or (c) 1 mmol/L of control peptide, and aggregated in the presence of 50 µg/mL (A) fibrinogen γ50 or (B) fibrinogen γ57.5 following stimulation with 10 µmol/L ADP.
+Fig 4. Inhibition of fibrinogen γ50 binding to ADP-stimulated platelets by synthetic peptide γ57.5408-416. GFP were preincubated (30 minutes, 22ºC) with increasing concentrations of synthetic peptide γ57.5408-416 or control peptide. They were stimulated with 10 µmol/L ADP, and 125I-labeled fibrinogen γ50 binding was assessed. Data are expressed as the percent inhibition of fibrinogen binding by peptide γ57.5408-416, relative to control peptide. The error bars reflect SD.
+
+Comparison of the L2B epitope to binding site synthetic peptides. The reactivity of L2B with γ57.5408-416 of native fibrinogen was compared to the C-terminal sequences of the major γ50 chain platelet binding site, dodecapeptide (γ50400-411), and the RGDS cell attachment tetrapeptide site using a competitive inhibition ELISA. Picomole amounts of both peptide γ57.5408-416 and fibrinogen γ57.5 were able to competitively inhibit L2B binding to fibrinogen γ57.5; whereas, the binding of L2B to fibrinogen γ57.5 was not inhibited with fibrinogen γ50, the γ50 dodecapeptide, or the RGDS peptide (
+Fig 5
+).
+Fig 5. Competitive inhibition ELISA. MoAb L2B was incubated with competitive inhibitor in solution, and the unbound MoAb remaining in solution was measured by ELISA. The data are expressed as the percent inhibition of ELISA based on the reduction in A480 as a function of the amount of competitive inhibitor used. Competitive inhibitors used were fibrinogen γ57.5 or γ50 (Fib γ57.5 or Fib γ50) and synthetic peptides γ57.5-CVRPEHPAET. γ50-HHLGGAKQAGDV, and RGDS. Peptides are represented with solid symbols and fibrinogens with open symbols.
+
+Availability of residues 408-416 in crosslinked fibrin. The binding of MoAb L2B to factor XIIIa crosslinked fibrin γ chain dimers was examined by Western blot (
+Fig 6
+). MoAb L2B bound to crosslinked γ chain dimers in reduced and denatured purified or unfractionated human fibrinogens containing γ chain residues 408-416. Dimers of only γ50-γ50 did not bind to L2B; however, heterodimers of γ50-γ55 and γ50-γ57.5 did bind the MoAb (
+Fig 6
+). Binding of MoAb L2B to crosslinked and non-crosslinked fibrin clots was performed to determine the accessibility of the L2B epitope in fibrin clots. When MoAb L2B binding was compared to a control MoAb, the results indicated that L2B bound γ57.5408-416 sequences equally in γ57.5 fibrin clots whether crosslinked or non-crosslinked (
+Table 1
+). Both clot types bound 5 µg of MoAb L2B or one-tenth the amount compared to the control MoAb J88B, which bound approximately 56 µg.
+Fig 6. Western blot analysis of crosslinked fibrin γ chain dimers. (A) Coomassie brilliant blue stained gel; (B) Western blot analysis of crosslinked γ chain dimers shown in Coomassie stained gel of panel A using MoAb L2B. In both panels: lane 1, fibrinogen γ57.5; lane 2, fibrinogen γ55; lane 3, unfractionated normal plasma fibrinogen; and lane 4, fibrinogen γ50. Bands are γ chain dimers composed of: (a) γ57.5-γ57.5, (b) γ55-γ55, (c) γ50-γ57.5, (d) γ50-γ55, and (e) γ50-γ50. In panel B, band e, the arrow points to γ50-γ50 dimers; however, L2B does not react with these dimers. The bands migrating faster than e were identified as γ chain dimer degradation products by comparison with bands in plasmic digests of crosslinked fibrin and by reactivity with other anti-γ chain MoAbs.
+DISCUSSION
+Fibrinogen participates in primary hemostasis by supporting aggregation of stimulated platelets and in secondary hemostasis through fibrin clot formation. Both functions are mediated in part through the γ chain C-terminal residues 398-411
+17–9
+ of the γ50 chain, which is the major γ chain type of plasma fibrinogen
+ and the only γ chain type of fibrinogen stored in platelet α granules.
+ Although the adjacent amino acids of the factor XIIIa fibrin crosslinking sites (Q-398/Q-399 and K-406) are not affected, the alternative RNA splicing event which generates γ57.5 chains
+9
+ interrupts the platelet recognition site defined by γ50 residues 400-411.
+18
+ In addition to the fibrinogen γ chain dodecapeptide, RGD sequences found in the Aα chain of fibrinogen at positions 95 through 97 (RGD) and 572 through 575 (RGDS) may participate in platelet-fibrinogen interactions.
+ The two peptide sets (RGDS and γ50400-411) interact with related or mutually exclusive sites on the platelet membrane receptor composed of glycoproteins (GP) IIb-IIIa.
+ Due to the related binding mechanisms but different sequences of the γ chain platelet binding site and cell attachment site, an investigation was made into the structure and function of γ57.5 C-terminal sequences involving fibrinogen in primary and secondary hemostatic events using synthetic peptides and anti-γ57.5 chain MoAb L2B. Platelet aggregation studies indicated that peptide
+
+γ57.5408-416 weakly inhibited platelet aggregation. Up to 54% inhibition was achieved using 1 mmol/L γ57.5408-416 for aggregation supported by either fibrinogen γ50 or γ57.5. However, the IC50 of peptide γ57.5408-416 is sufficiently high to preclude it from effective competition with fibrinogen γ50, especially considering that fibrinogen γ55/57.5 constitutes only 10% to 13% of total plasma fibrinogen.
+1
+, 
+4
+, 
+5
+ This conclusion is further supported by the inability of MoAb L2B to inhibit platelet aggregation and fibrinogen binding. We
+15
+ and others
+14
+ previously reported diminished binding and aggregation support by fibrinogen γ57.5 compared to γ50. This was due to a decrease in Bmax without measureable change in binding affinity, kd. These observations, together with the lack of inhibitory activity of MoAb L2B, suggest that fibrinogen γ57.5 binds to platelets predominantly via the γ50 chain of the heterodimeric molecule. The weak inhibitory effect of peptide γ57.5408-416 occurred only when the platelets were preincubated with the peptide, and prebound fibrinogen could not be competitively dissociated. Perhaps peptide γ57.5408-416 inhibition is due to binding to or interaction with a site(s) other than the platelet-fibrinogen receptor, which resulted in decreased ADP-induced platelet aggregation. Of interest is the observation of diminished, rather than completely absent, platelet aggregation support of γ57.5 fibrinogen, particularly in light of the bridging hypothesis of platelet aggregation.
+45
+ Since, according to this report, fibrinogen γ57.5 appears to interact with platelets primarily via the γ50 chain, Aα chain RGD sequences may contribute significantly to platelet interactions. Amrani et al16 have shown that Aα chain degradation by limited plasmic digestion significantly decreased fibrinogen γ57.5 platelet aggregation support. In contrast, similar studies performed with fibrinogen γ50 revealed no significant inhibition of platelet aggregation support upon cleavage of peptides containing the Aα chain 572-575 RGDS sequence.
+16
+, 
+46
+
+Kloczewiak et al17 have shown, using synthetic peptides as inhibitors of fibrinogen binding to platelets, that neither γ50400-406 (IC50 = 1000 µmol/L) nor γ50407-411 (IC50 = 190 µmol/L) sequences were sufficient for supporting platelet aggregation, but that the continuous sequence γ50400-411 (IC50 = 28 µmol/L) constitutes the γ chain platelet binding site.
+17
+ Plow et al22 have shown that the AGDV sequence of γ50408-411, which most closely resembles the RGDS sequence, has a low inhibitory activity (IC50 = 1000 µmol/L). In the whole molecule, the AGDV sequence contributes significantly to fibrinogen γ50 support of platelet aggregation; whereas, our results indicate that γ57.5 chain residues 408-416 have little effect on fibrinogen support of platelet aggregation (IC50 = 780 µmol/L). A competitive inhibition ELISA comparing RGDS, γ50400-411, and native fibrinogen γ50 to γ57.5408-416 and native fibrinogen γ57.5 revealed that neither peptide nor fibrinogen γ50 inhibited binding of L2B to γ57.5 fibrinogen, supporting the conclusion that the C-terminal sequences of γ57.5 are not involved in platelet GPIIb-IIIa-fibrinogen interactions defined by RGD or dodecapeptide sequences.
+
+The L2B epitope was localized to include a minimum of residues R-409-PEH-412 by two criteria. First, H-412 was shown to be required for L2B binding to γ57.5 by differential ELISA and slot-blot reactivity to H-412 containing or deleted synthetic peptides. Second, L2B loses reactivity to plasmin cleaved fibrinogen γ57.5 and peptide γ57.5408-416, as shown by ELISA and Western blot analysis, suggesting cleavage of the L2B epitope after R-409, in addition to cleavage at K-406 in all types of γ chains.
+ An analysis of γ57.5 compared to γ50 secondary structure was made using the University of Wisconsin Genetic Computer Group program,
+ which makes a parallel plot of the standard measures of protein secondary structure and hydrophobicity. An α-helical forming structure with surface exposure was predicted from the γ57.5408-416 primary amino acid sequence.
+ This is unlike the lack of secondary structure suggested for the C-terminal portion of the γ50 chain.
+MoAb L2B bound to fibrin γ chain dimers composed of γ55 or γ57.5 sequences and equally to crosslinked and non-crosslinked fibrin clots. The plasma fibrin clots bound L2B in one-tenth the amount of control MoAb. Since the amount of γ57.5-containing fibrinogen in plasma is approximately 10% to 13% of the total fibrinogen, this antibody binding data suggests that all of the γ57.5 epitopes bound MoAb L2B in crosslinked and non-crosslinked fibrin. The availability of the L2B epitope in fibrin indicates that the γ57.5 C-terminus is exposed or surface oriented in the fibrin clot, and provides experimental evidence in agreement with the predicted secondary structure. This is also in agreement with the hydrophilicity prediction of the γ57.5 C-terminus, and the localization of an antigenic determinant to R-409-PEH-412, the L2B epitope, supports this conclusion.
+13
+ The crosslinking of a γ50-γ57.5 fibrin dimer, as proposed in 
+Fig 7
+, allows exposure of the C-terminal residues of the γ57.5 chain, including the additional plasmic cleavage site after γ57.5 R-409, making them available for fibrinmediated hemostatic events.
+Fig 7. Proposed structure of crosslinked fibrin γ chain dimer composed of γ50-γ57.5. γ chains are shown crosslinked in an antiparallel fashion (short arrows) between residues Q398 (or Q-399, not shown) and K-406, with preferential exposure of the γ57.5 chain C-terminus. The γ57.5 chain residues 408-416 chosen for synthesis of the L2B synthetic peptide are boxed. The long arrow points to the proposed plasmin cleavage site after arginine (R-409). The L2B epitope includes at least residues R-409-PEH-412. The histidine residue (marked with an asterisk) is necessary for MoAb L2B binding to γ57.5 chains.

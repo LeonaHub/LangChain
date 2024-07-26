@@ -1,0 +1,9 @@
+Objectives. We attempted to demonstrate that simultaneous dipyridamole administration and maximal subjective exercise in patients who are unable to achieve a good exercise level can improve the diagnostic efficacy of technetium-99m methoxy isobutyl isonitrile (99mTc-MIBI) myocardial single-photon emisson computed tomography (SPECT).
+
+Background. The results of myocardial perfusion scintigraphy are unsatisfactory if the level of exercise achieved by the patient is insufficient. The use of dipyridamole with maximal subjective stress testing has been shown to improve the quality of the thallium-201 myocardial perfusion images, but there are no studies demonstrating that this combination improves the diagnostic accuracy of myocardial perfusion SPECT.
+
+Methods. Two hundred thirty-one consecutive patients, without a previous myocardial infarction, were classified into three groups: group 1, 91 patients with an adequate exercise test; group 2, 68 patients with an inadequate exercise test; group 3, 72 patients with an inadequate exercise test who then received intravenous dipyridamole (0.56 mg/kg body weight over 4 min) simultaneously with exercise.
+
+Results. Results for sensitivity (89%) and negative predictive value (83%) in group 3 were significantly better than those in group 2 (71% [p = 0.03] and 56% [p = 0.002], respectively) and not significantly different from those in group 1. The polar maps of 20 patients studied with and without dipyridamole at the same exercise level revealed a significantly greater extent of ischemia in each territory and in a global assessment (19 + 20% vs. 8 + 11%, p < 0.0001) when dypiridamole was administered during physical exercise.
+
+Conclusions. Intravenous dipyridamole administration during exercise testing is advisable in all patients who are unable to achieve an adequate exercise level. This approach permits physicians to avoid missing ergometric information while optimizing myocardial SPECT results.

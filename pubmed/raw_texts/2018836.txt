@@ -1,0 +1,126 @@
+THE ROLE OF FIBRINOPEPTIDE B release and the subsequent exposure of NH2-terminus of β-chain in the formation of fibrin clots by thrombin has been the subject of numerous investigations.
+ Congenitally abnormal fibrinogens with abnormal Bβ-chains in which molecular defects have been elucidated will provide us with information about the role of Bβ-chains, but they are limited to four cases, fibrinogens New York I,
+ Christchurch II,
+ Seattle I,
+ and Pontoise,
+ and have prolonged reptilase time, which could be attributable not to defective Bβ-chains but to the secondary abnormal structure in the NH2-terminal region of α-chain or COOH-terminal region of γ-chain.
+
+In this report, we describe a new β-chain variant in the congenitally abnormal fibrinogen Ise with prolonged thrombin time but with normal reptilase time that is characterized by very slow release rate of fibrinopeptide B and a single amino acid substitution of cysteine for glycine at Bβ 15, the NH2-terminus of fibrin β-chains.
+
+MATERIALS AND METHODS
+Coagulation studies and purification of fibrinogen
+Coagulation studies were performed as described previously.
+ Fibrinogen was purified using lysine-Sepharose 4B chromatography, gelatin-Sepharose 4B chromatography, and fractionation by ammonium sulfates,
+ and further purified on diethyl aminoethyl (DEAE)-Sephacel.
+ Clottability of fibrinogen was assayed according to the method of Laki
+ with minor modifications and that of propositus' fibrinogen had the normal value of 94%.
+
+Studies on purified fibrinogen
+Release of fibrinopeptides A and B was examined by high performance liquid chromatography (HPLC) and by the conversion velocity of Aα- and Bβ-chains to α-and β-chains, respectively, on sodium dodecyl sulfate Polyacrylamide gel electrophoresis (SDS-PAGE) as described.
+13
+ Fibrin monomer polymerization was studied as described by Gralnick et al
+16
+ using their second method. Fibrin aggregation was studied as described by Beck et al.
+17
+
+Bβ-chain digestion with lysylendopeptidase and thrombin
+Preparation of reduced and carboxymethylated fibrinogen and its separation on HPLC column was performed as described.
+18
+ Purified Bβ-chain dissolved in 50 mmol/L Tris-HCl, 4 mol/L urea, pH 9.0, was digested with lysylendopeptidase (Wako Chemical, Tokyo, Japan) (0.2 μg/nmol Bβ-chain) at 37°C for 18 hours. Lysylendopeptidase digests were fractionated on a Biofine RPC-SC18 reversed-phase HPLC column (Nihonbunko, Tokyo, Japan). A 0.09% trifluoroacetic acid (solvent system A) and 0.09% trifluoroacetic acid in acetonitrile (solvent system B) gradient system was used as the eluant; a linear gradient from 5% to 45% solvent system B in 2 hours with a flow rate of 0.5 mL/min was used, and the column effluent was monitored at 214 nm. Relevant peaks obtained from 0.6 mg of Bβ-chain digest were lyophilized, dissolved in 1.5 mL of 50 mmol/L Tris-HCl, 0.135 mol/L NaCl, pH 7.4, digested with 20 U/mL bovine thrombin at 37°C for 4 hours, and fractionated by HPLC with a linear gradient from 0% to 40% solvent system B in 80 minutes. These analyses were also performed using reduced and pyridylethylated
+19
+ fibrinogen as the starting material.
+
+PAGE and electroblotting
+SDS-PAGE was performed according to the method of Laemmli
+20
+ as described previously.
+21
+ Electroblotting of proteins for sequence analysis was performed according to the method of Matsudaira.
+22
+ Polyvinylidene difluoride membranes (Clear Blot Membrane-P) were obtained from Atto (Tokyo, Japan). In this study about 1 nmole of protein was used for the first step SDS-PAGE.
+
+Amino acid sequence analysis
+Amino acid sequence analysis of peptides was performed by automated Edman degradation as described.
+23
+
+Case report
+The propositus (H.M.), 50-year-old man, was admitted to a local hospital to undergo a cholecystectomy for gallstone. During the routine hematologic study, it was discovered that he had hypofibrinogenemia (66 mg/dL) by the thrombin time method but the turbidimetric method showed the normal concentration of plasma fibrinogen (300 mg/dL). The propositus' two sisters and a daughter were also found to have hypofibrinogenemia by the thrombin time method. These four individuals had no history of thrombosis or hemorrhage.
+
+RESULTS
+Coagulation studies including one-stage prothrombin time, activated partial thromboplastin time, factor XIII, antithrombin III, plasminogen, α2-plasmin inhibitor, platelet count, bleeding time, and ADP-, collagen-, epinephrine-, or ristocetin-induced platelet aggregation were all within the normal range. As shown in 
+Table 1
+, thrombin time of the plasma was prolonged; and the plasma fibrinogen concentration evaluated by the thrombin time method was much lower than that by the turbidimetric or immunologic method. The plasmas of two sisters and a daughter also showed a discrepancy between the fibrinogen concentration assayed by the thrombin time method (127, 109, and 151 mg/dL, respectively) and by the turbidimetric method (227, 174, and 281 mg/dL, respectively). The propositus' purified fibrinogen also showed a prolonged thrombin time, but the reptilase time was entirely normal (
+Table 1
+). Fibrin aggregation curve by the addition of thrombin was impaired, but that by the addition of reptilase was normal (figures not shown), corresponding to the normal reptilase time.
+SDS-PAGE of purified propositus' fibrinogen under the reduced condition (
+Fig 1
+, left panel, lane 2) showed no abnormalities in apparent molecular weights of three chains. The left panel of 
+Fig 1
+ shows the release of fibrinopeptides A and B from fibrinogen (0.2 mg/mL) with 0.2 U/mL thrombin as monitored by SDS-PAGE. Conversion velocity of the propositus' Aα-chains to α-chains was the same as normal, but that of Bβ-chains to β-chains was much slower than the normal control and about 50% of Bβ-chains remained as Bβ-chains after 80 minutes of incubation.
+ Fig 1. Release of fibrinopeptides A and B by thrombin as monitored by SDS-PAGE. Left panel, fibrinogen (0.2 mg/mL) in 20 mmol/L potassium-phosphate, 0.135 mol/L NaCI, 25 KlU/mL aprotinin, pH 6.8 (buffer A) was incubated with 0.2 U/mL thrombin at 37°C for various times and electrophoresed on 10% gels under the reduced condition. Right panel, fibrinogen (1 mg/mL) in buffer A was incubated with 10 U/mL thrombin for 2 hours. N, normal control; I, propositus.
+
+Release of fibrinopeptide A as examined by HPLC showed no substantial difference between the propositus' fibrinogen and normal fibrinogen, but the amount of released fibrinopeptide B that had the same retention time as normal on HPLC was about 50% of normal after 80 minutes of incubation with thrombin (data not shown). However, more than 50% of propositus' Bβ-chains were converted to β-chains with an increase of thrombin concentration (
+Fig 1
+, right panel). Incubation of propositus' fibrinogen (1 mg/mL) with a high concentration of thrombin (50 U/mL) for 6 hours at 37°C and for another 12 hours at 4°C resulted in almost complete conversion of Bβ-chains to β-chains (
+Fig 2
+) and the amount of the released fibrinopeptide B was almost the same as normal (
+Fig 3
+). Such a high concentration of thrombin digested α-chains of both normal and abnormal fibrinogens further into smaller degraded α-chains with apparent molecular weights of about 44,000 or less (
+Fig 2
+), and the fibrin clots once formed became abnormally weak and translucent and sometimes portions of clots became soluble, which supports the observation made by Triantaphyllopoulos and Chandra that thrombin could cleave fibrin in many places and could even dissolve a fibrin clot.
+24
+ Amino acid sequences of the first three residues of the degraded α-chains were analyzed after electroblotting procedure. Two sequences of Gly-Pro-Arg (about 57%) and Val-Val-Glu (about 43%) corresponding to residues 17-19 and 20-22, respectively, were obtained, which suggests that not only the NH2- but the COOH-terminal region of α-chains were digested by a high concentration of thrombin. Release of fibrinopeptide A with reptilase showed no difference between the propositus' fibrinogen and normal fibrinogen (not shown).
+ Fig 2. Effect of a high concentration of thrombin on fibrinogen chains. Fibrinogen (1 mg/mL) in buffer A was incubated with 50 U/mL thrombin as described in the text. 1 and 4, fibrinogen; 2 and 3, fibrin, deg. α, degraded α-chains with apparent molecular weights of 44,000 or less.
+ Fig 3. HPLC analysis of released fibrinopeptides A and B from fibrinogen treated with a high concentration of thrombin. Fibrinogen was incubated with thrombin as in 
+Fig 2
+ and the released peptides were analyzed on HPLC. A linear gradient of 6% to 14% acetonitrile in 25 mmol/L ammonium acetate, pH 6.0 in 45 minutes was used. N, peptides released from 0.28 mg of fibrinogen were injected. I, peptides released from 0.35 mg of fibrinogen were injected.
+ As mentioned above, it was impossible to obtain the propositus' fibrin monomers by treatment with thrombin without further degradation of α-, β-, or γ-chains. Accordingly, polymerization studies of des-AB fibrin monomers, which are devoid of fibrinopeptides A and B, could not be assessed precisely, but the polymerization of propositus' des-AB fibrin monomers obtained was defective compared with the normal control (
+Fig 4
+, upper panel). Polymerization of fibrin monomers obtained by the treatment of reptilase showed no substantial difference between the propositus' fibrinogen and normal fibrinogen (
+Fig 4
+, lower panel).
+Fig 4. Fibrin monomer polymerization. Fifty micrograms of des-AB fibrin monomer (upper panel) or des-A fibrin monomer (lower panel) in 0.03 mL of 20 mmol/L acetic acid was mixed with 0.57 mL of 60 mmol/L potassium-phosphate, pH 6.8.
+Bβ-chains purified from reduced and carboxymethylated fibrinogen were digested with lysylendopeptidase, and the digests were analyzed by HPLC. The HPLC elution pattern of propositus' sample (
+Fig 5
+, left panel, I) showed a decrease of about 50% in one peak (designated IN) compared with the corresponding normal peak (designated NN), and the appearance of an abnormal peak designated as IA. As these peaks were found to be NH2-terminal portion of Bβ-chains from pyroglutamate aminopeptidase digestion (data not shown), three peaks (NN, IN, and IA) were digested with thrombin and the digests were analyzed by HPLC. The NN digest profile (data not shown) was the same as that of the IN digest (
+Fig 5
+, right panel, IN). The IN digest contained two peaks, INT with a retention time of 35.6 minutes and FPB. The IA digest (
+Fig 5
+, right panel, IA) contained three peaks, IAT with a retention time of 37.5 minutes, FPB, and an undigested one. Peak FPB proved to be fibrinopeptide B (data not shown). As shown in 
+Table 2
+, the amino acid sequence of INT corresponded to residues 15-22 of the normal Bβ-chain and that of IAT was the same as INT except for the substitution of cysteine for glycine at residue 15, which is the NH2-terminus of fibrin β-chain. When we used reduced and pyridylethylated fibrinogen as the starting material, pyridylethylated-Cys was detected as the NH2-terminal amino acid of IAT, confirming this substitution (data not shown). The HPLC elution pattern of the lysylendopeptidase digest of propositus' Aα- or γ-chains was the same as the normal control (data not shown).
+Fig 5. HPLC analysis of Bβ-chain digestion with lysylendopeptidase and thrombin. Left panel, Bβ-chains obtained from reduced and carboxymethylated fibrinogen were digested with lysylendopeptidase and separated by HPLC as described in Materials and Methods. For these chromatograms, peptides obtained from 0.08 mg of Bβ-chains were injected. IN indicates the peak with the same elution time as NN. IA indicates the abnormal peak. Right panel, IN and IA were digested with thrombin and separated on HPLC. The undesignated peak in front of FPB in IA digest is the undigested one. For these chromatograms, digests of IN and IA obtained from 0.4 mg of Bβ-chains were injected.
+DISCUSSION
+Heterozygous congenitally abnormal fibrinogen Ise is characterized by normal reptilase time, prolonged thrombin time, and extremely delayed or defective fibrinopeptide B release (
+Fig 1
+). Amino acid sequence analysis (
+Table 2
+) demonstrated the replacement of Bβ glycine-15 by cysteine, which can arise from a point mutation involving a single nucleotide change in the codon (GGT) responsible for position Bβ 15.
+25
+ The codon is most likely altered from GGT to TGT. Substitution of the NH2-terminus of fibrin β-or α-chain has not been reported.
+
+The role of Bβ-chains in fibrin clot formation has been the subject of numerous investigations.
+ Laudano et al showed that Gly-His-Arg-Pro, the NH2-terminal tetrapeptide of the fibrin β-chain, binds to fragment D3 and increases the initial turbidity during the polymerization of des-AB fibrin monomers.
+4
+ Furian et al
+6
+ found that Gly-His-Arg-Pro enhances thrombin- and reptilase-induced fibrin aggregation. Laudano et al also showed that Gly-Pro-Arg-Pro, a synthetic tetrapeptide including NH2-terminal tripeptide of the fibrin α-chain, binds to the site for Gly-His-Arg-Pro as well as to its major binding site, which is present not in fragment D3 but in fragment D1.
+4
+ Enhancement of fibrin polymerization by Gly-His-Arg-Pro was explained by Laudano et al
+4
+ as follows: synthetic peptide Gly-His-Arg-Pro binds to its binding site, thereby inhibiting the binding of NH2-terminus of α-chain to the Gly-His-Arg-Pro binding site.
+
+Fibrinogen Ise demonstrated that the delayed release of fibrinopeptide B and the resultant delayed exposure of the NH2-terminus of β-chain prolongs thrombin time. In other words, these findings strongly suggest the positive role of Bβ-chains in fibrin clot formation by thrombin; NH2-terminus of β-chain binds to its binding site (GHR site), thereby inhibiting the binding of the NH2-terminus of α-chain to GHR site and promoting the binding of the NH2-terminus of α-chain to its correct binding site (GPR site).
+
+Indeed, Furian et al
+26
+ showed that the onset of visible clot formation occurred following release of about 60% fibrinopeptide A by reptilase, whereas it was noted already after removal of 30% fibrinopeptide A, in addition to about 5% fibrinopeptide B, by thrombin, which is in good agreement with our explanation on the role of NH2-terminus of β-chain. In addition, Shainoff and Dardik
+27
+ showed that des-B fibrin prepared by addition of copperhead venom procoagulant enzyme can exist as soluble trimers at 37°C, which cannot be explained without assuming the binding of the NH2-terminus of β-chain to its binding site in another molecule at 37°C. We do not know the reason why fibrinogen Detroit with nonfunctional NH2-terminal polymerization domain could polymerize to insoluble fibrin clots at 37°C after prolonged incubation with thrombin and the concomitant release of considerable amount of fibrinopeptide B.
+28
+
+Delayed exposure of the NH2-terminus of β-chain in fibrinogen Ise will result in the consumption of the NH2-terminus of α-chain for the binding to GHR site and will be the main reason for the prolonged thrombin time. We can not tell precisely if the NH2-terminus of β-chain of fibrinogen Ise could bind to GHR site, because des-AB fibrin monomers contained a considerable amount of NH2-terminus–degraded α-chains, which resulted in the defective fibrin monomer polymerization even in the normal control (
+Fig 4
+). Cys-His-Arg-Pro was not synthesized because the state of the sulfhydryl group of the substituted Bβ Cys-15 remained unknown. The normal electrophoretic mobility of purified fibrinogen under the nonreduced condition on SDS-PAGE or normal chromatographic profile of purified fibrinogen on DEAE-column (data not shown) suggests that the substituted cysteine is not involved in disulfide bond formation with another fibrinogen molecule or with other plasma proteins bearing free sulfhydryl groups. Lysylendopeptidase digests of native fibrinogen molecules, of fibrin monomers, or of NH2-terminal disulfide knot or plasmic digests of fibrinogen were analyzed on HPLC to find the abnormal peptide with the native structure, but we failed to find it (data not shown) and we do not know whether the substituted cysteine is involved in disulfide bond formation with other cysteines in the same fibrinogen molecule. At most we can say that the replacement of Bβ glycine-15 by cysteine did not affect the structure and function of Aα-chains.
+
+Finally, we obtained important information from fibrinogen Ise. A high concentration of thrombin cleaves not only the Aα Arg19-Va120 bond but also the COOH-terminal region of α-chains, which results in the further degradation of α-chains. In addition, a high concentration of thrombin should be used for the analysis of abnormal fibrinogens if the release of fibrinopeptide A and/or B is defective.
