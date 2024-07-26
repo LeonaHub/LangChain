@@ -1,0 +1,212 @@
+1. Introduction
+Cytokines are produced during the effector phases of natural and specific immunity and serve to mediate, and regulate immune, and inflammatory responses. The cytokines that mediate natural immunity include those, which protect against viral infection and those that initiate inflammatory reactions to protect against bacteria 
+[1]
+. Among the cytokines, Interleukin-6 (IL-6) is a pleiotrophic cytokine with multiple effects on many systems. Induction of acute phase reactants in hepatic cells, B-cell differentiation, and proliferation, and differentiation of T cells are observed with IL-6 
+[2]
+. The production of IL-6 in these cells is regulated, either positively or negatively by a variety of signals including mitogens, antigenic stimulations, IL-1β, PDGF and viruses. The various activities of IL-1β and IL-6 suggest that they have a major role in the mediation of the inflammatory and immune responses initiated by infection or injury 
+[3]
+.
+
+One of the major components of the acute phase response is the alteration in concentrations of a large number of plasma proteins referred to as acute phase proteins 
+[4]
+. Those proteins whose concentrations increase are referred to as positive acute phase proteins, while those whose levels decline are termed negative acute phase proteins. In man, positive acute phase proteins are represented by a large number of proteins, which may be divided into three classes based on their increase in concentration. Class I, whose concentrations rise by about 50%, Class II, whose concentrations increase about two- to fivefold and Class III, whose levels may increase up to 1000-fold. The known biological function of the APP can be divided into three major categories. Participation in host-adaptation or defense, inhibition of serine proteinases, and transport of proteins with antioxidant activity as recently reviewed by many workers 
+[5]
+. Earlier experiments suggest that, as a response to trauma the liver releases acute-phase proteins such as α1 antitrypsin and α2 macroglobulin which bind to plasmin and hence fibrinolysis is shut down. C-reactive protein, another acute-phase protein, serves as an indicator of the status of the inflammatory process 
+[6]
+. Studies also revealed the protective effects of Trypsin–Chymotrypsin preparation on tissue damage due to reduction in destructive proteolytic enzymes cathepsin D and elastase 
+[7]
+. The enzyme preparation was shown to help in minimising the initial acute inflammatory response and made available free plasmin for fibrinolytic activity resulting in suppression of oedema. Hence, the present study with Trypsin–Chymotrypsin (Chymoral Forte D.S.) is undertaken to observe if the acute-phase protein synthesis in Trypsin–Chymotrypsin administered patients can be modulated through the synthesis of IL-1β and IL-6 thereby reducing the severity of inflammation.
+
+IL-1β and IL-6 play an important role in mediating natural immunity during the early phase of injury. IL-1β and IL-6 are the two principal messengers from macrophages to the hepatocytes to induce a metabolic shift in the liver 
+[8]
+. Hence, it is of great importance to study the influence of Trypsin–Chymotrypsin preparation (Chymoral Forte D.S.) on IL-1β and IL-6 expression in burn patients. This study would establish a strong basis for the action of this drug as a potent anti-inflammatory agent. Further, monitoring the serum concentration of selected cytokines would be useful in the treatment of burn injury.
+
+2. Materials and methods
+In the present study, changes in serum IL-1β and IL-6 levels were determined in Trypsin–Chymotrypsin preparation (Chymoral Forte D.S.) administered burn patients. We have conducted our studies on burn patients admitted to the Kilpauk Medical College Hospital, Chennai. Thirty patients were selected for the study after informed consent was obtained. For 15 burn patients, Trypsin–Chymotrypsin was administered from day 1 onwards and 15 untreated burn patients served as controls. Five normal, healthy informed volunteers were included in the study. The patients’ age ranged from 17 to 57 years. The total body surface area of burn ranged from 15 to 40% (
+Table 1
+).
+2.1. Drug administration
+Each tablet of Trypsin–Chymotrypsin (Chymoral Forte D.S.) contains 200 000 Armour units and one tablet was administered on an empty stomach three times a day half an hour before food.
+
+2.2. Serum sample collection and cytokine analysis
+Throughout the hospitalization period, blood samples were collected every alternate day starting from day 1 to day 10 along with other samples for haematological and biochemical analysis. Serum was separated without lysis and samples were frozen at −20 °C until otherwise used. The concentrations of Interleukin-6 and Interleukin-1β were estimated using commercially available Human IL-1β and IL-6 ELISA kits (Quantikine) from R&D System (Minneapolis, MN) according to manufacturer's instructions and the results were expressed as pg/ml of serum sample. The minimum detectable doses of IL-6 and IL-1β with this assay kits were 0.70 and 0.50 pg/ml, respectively. For statistical analysis of the results, one-way ANOVA was used. Significant differences between groups were considered to occur if P<0.05 levels.
+
+2.3. Clinical parameters studied
+1.
+Oedema
+
+2.
+Signs of inflammation — redness
+
+3.
+Pain
+
+4.
+Rate of wound epithelialisation
+
+1.
+The study on burn patients with the control patients group includes, males and females (in age group of 17–57 years) with similar percentage of burns as for treated group. Clinically they also persisted with oedema, inflammation, etc. Placebo given in the control group was vitamin tablets.
+
+2.
+Treatment protocol for general burn care was followed as hereunder.
+2.1.
+Percentage of burn area, depth of burns and other presenting features such as, oedema duration, time taken for regression of burn oedema, blister formation, area of erethema surrounding the burn area, eschar and scab formation, time taken for the scab to separate in case of second degree burn were recorded.
+
+2.2.
+Subjective symptoms such as pain with required medication and duration of pain with number of days the pain persisted were noted.
+
+2.3.
+Fluid regimen followed was Parkiand's regimen and resuscitated with Ringer's Lactate, whole blood and fresh frozen plasma as per the parameter presented.
+
+2.4.
+Antibiotics: No prophylactic antibiotics were instituted. These were administered as per the culture and sensitivity and appropriate antibiotics were given.
+
+2.5.
+Local wound care: All the burn areas were cleansed with normal saline and were covered with gauze pad dressing or with biological dressings.
+
+2.6.
+Surgical protocol: All the burn areas which were deep and deep partial thickness burns were tangentially excised and then covered with biological dressings. Deeper areas were excised and covered with autograft.
+
+
+3.
+Diagnosis of sepsis:
+3.1.
+Clinically the burn wound that exudes pus and discharge with an area of erythema is diagnosed as having sepsis.
+
+3.2.
+Increased warmth and temperature, leucocytosis, acute anemia and quantitative wound culture with more than 105 organisms per g of tissue had sepsis.
+
+3.3.
+Groups analyzed included the age group 17–57 years. In control group the same numbers of patients were analyzed.
+
+3.4.
+Sepsis usually occurred during the second week of post burn period and in deeper burns.
+
+
+4.
+Assessment of oedema:
+Oedema was assessed from the day of its presentation to the day of its disappearance. Oedema was more evident in the face with oedema of the lids and closure of the palpebral fissure. In the extremities, measuring the girth assessed the oedema and swelling. In the case under study there was full oedema of the face on day 1 and finally oedema disappeared on the 5th day of post burn in treated group.
+
+5.
+Assessment of inflammation:
+Signs of inflammation were assessed by the areas of erythema, induration around the areas of inflammation.
+
+6.
+Assessment of pain:
+Pain though subjective was assessed as:
+6.1.
+Slight pain: Pain sensation felt but not does not require any medication.
+
+6.2.
+Moderate pain: Patients having pain requested some pain relief medication.
+
+6.3.
+Severe burning pain throughout the period requiring pain medication as well as sedative.
+
+
+7.
+Epithelialisation is assessed as a stage when the patient does not need any dressing and it is measured by the progression of the edge of wound, from the advancing edge and measured once in 2 days, i.e. the distance between the weeping surface and the non-weeping edge. Epithelialization is complete when there is no appreciable difference between the weeping surface and non-weeping surface.
+
+8.
+Assessment of scar characteristics:Scar formation in burn wound is assessed by way of:
+8.1.
+A flat supple scar with an evenly distributed new epithelium.
+
+8.2.
+Thick scar with rough texture to the surrounding burnt tissue.
+
+8.3.
+Hypertrophic scar.
+
+
+
+3. Results
+Changes in the circulatory IL-1β and IL-6 levels in post burn patients were determined by ELISA. The patients’ demographic details presented in 
+Table 1
+, show the different Total Burn Surface Area (TBSA%), age, sex and cause of injury. Results in 
+Fig. 1
+a 
+Fig. 2
+a a show that IL-6 and IL-1β levels in serum samples of Trypsin–Chymotrypsin administered patients collected on the day of admission were significantly higher than on the tenth day. A significant difference in serum levels of IL-6 and IL-1β of drug treated patients on day 10 was observed between patients with 20% TBSA and control (P<0.05). The serum IL-1β and IL-6 levels of five healthy individuals were all less than the minimum limits of the assay kit (less than 1 pg/ml for IL-6 and 0.070 pg/ml for IL-1β).
+Fig. 1. Modulation of IL-
+6 level of four different groups of burn patients treated with trypsin–chymotrypsin preparations. The mean values of Group 1 (1a) (four patients), Group 2 (1b) (four patients), Group 3 (1c) (four sepsis patients) and Group 4 (1d) (three numbers of high TBSA patients) were plotted with control patients (15 untreated burn patients). Mean values of IL-6 were statistically different (P<0.05) between treated and control.
+Fig. 2. Modulation of IL-1β level of four different groups of burn patients treated with trypsin–chymotrypsin preparations. The mean values of Group 1 (2a) (four patients), Group 2 (2b) (four patients), Group 3 (2c) (four sepsis patients) and Group 4 (2d) (three numbers of high TBSA patients) were plotted with control (15 untreated burn patients). Each value represents the mean of six replicates. The values of IL-1β were statistically different (P<0.05) between treated and control.
+
+Results shown in 
+Fig. 1
+b 
+Fig. 2
+b demonstrate that there seems to be an increase in serum levels of IL-1β and IL-6 shortly after burn injury in 30% TBSA and control patients and after the treatment with Trypsin–Chymotrypsin preparation, the quantity of both the cytokines started to decline in both groups. The quantitative estimation of IL-1β and IL-6 levels of the Trypsin–Chymotrypsin preparation treated and control samples were maximum on the first day of injury, and on 7th and 10th days the cytokine levels stabilized to normal condition in only treated cases and showed significance compared to control group (P<0.05).
+
+Fig. 1
+, 
+Fig. 2
+ indicate the septic condition which induces the synthesis of higher levels of IL-1β (52.4 pg/ml) and IL-6 (96.2 pg/ml) in serum samples. The maximum percentage of TBSA also plays a role in the production of higher levels of IL-1β (50.2 pg/ml) and IL-6 (92.6 pg/ml) synthesis (
+Fig. 1
+, 
+Fig. 2
+).
+
+Quantitatively higher levels of IL-6 and IL-1β were present during the initial periods of injury in sepsis and higher TBSA groups. The experimental results showed a gradual decrease in IL-6 and IL-1β in higher TBSA and sepsis of both control and treated groups. On day 10, the level reached nearly 10–20 pg/ml in treated and only 40 pg/ml in controls. The decline that was observed in both the groups 1c, 2c, and 1d, 2d showed significant variation (P<0.05).
+
+3.1. Clinical effects assessed
+3.1.1. Trypsin–Chymotrypsin preparation administered burn injury patients
+Reduction in the oedema during the early phases of action of Trypsin–Chymotrypsin preparation was noted. Other inflammatory signs like redness, warmth and pain reduced on the fifth day of treatment. Epithelialisation was seen to occur from the fifth day onwards. In cases where it could not be obviously recognized, increase in the symptom of itching signified the occurrence of epithelialisation. Sparse pigmentation was seen to occur as epithelialisation process was at its final stage and final scar was very soft (Plate 1a, b).
+Plate 1. Photograph of trypsin–chymotrypsin treated and control burn patients. (a) Trypsin–chymotrypsin-treated, 3 days post-burn; (b) Trypsin–chymotrypsin-treated, 10 days post-burn; (c) Control, 3 days post burn; (d) Control, 10 days post burn.
+
+3.1.2. Control cases
+Oedema persisted for more than 7 days, all the signs and symptoms of inflammation persisted 10 days and more. Healing, i.e. epithelialisation took a longer period and final healing was after 18 days. Scar thickening was evident and pigmentation was variable and unpredictable (
+Plate 1
+c, d). The overall studies of Trypsin–Chymotrypsin preparation treated burn patients suggested that in treated patients, serum IL-6 and IL-1β levels decreased and stabilized within the treatment period. The clinical parameters supported the biochemical analysis.
+
+4. Discussion
+Burn wound healing is a process which is interpolated by various parameters like the extent of injury, depth of injury, extent of oedema, duration of oedema or time taken for regression of oedema, wound infection, reduction in the cytokine activity, etc. When there is a delay in all these parameters there is delay in burn wound healing and bizarre scar maturation resulting in hypertrophic scar and keloid formation. Results obtained by us also showed that there was a good response by drug treatment and levels of serum IL-1β and IL-6 declined within about 4–5 days postburn. Circulating IL-1β and IL-6 levels of the Trypsin–Chymotrypsin preparation treated cases remained relatively low after 6–10 days of the treatment. However, serum levels of IL-1β and IL-6 were very high on the day of admission and decline was slower in sepsis and higher TBSA patients. This is in agreement with the report of Yeh et al. 
+[20]
+. A greater increase in these cytokine levels was observed in serum samples obtained in control patients. These results suggest that the two inflammatory cytokines analyzed may play a vital role in the pathogenesis of sepsis following burn injury. Inhibition of cytokine synthesis was proposed as a method to reduce the morbidity and mortality of sepsis 
+[9]
+.
+
+In pathophysiological conditions such as sepsis, activated neutrophils bind to vascular endothelial cells, migrate outside the vessels and infiltrate tissue 
+[10]
+. The adherent infiltrating neutrophils are activated to release proteases such as elastase and free radicals from granulocytes, leading to organ damage 
+[11]
+. These events may involve endotoxins, cytokines, and platelet activating factors and adhesion molecules 
+[12]
+, 
+[13]
+, 
+[14]
+, 
+[15]
+, 
+[16]
+. Nake et al. 
+[17]
+ previously assessed a variety of mediators such as leukotriene B4, prostaglandin I2 in sepsis and reported that these mediators interact in a complex manner to produce the pathology 
+[17]
+. The levels of inflammatory cytokines are in proportion to the surface area of the burn and that as their levels rise, patient's outcome deteriorates 
+[18]
+, 
+[19]
+. The present study confirms that the patients treated with Trypsin–Chymotrypsin preparation exhibited reduced cytokine levels and wound epithelialisation and healing is accelerated and scar outcome is good, whereas untreated control patients showed a delay in healing and re-epithelialization.
+
+DeBandt et al. 
+[20]
+ and others suggested the influence of measuring circulating IL-6 concentration in the early stage of extensive burns 
+[20]
+, 
+[21]
+: both these papers found increased IL-6 production, with a maximum concentration between days 2 and 4. Drost et al. 
+[21]
+ noticed that TNF α was undetectable in most plasma samples but IL-1β concentration followed increased IL-6 during the first week after injury and positively correlated with burn size. Gueugniaud et al. 
+[22]
+ suggested that the systemic cytokines response to burn injury seems to be partly represented by IL-6. While other papers suggest that high levels of cytokines are correlated with burn size, sepsis and/or mortality, they believe that an early increase in IL-6 could perhaps indicate a good prognosis. Interleukin-6 is a mediator of host response to inflammation, on the one hand, inducing the secretion of most other hepatic acute-phase proteins, especially that of C-reactive protein 
+[23]
+ and on the other hand, probably inducing vascular smooth muscle contraction 
+[24]
+.
+
+The present study showed that Trypsin–Chymotrypsin preparation exhibited a tremendous effect on reducing burn oedema and reduction in cytokine activity and also quickened wound epithelialisation and thus burn wound healing was early and scar outcome good. Control cases showed delayed regression of burn oedema, decreased rate of epithelialisation, and the cytokine expression showed significant variation from Trypsin–Chymotrypsin combination. Thus the final outcome is not as encouraging as Trypsin–Chymotrypsin treated cases. Our investigation clearly established the modulation of proinflammatory cytokines IL-1β and IL-6 by Trypsin–Chymotrypsin preparations and it is worthwhile looking at the expression of anti-inflammatory cytokines during drug treatment to understand in depth the pathophysiology of burn injury.
+
+Acknowledgements
+We express our sincere thanks to Dr T. Ramasami, Director, CLRI for giving us the encouragement and opportunity to carry out the work and ELDER Pharmaceutical (Mumbai) for financial support.
