@@ -12,7 +12,7 @@ def generate_random_indices(limit, num):
 
 def create_empty_files(pmids):
     """Create empty text files named after each PMID in specified directories."""
-    directories = ['ref_abstracts', 'raw_texts']
+    directories = ['texts', 'textsAbstract']
     for directory in directories:
         if not os.path.exists(directory):
             os.makedirs(directory)
@@ -32,7 +32,7 @@ def main():
         logging.error(f"Failed to load dataset: {e}")
         return
 
-    num_articles = 1200
+    num_articles = 500
     max_index = len(dataset['train']) - 1
     indices = generate_random_indices(max_index, num_articles)
     print(indices)
