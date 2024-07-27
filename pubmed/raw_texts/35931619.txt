@@ -1,0 +1,249 @@
+1. Background
+When a wound appears, there are necessarily changes in skin structure and, regardless of their classification, the biological response phenomena of the healing process are immediate.
+
+In the process of physiological wound healing, we usually identify three successive phases in a normal path of scar evolution: (i) hemostasis, the inflammatory phase, (ii) granulation tissue refurbishment, the proliferative phase, and (iii) epithelialization, the remodeling phase [
+1
+]. However, when changes occur in this physiological chain of steps, there are factors that influence the behavior of the wound, such as hypoxia, recurrent ischemia, and some intrinsic factors of the host and bacterial infections [
+2
+,
+3
+].
+
+Within this trade-off between adequate and inadequate evolution, the action of an organized, systematized and uniform wound monitoring is very relevant. Therefore, since the very first contact and at all phases of the treatment, a systemic evaluation of the individual and of the wound is essential, from the wound bed to the perilesional skin.
+
+Regarding the assessment of the injured person, we should include clinical characteristics and comorbidities considering the perception of conditioning factors of local and systemic metabolic activity. Therefore, to perform a local wound assessment, we should identify the type of tissues in the bed, the location, the extension, the depth, the exudate, the characteristics of the perilesional skin, the infection and the odor [
+4
+,
+5
+].
+
+In order to understand at which stage of the wound healing process we are, it is necessary to evaluate all the changes identified by these parameters, to point out the evolutionary process of healing, and to associate all the local factors present. However, to carry out a more rigorous wound evaluation, clinical judgment of health professionals should also be captured through a measurement instrument, allowing for more objective and consistent results.
+
+Nowadays, in fact, there are several measurement instruments, usually grouped in two main areas: (i) instruments for risk assessment and (ii) specific instruments for assessing wound-related quality of life or wound healing.
+
+Risk assessment is associated to primary prevention and aims at limiting the incidence of a disease by controlling specific causes and risk factors [
+6
+]. The tests to use must be accurate and valid. They will be accurate if they provide consistent results, and they will be valid if they have high sensitivity and specificity. Currently, for risk assessment there are, at least, five measuring instruments available: Norton scale [
+7
+], Waterlow scale [
+8
+], Cubbin and Jackson scale [
+9
+], Sunderland scale [
+10
+], and Braden scale [
+11
+]. This last scale is considered the one with higher sensitivity.
+
+Other measurement instruments are intended to assess the severity of the wound and the healing process, such as the Pressure Ulcer Scale for Healing (PUSH) [
+12
+], Leg Ulcer Measurement Tool (LUMT) [
+13
+], Sessing Scale (SS) [
+14
+], Sussman Wound Healing Tool (SWHT) [
+15
+], Bates-Jensen Wound Assessment Tool (BWAT) [
+16
+], and DESIGN, an acronym derived from the six components of the tool: depth, exudate, size, inflammation/infection, granulation tissue, and necrotic tissue [
+17
+]. Also, to measure the quality of life of individuals with wounds there is the Cardiff Wound Impact Schedule (CWIS) [
+18
+].
+
+A useful 9-item tool to measure the healing process in chronic wounds is the RESVECH 1.0 [
+19
+], created in 2010 and used after the detection of the chronic wound until its healing. It evaluates physical and psychological components, with its internal consistency supported by experts. Currently, the RESVECH 2.0 measurement instrument, using a Likert-type scale, has only six dimensions: wound area; depth; edges; type of tissue in the wound bed; exudate; and infection/inflammation - biofilm sign. The total score ranges between 0 and 35, with 0 meaning a complete healing.
+
+The purpose of this paper is to present the process carried out by the authors to create and validate a Portuguese version of RESVECH 2.0.
+
+2. Methods
+This study encompassed three main phases: (i) cultural and linguistic adaptation of RESVECH 2.0 to European Portuguese; (ii) tests of reliability; and (iii) test of validity.
+
+2.1. Cultural and linguistic adaptation
+To create the Portuguese version of RESVECH 2.0, we firstly asked permission from the authors and followed the forward/backward process [
+20
+,
+21
+]. Initially, two Portuguese translators, fluent in English, performed two separate translations. Next, both translations were analyzed in order to detect any conceptual differences, reaching a final consensus version. A backtranslation was then performed by an English translator, fluent speaker of Portuguese language. At the end, the original and the back translated versions were compared and the obtained Portuguese version was analyzed by three nurse experts for a clinical review. These experts were members of wounds group in three different hospitals and they had more than five years wounds experience.
+
+Next, a cognitive debriefing was performed on a meeting with ten professionals, aimed at detecting the feasibility and comprehension of the instrument, as well as possible problems of clarity, understanding and redundancy of the items. Finally, the last Portuguese version was reviewed in order to correct possible grammar errors.
+
+2.2. Study design and participants
+The target population consisted of all patients with chronic wounds undergoing treatment in an oncology hospital. We included inpatients from head and neck surgery, general surgery, otorhinolaryngology surgery, maxillofacial surgery, urology surgery, medical oncology and palliative care departments. Ambulatory patients were also included from a stomal therapy outpatient clinic, and dressing and biopsy rooms. Wounds that were already in the epithelialization phase were excluded, as well as all non-ulcerated oncological lesions. The sample included all patients admitted in internment and ambulatory with one or more wounds with four months of evolution.
+
+Data collection was performed with the collaboration of reference nurses from each department and one of the authors made the second observation (when necessary), without contact or analysis discussion between the two observers.
+
+We have asked authorization of the directors and nurses in chief from the departments involved and of the Hospital Board for the implementation of the project. We also obtained the permission of the hospital's Ethics Commission (ref. number: 05/TI/16). All individuals gave free informed and written consent to the study.
+
+2.3. Measures
+Along with the Portuguese version of RESVERCH 2.0, we also applied the Portuguese versions of BWAT and a generic quality of life instrument (EQ-5D-5L), in addition to the sociodemographic and clinical variables.
+
+The current version of BWAT contains 13 dimensions: size, depth, edges, undermining, type of necrotic tissue, amount of necrotic tissue, type of exudate, amount of exudate, skin color surrounding the wound, peripheral tissue edema, peripheral tissue induration, granulation tissue, and epithelialization. The total score obtained ranges from 13 to 65 points, and the wound is closer to healing the lower the score.
+
+EQ-5D-5L is a generic preference-based measure of health that has five dimensions (mobility, self-care, usual activities, pain/discomfort, and anxiety/depression), each one with five levels of impairment that together describe a total of 3125 health states [
+22
+]. To estimate utilities using this new EQ-5D-5L, we used the tariffs based on the preferences from the general public [
+23
+]. This instrument was selected as it is a brief scale used to assess the impact of the healing process in chronic wounds in the quality of life of the patient.
+
+The collected sociodemographic data included gender, age and education, as well as BMI and some comorbidities of the individuals. Among these comorbidities and clinical history, we included alcoholism, anemia, stroke, vascular surgery, diabetes, HTA, dyslipidemia, autoimmune disease, depression, previous history of wounds, smoking, heart problems, vascular changes, and respiratory problems.
+
+2.4. Reliability
+As this measure is supposed to be filled by professionals, the reliability of the Portuguese version of RESVECH 2.0 was tested through agreement between raters and internal consistency.
+
+For the former, we used the Cohen's kappa (κ), corresponding to the proportion of agreement over and above chance and ranging from −1 to +1. A significance lower than 0.001 means that k is statistically significantly different from zero [
+24
+]. The internal consistency was measured by the Cronbach's alpha coefficient. A score between 0.70 and 0.90 is recommended [
+25
+].
+
+For this study two hypotheses were then raised regarding the Portuguese version of RESVECH 2.0:
+−
+H1: RESVECH 2.0 showed good agreement between raters
+
+−
+H2: RESVECH 2.0 shows good internal consistency
+
+
+2.5. Validity
+We tested content, construct and criterion validity. The content validity was qualitatively tested in both clinician reviews and the cognitive debriefing. We formulated the following hypothesis for the content validity of the Portuguese version of RESVECH 2.0:
+−
+H3: RESVECH 2.0 is well accepted by experts and other professionals
+
+
+Construct validity encompasses both structural validity and hypotheses arising from known-group testing. Structural validity was tested by exploratory factor analysis with a previous measure of sample adequacy Kaiser-Meyer-Olkin (KMO) and by Bartlett's sphericity measure. A KMO score smaller than 0.5 is unacceptable, it is poor if between 0.50 and 0.60, fair if between 0.60 and 0.70, average if between 0.70 and 0.80, good if between 0.80 and 0.90, or very good if higher than 0.90. The associated significance for the Bartlett's sphericity test should be lower than 0.001. The hypotheses on known-groups included the variables gender, age, education and associated diseases. The known-group tests are assessed by correlation coefficients.
+
+Then, we formulated the following hypothesis for the Portuguese version of RESVECH 2.0:
+−
+H4: RESVECH 2.0's scores present a logical structure
+
+−
+H5: RESVECH 2.0's total scores are dependent from sociodemographic variables
+
+−
+H6: RESVECH 2.0's total scores are dependent from patients' comorbidity
+
+
+Criterion validity was tested by comparing RESVECH 2.0 score with the scores obtained by BWAT and EQ-5D-5L. We formulated the following hypotheses for the Portuguese version of RESVECH 2.0:
+−
+H7: RESVECH 2.0's scores are related with BWAT's sores
+
+−
+H8: RESVECH 2.0's scores are related with EQ-5D-5L index.
+
+
+2.6. Statistical analyses
+Data analysis included descriptive and inferential statistics, using the statistical program SPSS version 25. Student's t-test was used for independent samples, when the dependent variable was divided into two groups and ANOVA One-way test was used when dependent variable was divided into more than two groups. On the other hand, Pearson correlation coefficient was used when the measurement level of the independent variable was continuous. A significance of 0.05 was the accepted cutoff used to reject or not the null hypotheses.
+
+3. Results
+3.1. Sample
+The sample was composed by 281 patients. Sociodemographic and clinical characteristics are presented in 
+Table 1
+.
+As we can see from this table, individuals in this sample were between 25 and 95 years old, with an average of 69.7 years of age. Of these individuals, 151 (53.7%) were female. In what concerns the level of education more than one third (99; 34.5%) didn't have any formal education and 135 (48.0%) had completed the first 4 years of education.
+
+Regarding the clinical characteristics, the mean BMI for the total number of individuals was 26.4. Most of them had normal weight 104 (39.5%), but an important part was still above the ideal weight. In what concerns the comorbidity of these oncologic patients, the more frequent ones are HTA (196; 69.8%), changes in circulation (125; 44.5%) and depression (117; 41.6%).
+
+Looking at the time of wound evolution, it was found that the average was 23.8 weeks, with a large range from a minimum of four and a maximum of 201 weeks. In the whole sample, the minimum number of chronic wounds per patient was one and the maximum nine, with an average per individual of 1.4 ± 1.1. Most of the locations of chronic wounds (58; 20.6%) were in the head and neck, 50 (17.8%) in the legs, 40 (14.2%) in the abdomen and only 31 (11%) in the sacred region, coccyx or trochanters.
+
+In relation to chronic wounds measured by the RESVECH 2.0 scale (
+Table 2
+), we may verify that 110 (39,1%) are smaller than 4 cm2, 169 (60.1%) are superficial reaching only the dermis, and 23 (8.2%) reach the muscle layer. Just over a third of the wounds (98; 34.9%) have delimited edges, and in the majority devitalized tissue was found 161 (57.3%).
+From the results obtained by BWAT scale (
+Table 3
+) we can also confirm that 108 (38.4%) of the chronic wounds were smaller than 4 cm2 in size and only 13 (4.6%) had dimensions greater than 80 cm2. A large part of the chronic wounds (178; 63.4%) were superficial with a partial loss of skin involving the dermis and only a small part (2; 0.7%) was covered with necrosis. The necrotic tissue found was devitalized yellow and not adherent in 139 (49.5%) of the cases, but in 11 (3.9%) it was firmly adherent. We found 75 (26.7%) chronic wounds with 50–75% of the bed covered with necrosis and only 28 (10%) had necrosis in more than 75% of their bed.
+The edges were distinct in 138 (49.1%) cases and 216 (76.9%) presented undermining smaller than 2 cm2. The exudate was purulent fluid and brownish yellow color in 89 (31.7%) and the color of the surrounding skin was pink in 144 (51.2%) of the wounds.
+
+In the results obtained with the EQ-5D-5L scale (
+Table 4
+), the dimensions mobility, self-care and usual activities showed about 30% of patients without any problem and about 20% with slight problems. In the dimension pain/discomfort, there was a slight homogeneous distribution of all levels, except few of them (27; 9.6%) that had extreme pain/discomfort. Regarding the anxiety/depression dimension, 146 (51.9%) reported feeling none or slightly anxious or depressed, but 19 (6.8%) described themselves as extremely anxious or depressed.
+In general, individuals had a moderate QoL either measured by the EQ-5D-5L index or by the visual analog scale EQ-VAS. However, we should notice that some patients perceived their quality of life as very low. In fact, 11 (3,9%) patients scored between 0 and 0.2 on the EQ-5D-5L index score and 83 (29.5%) showed extreme scores, worse than death.
+
+3.2. Cultural and linguistic adaptation
+The process followed to create the Portuguese version of RESVECH 2.0 ran smoothly, without any obstacles. Specifically, no significant questions were raised by the experts used in the clinical reviews nor by the professionals who participated in the cognitive debriefing meetings.
+
+On the other hand, in our final sample, the Portuguese version of RESVECH 2.0 was completely filled by professionals and no one showed any difficulty (H3).
+
+3.3. Reliability
+Analyzing the agreement between two raters looking at the same patient, we computed the Cohen's kappa (k) coefficient to determine whether such raters agreed. From 
+Table 5
+ we evidenced that, for all nineteen RESVECH 2.0 items, the proportion of agreement over and above chance was high, meaning that the agreement scores obtained were statistically significantly different from zero (H1).
+This same table shows the internal consistency of 0.735 which can be considered acceptable (H2).
+
+3.4. Validity
+Apart from the content validity already mentioned in the previous cultural and linguistic adaptation, we tested the construct validity, starting by looking at the structural validity. The indicator KMO was equal to 0.776, considered average/good, and the Bartlett's sphericity measure was less than 0.001. The principal component factor analysis with varimax rotation obtained six factors that correspond to 59.5% of explained variance (H4). 
+Table 6
+ shows the loadings associated to each factor.
+As we can see, the data obtained by the Portuguese version of RESVECH 2.0 can be organized into six main factors. Factor 1 (F1) may represent the association of complications resulting from the presence of infection; F2 aggregates inflammatory signs; F3 represents the evolution of healing; F4 links depth and edges; F5 allows to classify the type of tissues; and F6 concentrates the epithelial tissue characteristics.
+
+We also tested the dependency of the RESVECH 2.0 scores from sociodemographic and clinical variables. 
+Table 7
+ presents the outcomes of t-tests and ANOVA performed to assess these dependencies.
+Regarding the sociodemographic variables, gender, age and years of education seem not to have any influence on the final scores obtained by RESVECH 2.0 (H5). Same conclusion can be drawn when the comorbidity associated to oncologic disease were considered (H6). On the other hand, BMI seems to influence the total score, meaning that more obese patients tend to have lower total RESVECH 2.0 scores, i.e. better healing.
+
+At last, to test the criterion validity, we related final RESVECH 2.0 scores with final BWAT scores and with the EQ-5D-5L index scores. The comparison between the two wound-specific measurement instruments revealed a Pearson correlation coefficient of 0.836 (p < 0.01) (H7). Regarding the domains of both scales, we correlated each dimension and we found all correlations statistically significant (p < 0.001).
+
+The relation between the specific measure RESVECH 2.0 and the generic quality of life measure EQ-5D-5L showed a negative and significant correlation (−0.231; p < 0.01), revealing the association of lower RESVECH 2.0 scores with higher perceived quality of life (H8). Looking to each of the five EQ-5D descriptive system dimensions, we also compared the total score of RESVECH 2.0 in patients with or without problems. 
+Table 7
+ presents these results, evidencing that there was a statistically significant difference (p < 0.05) in all dimensions, with RESVECH 2.0 scores always showing higher in people with problems.
+
+4. Discussion
+We developed and validated a European Portuguese version of the RESVECH 2.0 measurement instrument to follow the healing process of chronic wounds. The RESVECH 2.0 scale presented reliable internal consistency with Cronbach's alpha values of 0.73, with strong accordance between observers. These values were higher than those obtained by the authors of the original scale [
+34
+,
+35
+], but along with Gutierrez (2012) in a subsequent study [
+36
+].
+
+From the results obtained in this study, the sociodemographic characteristics of patients with chronic wounds gender and age have been shown in accordance with several studies results or data [
+26
+,
+27
+]. However, [
+28
+] male gender shows a higher percentage of chronic wounds.
+
+Considering maxillofacial, head and neck, the main surgical specialties where data collection was performed, the wound locations were relatively distant from epidemiological studies conducted in this area. In fact, the wounds appear mostly in the lower body, specifically in the lower limbs [
+29
+]. In what regards the number of wounds per patient and the time management during the wound evolution process we obtained results similar to studies conducted by Cheng et al. (2020) and by Martinengo et al. (2019).
+
+In terms of wound assessment, it was reported that they were essentially superficial and of small size, yet with the presence of devitalized tissue and/or necrosis. These aspects are extremely relevant from the perspective of care plan, considering that the most appropriate treatment is delivered according to the wound evaluation chart [
+30
+].
+
+The specific characteristics of each wound classification and person's health status are directly influencing their quality of life as well as their relatives' [
+31
+]. According to the data reported in this study, it is important to mention that the results obtained are identical to other studies and the quality of life in a person with chronic wound has tendentially a low quality of life and health [
+32
+,
+33
+]. In fact, the study reported that in healing process (wound classification and assessment) according to the RESVECH 2.0 scale patients with lower outcomes had lower levels of quality of life.
+
+The Portuguese version of the scale had also a criterion validity, so when its dimensions were correlated with the BWAT scale, it presented a Pearson correlation of 0.83, which is higher than the one found by the authors Restrepo-Medrano (2010).
+
+According to the study outcomes, the body mass index BMI had significant impact on the score of the RESVECH 2.0 scale, which is in line with the pathophysiological principles associated with malnutrition, due to deficit or excess, as conditioning factors of the wound healing process. According to Alves et al. (2021) there are crucial nutritional needs for the wound healing and treatment [
+37
+]. In addition, Stechmiller (2010) adds that healing is an anabolic process that requires adequate energy supply for an effective improvement [
+38
+].
+
+The factor analysis in this scale demonstrates that we need to perform a deep reflection on the infection parameters and their division in other elements, as in the case of exudate, inflammatory signs and wound progression. These parameters are reported by some authors as being relevant for an effective and reliable local wound exploration or evaluation [
+39
+,
+40
+].
+
+This study has a limitation related with the wounds’ typology, because head and neck wounds in cancer patients may affect the diversity and specificities of the healing process in other types of wounds.
+
+5. Conclusion
+Living with a chronic wound with odor and remaining exposed due to its location means living excluded from the family and social context. We noticed that the individuals in this sample found themselves in a psychic suffering that caused them a significant loss of quality of life and well-being.
+
+A total of 281 chronic wounds were evaluated, most of them located in the head and neck, lower limbs and abdominal region. Through the application of RESVECH 2.0, it was found that this scale presents a good internal consistency, with a Cronbach's alpha of 0.735, and high coefficients of agreement between raters were obtained. The scale also presented a good acceptability.
+
+We conclude that there are no statistically significant differences between gender, education, age and comorbidities. Comparing the RESVECH 2.0 scale with the BWAT scale, there was a statistically significant positive and strong correlation and, comparing it with the EQ-5D-5L, there was also a statistically significant difference for all dimensions, although it increases in people with other problems.
+
+We developed an European Portuguese version of the RESVECH 2.0 that presented acceptable internal consistency and good validity; this version can be used in research and in clinical practice. Further investigation is required to assess its psychometric properties in other settings.
+
+The use of rigorous instruments adjusted to the Portuguese reality may produce indicators of important outcomes that demonstrate the success of the interventions of health professionals in the treatments, reducing the time of prevalence of chronic wounds.

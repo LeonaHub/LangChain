@@ -1,0 +1,11 @@
+Objectives
+To identify factors influencing COVID-19 preventive behaviors among the Thai population.
+
+Methods
+A cross-sectional web-based survey was used. A total of 6,521 Thai people completed the survey. The multiple linear regression analysis was performed to identify factors that influenced coronavirus disease 2019 (COVID-19) preventive behaviors. The Predisposing, Reinforcing, and Enabling Constructs in Educational Diagnosis and Evaluation (PRECEDE) model was applied to propose factors influencing COVID-19 preventive behaviors.
+
+Results
+The factors that mostly influenced COVID-19 prevention behaviors when controlling for the other variables are social support (β = 0.173, p < 0.001) follow by age (β = 0.162, p < 0.001), flu-like symptoms (β = 0.130, p < 0.001), gender (β = −0.084, p < 0.001), perceived risk of exposure (β = 0.035, p < 0.05), lock down policy (β = 0.029, p < 0.05), and residential area (β = −0.027, p < 0.05), respectively. These factors explained 52% of the COVID-19 preventive behaviors in Thai population.
+
+Conclusion
+The result of this study was a foundation for further studies on different groups of people to develop different strategies to adopt preventive behaviors to reduce the spread of the COVID-19.

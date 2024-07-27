@@ -1,0 +1,272 @@
+1. Introduction
+Cardiovascular disease (CVD) is the major cause of morbidity and mortality worldwide
+1
+. Over recent decades, cardiovascular outcomes have been improved, but due to the aging, growing populations and increasing levels of certain risk factors such as obesity and diabetes, a greater focus on prevention has been suggested
+2
+,
+3
+. Current prevention strategies focus on individuals at short-term (10-year) risk and prescription of pharmacological treatments above a certain threshold of predicted risk.
+2
+,
+4
+. Although this approach has been successful in directing therapy to those at the highest absolute risk, the short-term risk estimation depends on age and sex, and young people and women therefore tend to be excluded, even if they have elevated risk factor levels and subsequently a high lifetime risk (LTR) for CVD
+5
+. Therefore, recent guidelines have recommended the use of LTR in risk estimation when assessing a person's current risk factor burden
+4
+,
+6
+, 
+7
+, 
+8
+. LTR shows the absolute cumulative risk of developing a given disease during an individual's remaining lifetime and provides a more comprehensive assessment of the overall burden of a given disease in the general population
+9
+. Although not yet recommended for treatment decisions, LTR can be an effective indicator of future risk and may promote the maintenance of a healthy lifestyle
+10
+.
+
+Several studies from high-income countries have estimated the LTR of total and specific CVDs
+5
+,
+11
+, 
+12
+, 
+13
+, 
+14
+, 
+15
+. However, no study has produced estimates for the LTR of total CVD in the Middle East and North Africa (MENA) countries as a low/middle-income (LMICs) region, despite the higher prevalence of CVD-related deaths in this region
+16
+. Based on a recent meta-analysis, the prevalence of CVD was found to be 10.1% among the Middle East population
+17
+. In Iran, CVD was the first leading cause of mortality, responsible for 46% of all deaths
+18
+. Industrialization, urbanization, and nutritional transition from a traditional to a modern diet have resulted in the rise in metabolic risk factors, which are responsible for more than 300 deaths per 100000 individuals in this region, compared with a global mean of fewer than 250
+19
+.
+
+Therefore, we conducted an analysis using data from the Tehran Lipid and Glucose Study (TLGS), a large population-based cohort study in Iran. We aimed to estimate the LTR for total CVD among adult participants. We also aimed to examine the effect of important risk factors of CVD, including body mass index (BMI), hypertension, diabetes, smoking, and hypercholesterolemia, on the LTR of CVD.
+
+2. Methods
+2.1. Design and setting
+The TLGS study is an ongoing population-based prospective cohort study of non-communicable diseases and related risk factors conducted in Tehran, the capital of Iran. Details of participant selection are presented elsewhere
+20
+. Briefly, from 1999 to 2001 (phase 1), a total of 15005 individuals aged ≥3 years were recruited. During 2002-2005 (phase 2), 3550 new subjects were added, bringing the total study population to 18555 individuals. All participants completed a questionnaire interview, clinical examinations, and laboratory assessments at enrollment and were followed up triennially after enrollment. In addition to the triennial reexaminations, all participants were followed up annually for any medical event leading to hospitalization or mortality during the past year by telephone call to them or their family
+21
+.
+
+2.2. Participants
+In this study, we selected 12790 participants aged ≥20 years from the first (n = 10362) and second (n = 2428) phases as the baseline population. We excluded individuals who had a history of CVD (n = 608), people who had missing data on study variables (n = 940), and individuals with no follow-up data after recruitment (n = 1020) until the end of the study (18 April 2018). Finally, 10222 (4430 men) people remained for our analysis (
+Fig. 1
+).
+2.3. Ethics
+The study was conducted in accordance with the Declaration of Helsinki and approved by the ethical committee of the Research Institute for Endocrine Sciences of Shahid Beheshti University of Medical Sciences, Tehran, Iran. Written informed consent was obtained from all the participants.
+
+2.4. Data collection
+The participants answered a comprehensive questionnaire that included demographic information such as age, sex, and smoking status, as well as information about medical history and medication use. Weight and height were measured according to a standard protocol, and BMI was calculated as weight (kg)/height (m2). Systolic and diastolic blood pressure (SBP and DBP) were measured according to a standard procedure, and the average of two consecutive measurements was calculated. A fasting blood sample was taken in the morning, and the levels of total cholesterol (TC), fasting plasma glucose (FPG), and 2-hour post-challenge plasma glucose (2h-PCPG) were measured by an enzymatic colorimetric method
+20
+.
+
+2.5. Definition of terms
+BMI was used to categorize participants into normal weight (BMI <25 kg/m2), overweight (BMI 25 to <30 kg/m2), and obese (BMI ≥30 kg/m2). Hypertension was defined as SBP ≥140 mmHg or DBP ≥90 mmHg or taking antihypertensive medication
+22
+. Type 2 diabetes (T2D) was defined as FPG ≥7 mmol/L or 2-hPCPG ≥11.1 mmol/L or the use of anti-diabetes drugs. Current smoking was defined as smoking cigarettes or other smoking implements (water-pipes, pipes) daily or occasionally. Nonsmokers included those who had never smoked, and past smokers were defined as those who had stopped smoking at least one year before the study. Hypercholesterolemia was defined as plasma TC level ≥2.18 mmol/L or taking lipid-lowering drugs.
+
+2.6. Clinical outcome
+The outcome of interest in this study was CVD incidence. Details of the outcome data collection have been presented elsewhere
+21
+. Briefly, all participants were followed annually from the baseline examination until the date of diagnosis of the first fatal or non-fatal CVD event. An adjudication committee evaluated the collected information, and the final diagnosis was recorded using a predefined coding protocol
+20
+,
+21
+. In this study, CVD events were defined as definite myocardial infarction (MI) (diagnosed by electrocardiogram (ECG) and biomarkers), probable MI (positive ECG findings, cardiac symptoms, or signs plus missing biomarkers or positive ECG findings plus equivocal biomarkers), unstable angina (new cardiac symptoms or changing symptom patterns and positive ECG findings with normal biomarkers), angiographic proven coronary heart disease (CHD), congestive heart failure (CHF), stroke, and death attributable to CVD events.
+
+2.7. Statistical analysis
+Baseline characteristics of the participants were summarized and compared using a two-sample t-test and chi-square test, as appropriate. We also compared baseline characteristics between participants and non-participants. Non-participants included those with missing data on study variables at baseline and individuals without any follow-up data.
+
+In this study, LTR of CVD was defined as the probability that a person will develop or die of CVD during the course of a lifetime. We estimated the LTR of CVD at the ages of 20 and 40 years (referred to as “index” ages) up to age 85 years, because few participants survived after age 85 years
+23
+. LTR of CVD was estimated using the cumulative incidence function (CIF), a modified Kaplan-Meier analysis. In the standard Kaplan-Meier analysis, people who die from non-CVD causes during the study period are censored (meaning that they no longer are at risk of CVD), and one minus the Kaplan-Meier estimate of the survival function (1−S(t)) provides an estimate of the cumulative incidence of the event during the study period
+24
+, which may lead to an overestimation of CVD risks
+25
+. However, the CIF function accounts for competing risks of non-CVD death when computing the LTR of CVD
+24
+ and also handles left-truncated and right-censored data
+26
+. In the CIF function, an individual's age (in years) was used as the time scale. In addition to LTR, we calculated 10- and 20-year risks for CVD at index ages 20 and 40 years.
+
+We further estimated the LTR of CVD separately for each of the traditional risk factors, namely BMI, hypertension, T2D, hypercholesterolemia, and smoking. Participants were then stratified into four mutually exclusive groups according to the presence or absence of the abovementioned risk factors as follows:
+1
+ without any risk factor,
+2
+ existence of one risk factor,
+3
+ existence of two risk factors, or
+4
+ existence of ≥3 risk factors, and LTR of CVD was estimated for each group. The LTRs between these groups as well as between men and women were compared using two-sided z-tests
+27
+.
+
+Moreover, to examine the impact of traditional risk factors on the onset of CVD, we estimated the mean CVD-free survival time in different categories of these risk factors. Because the censoring generally precludes the estimation of the mean survival time, we used Irwin's restricted mean
+28
+, which is the mean of the survival time restricted to a given time point, and calculated the area under the survival curve up to the selected restriction time point. CVD-free survival was compared between men and women using the two-sided z-test.
+
+All analyses were performed for the entire population and separately for men and women.
+
+We used the IBM SPSS Statistics version 20 (IBM Corp) and R version 4.0.3 with the ‘etm’ and ‘survival’ packages for our analysis, and a two-sided P value <0.05 was considered statistically significant.
+
+3. Results
+3.1. Baseline characteristics
+Characteristics of the study samples stratified by sex are shown in 
+Table 1
+. Among the total participants (index age 20 years, n = 10222), 4430 (43.3%) were men. At an index age of 40 years, a total of 5004 (45.1% men) individuals were included. At both index ages 20 and 40 years, women had a lower mean age but higher mean BMI and TC than men. At both index ages, women had a higher prevalence of hypertension, diabetes, hypercholesterolemia, and use of all studied drugs compared with men, but men were more likely to be smokers than women. At index age 20 years, women had lower mean SBP and DBP compared with men, which became higher than that of men at index age 40 years. 
+Table 2
+ shows the baseline characteristics of the participants and non-participants. Compared with non-participants, participants had a higher mean age and were less likely to smoke but were more likely to have hypercholesterolemia.
+3.2. Incident cases, short time, and LTR for CVD
+During 154142 person-years of follow-up, with a median (interquartile range (IQR)) of 18.02 (14.54-18.51) years, a total of 1326 individuals (774 men) developed CVD, and 430 (238 men) died from non-CVD causes. 
+Table 3
+ shows the lifetime, 10-year, and 20-year risks of CVD at index ages 20 and 40 years. In the total population, the LTR of developing CVD was about 60% at each index age. The LTR was higher among men compared with women at both index ages. At both index ages, compared with the LTRs, the 10-year and 20-year risks of CVD were lower (
+Table 3
+). Generally, both the 10-year and 20-year risks of CVD were higher in men than in women. 
+Fig. 2
+ presents the plot of cumulative incidence of CVD in the total population at the two index ages 20 and 40 years.
+3.3. Effect of individual risk factors
+Table 4
+ shows the LTR of CVD at index ages 20 and 40 years in total participants according to the five risk factors. Generally, at each index age, there was a graded increase in LTR for incident CVD as each risk factor burden increased. The trends were similar when stratified by sex (
+Table 5
+ and 
+Table 6
+), except for overweight status in men and current smoking in women, which were non-significant.
+At each index age, LTRs were significantly higher in men than in women for all risk factors (except for obesity and current smoking). However, the effect of each risk factor burden was greater among women than men. For example, at the age of 20 years (
+Table 5
+), LTR of diabetes was greater in women than men (25% vs. 15%). A similar pattern was observed at an index age 40 years.
+ show the plot of cumulative incidence of CVD by traditional risk factors at the index ages of 20 and 40 years, respectively, among all participants.
+3.4. Effect of aggregate risk factors
+Among the total population and at both index ages (
+Table 4
+), a higher aggregate risk factor burden was consistently associated with higher LTR for CVD. For example, at index age 20 years, the LTR was about 20% higher among those with ≥3 risk factors compared with individuals with two risk factors. The corresponding value was about 19% in men and 25% in women (
+Table 5
+).
+
+3.5. Years lived free from CVD
+Table 7
+ shows the number of years lived free from CVD (95% CI) after the age of 20 and 40 years. Overall, among total participants and at both index ages, the number of years lived free from CVD decreased with increasing risk factor burden. Diabetes appears to have the strongest association with shorter CVD-free survival at each index age; compared with those without T2D, people with T2D lived on an average 7 years less without CVD. A similar pattern was observed for women at both index ages and for men at index age 40 years. Generally, we found that the number of years lived free of CVD was statistically higher in women than men for each risk factor and at both index ages
+The effect of aggregate risk factors on survival free of CVD was most pronounced in men compared with women (
+Table 7
+). For example, at index age 20 years, men with no risk factors lived on average an additional 24.1 years free of CVD compared with men with ≥3 factors. However, the corresponding value was 8 years in their female counterparts (
+Table 7
+).
+
+4. Discussion
+In this study of 10222 individuals, who experienced 1326 cardiovascular events during a median follow-up of 18.02 years, we found that the LTR of CVD exceeded 66% for men and 52% for women at both index ages of 20 and 40 years. Short-term and intermediate risks were low among individuals of both sexes, especially at the index age of 20 years. In both men and women, the presence of each individual risk factor, including obesity, T2D, hypertension, hypercholesterolemia, and smoking (only for men), was associated with increased LTR for CVD, at both index ages of 20 and 40 years. Furthermore, we found that at both index ages, the presence of ≥3 of the five risk factors, compared with that of two risk factors, was associated with about 25% and 19% higher LTR of CVD in women and men, respectively, and lower survival free of CVD.
+
+To our knowledge, this is the only study estimating the LTR of CVD among a population from the MENA region. This study helps in the understanding of how individual and aggregate CVD risk factors affect incident CVD risk over the remaining lifespan in men and women in this region.
+
+Previous epidemiological studies have illustrated the relationship between hypertension, T2D, obesity, smoking, and hypercholesterolemia and increased risk for incident CVD
+1
+,
+29
+, 
+30
+, 
+31
+, 
+32
+, including the cohort used in this study
+33
+. Thus, although it is not surprising that the presence of these CVD risk factors is associated with a higher risk for incident CVD, the magnitude of the associations observed is particularly impressive.
+
+In line with some previous findings, women in our study had a lower LTR of CVD than men at each index age. An American study
+26
+ reported that at an index age of 45 years, the overall LTR for total CVD was 60.3% and 55.6% in men and women, respectively, which is generally comparable to the corresponding LTRs of 67.1% and 52.3% for men and women aged 40 years, respectively, in our study. In a Chinese study
+34
+, the LTR of CVD at age 35 years through 80 years of age was 24.4% and 20.2% for men and women, respectively, which is lower than the LTRs estimated in our study for men (67.1%) and women (52.3%) at age 40 years. A recent study in Sweden reported a LTR of 67.1% and 59.1% for CVD, for men and women aged 55 years, respectively, which is generally comparable to our corresponding LTRs at age 40 years
+5
+.
+
+National studies in Iran have shown that life expectancy values for women are higher than men (81.6 vs. 76.1 in 2019)
+35
+. With longer life expectancy, we might expect individuals have more time to develop CVD within a certain timeframe
+36
+. However, in the present study, women had a significantly lower LTR of CVD at both index ages. This discrepancy may be explained by differences in CVD risk factors between men and women. For example, in our study, women had a significantly lower smoking prevalence than men at both index ages. Another reasonable reason could be that Iranian men are more exposed to air pollutants than women due to their job characteristics
+37
+. In contrast to our findings, women in the Swedish study had almost the same CVD LTR as men, which can be explained by the similar prevalence of active smoking between men and women
+5
+ and also by a lower gap in the remaining life expectancy between Swedish men and women
+38
+.
+
+The American study
+26
+ found that at index age 45 years, among those participants with at least 2 CVD risk factors, the LTR for total CVD exceeded 60% for men and 50% for women. The Chinese study
+34
+ reported LTRs of 51.1% for men and 38.6% for women at age 35 for those with ≥2 risk factors. However, our results demonstrated that the LTR exceeded 70% in men and 46% in women at index age 40 years for those with at least two risk factors.
+
+Although men in our study had higher LTR at both index ages and risk factor strata, the effect of risk factors, alone and in combination, on LTR of CVD was more pronounced in women than in men. For example, the presence of ≥3 of the five risk factors increased LTR of CVD by 30% in men vs. 55% in women, compared with individuals without any of the five risk factors. Another interesting finding in this study was that despite optimal levels of risk factors in men (both young and middle-aged), LTR of CVD may still be elevated (around 50%). These findings may be attributed to sex differences on the impact of traditional risk factors on CVD incidence. Several studies have previously shown that hypertension, diabetes
+39
+,
+40
+, and measures of central obesity
+41
+ confer a greater excess risk of CVD in women than men. Second, residual and unmeasured risk factors, including psychosocial and occupational stress and air pollutants, might contribute to higher baseline risk among Iranian men
+37
+.
+
+In 2010, the American Heart Association introduced the concept of cardiovascular health, defined as the presence of seven favorable health behaviors and factors including abstinence of smoking within the past year, ideal BMI, physical activity at goal levels, consumption of a dietary pattern that promotes cardiovascular health, untreated TC <200 mg/dL (5.17 mmol/L), untreated blood pressure <120/80 mmHg, and absence of T2D
+42
+.
+
+Recently, we showed that among the Iranian population, meeting higher ideal cardiovascular health metrics was associated with a lower risk of different CVD events and mortality outcomes
+43
+. The results of this study extend our previous findings that primordial prevention of traditional risk factors substantially decreases the LTR for CVD, especially in women.
+
+In this study, we found that younger participants as well as middle-aged women tended to have a low short-term and intermediate-term CVD risk, despite having a high LTR. This confirms that short- and intermediate-term risk assessments may not be appropriate for motivating lifestyle modifications, especially in young people and women
+10
+,
+44
+,
+45
+. Conversely, LTRs provide more comprehensive estimates and may encourage the adoption of a healthier lifestyle among people who are apparently healthy. Therefore, our findings support the shift in focus of guidelines in recent years from the importance of short-term CVD risk toward the greater importance of LTR
+4
+,
+6
+,
+7
+,
+10
+.
+
+In our study, the presence of risk factors, alone and in combination, was associated with a shorter CVD-free survival in both men and women. A similar finding was observed in the Framingham Heart Study in which hypertension was associated with a significant reduction in the number of years lived free of CVD
+46
+. Moreover, in pooled data from five prospective cohorts, individuals with at least two CVD risk factors experienced shorter CVD-free survival, compared with participants with optimal risk factor levels
+26
+.
+
+An interesting finding in our study was the observation that although approximately 55% of men with optimal risk factor levels at age 20 eventually developed a CVD event by age 85, their age at onset of CVD was about 24 years later than that of men with ≥3 risk factors. At age 40, 53% of men with an optimal risk factor burden ultimately developed CVD, and their age at onset of CVD was about 10 years later than that of men with ≥3 risk factors.
+
+Therefore, the maintenance of optimal risk factor burden through age 20 years may not guarantee a life without CVD, but it may reduce the high incidence of premature CVD in men
+47
+. These findings may be important for policy makers, clinicians, and patients, as these estimates highlight the importance of preventing the development of major risk factors to prolong CVD-free survival, improve quality of life, and minimize healthcare costs.
+
+Benefits of risk factor avoidance and primordial prevention were also observed among women because at each index age, women without any of the five risk factors developed CVD 8 years later compared with women with at least three risk factors.
+
+Recently, a Japanese study has shown that the LTR for CVD death at age 45 for those with an optimal number of risk factors was lower than in those with ≥2 risk factors (6.8% vs. 19.4% for men and 6.9% vs. 15.4% for women)
+48
+.
+
+4.1. Strengths and limitations
+This study included a large representative sample. Second, as in previous similar studies, we used a modified Kaplan-Meier model in which competing risks of non-CVD death were adjusted. An unmodified Kaplan-Meier model would result in an overestimation of LTR for total CVD. Furthermore, we stratified estimates of LTR exclusively by important risk factors for CVD. This stratification method has been used in previous studies as an approach for estimating LTR in the context of aggregate risk factor burden
+14
+,
+49
+,
+50
+. Finally, we estimated CVD-free survival, which may be an interesting measure to promote cardiovascular health in young adults.
+
+There may be several limitations to our study. First, we did not account for the change in risk factors after index age 20 or 40 years. Second, due to the small number of CVD events, we assessed the LTR of composite CVD events and did not stratify the analysis for all components of the composite end point. Finally, all participants in our study were Iranian, which may limit the generalizability of the results.
+
+5. Conclusion
+This study of participants from the TLGS cohort showed that LTR (until age 85 years) for total CVD exceeded 66% in men and 52% in women. Overall, LTR for total CVD was substantially greater in people with a greater risk factor burden. However, the effect of risk factors on LTR of CVD, alone or in combination, was more pronounced in women than in men. In addition, this study showed an association between the absence of traditional risk factors in young and middle-aged men and women with substantially increased CVD-free survival, which may suggest a compression of morbidity in older age, a phenomenon noted by Fries. This study suggests that the optimal maintenance of risk factors through age 20 may reduce the high burden of premature CVD in men. Our findings confirm that a public health strategy focusing on risk factor prevention at an early age may potentially reduce LTR of CVD in both sexes.
