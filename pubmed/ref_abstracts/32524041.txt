@@ -1,0 +1,11 @@
+Objective
+Neurostimulation devices that deliver electrical impulses to the nervous system are widely used to treat seizures in patients with medically refractory epilepsy, but the effects of these therapies on sleep are incompletely understood. Vagus nerve stimulation can contribute to obstructive sleep apnea, and thalamic deep brain stimulation can cause sleep disruption. A device for brain‐responsive neurostimulation (RNS® System, NeuroPace, Inc) is well tolerated in clinical trials, but potential effects on sleep are unknown.
+
+Methods
+Six adults with medically refractory focal epilepsy treated for at least six months with the RNS System underwent a single night of polysomnography (PSG). RNS System lead locations included mesial temporal and neocortical targets. Sleep stages and arousals were scored according to standard guidelines. Stimulations delivered by the RNS System in response to detections of epileptiform activity were identified by artifacts on scalp electroencephalography.
+
+Results
+One subject was excluded for technical reasons related to unreliable identification of stimulation artifact on EEG during PSG. In the remaining five subjects, PSG showed fragmented sleep with frequent arousals. Arousal histograms aligned to stimulations revealed a significant peak in arousals just before stimulation. In one of these subjects, the arousal peak began before stimulation and extended ~1 seconds after stimulation. A peak in arousals occurring only after stimulation was not observed.
+
+Significance
+In this small cohort of patients, brain‐responsive neurostimulation does not appear to disrupt sleep. If confirmed in larger studies, this could represent a potential clinical advantage of brain‐responsive neurostimulation over other neurostimulation modalities.

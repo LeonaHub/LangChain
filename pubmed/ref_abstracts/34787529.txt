@@ -1,0 +1,11 @@
+Objective
+This study aimed to compare the clinical features and outcomes of neonatal bacterial meningitis (NBM) between patients with positive and negative cerebrospinal fluid (CSF) cultures and determine the risk factors for CSF culture-positive NBM.
+
+Methods
+We retrospectively reviewed the medical records of all patients with NBM. Perinatal clinical data, laboratory results, and cranial radiographs were obtained.
+
+Results
+Among the 186 neonates who met the inclusion criteria. The risk factors for positive CSF culture results were analysed using multiple logistic regression. The multivariable logistic regression analysis showed that the possible risk factors of NBM with positive CSF culture in this study were: Length of fever [OR = 1.126; 95% CI (0.999–1.268)], Neurologic symptoms [OR = 3.043; 95% CI (1.164–7.959)], Cerebrospinal fluid protein [OR = 1.001; 95% CI (1.000–1.001)]. Cases of NBM with a longer duration of fever, more neurologic symptoms, and higher levels of CSF protein were more likely to demonstrate positive results on CSF culture.
+
+Conclusion
+Cases of NBM with CSF culture-positive results were more likely to have severe clinical manifestations and develop more serious neurologic damage. Patients with NBM who have longer durations of fever, more neurologic symptoms, and higher levels of CSF protein were more likely to have CSF culture-positive results, who should be followed up more closely.

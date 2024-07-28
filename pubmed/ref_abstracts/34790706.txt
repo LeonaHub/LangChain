@@ -1,0 +1,9 @@
+Introduction: An increased risk of atrial fibrillation (AF) has been demonstrated in high-performance athletes. Soluble vascular adhesion molecule-1 (sVCAM-1), a biomarker involved in inflammation and cardiac remodeling, is associated with the development of AF in the general population. However, the relationship between sVCAM-1 and left atrial (LA) remodeling has been poorly investigated in long-distance runners (LDR).
+
+Aim: To determine the association between LA remodeling and sVCAM-1 levels in LDR during the training period before a marathon race.
+
+Methods: Thirty-six healthy male LDR (37.0 ± 5.3 years; 174.0 ± 7.0 height; BMI: 23.8 ± 2.8; V°O2-peak: 56.5 ± 7.3 mL·kg−1·min−1) were evaluated in this single-blind and cross-sectional study. The LDR were separated into two groups according to previous training levels: high-training (HT) (n = 18) ≥100 km·week−1 and low-training (LT) (n = 18) ≥70 and <100 km·week−1. Also, 18 healthy non-active subjects were included as a control group (CTR). In all participants, transthoracic echocardiography was performed. sVCAM-1 blood levels were measured baseline and immediately finished the marathon race in LDR.
+
+Results: HT showed increased basal levels of sVCAM-1 (651 ± 350 vs. 440 ± 98 ng·mL−1 CTR, p = 0.002; and vs. 533 ± 133 ng·mL−1 LT; p = 0.003) and a post-marathon increase (ΔsVCAM-1) (651 ± 350 to 905 ± 373 ng·mL−1; p = 0.002), that did not occur in LT (533 ± 133 to 651 ± 138 ng·mL−1; p = 0.117). In LDR was a moderate correlation between LA volume and sVCAM-1 level (rho = 0.510; p = 0.001).
+
+Conclusions: In male long-distance runners, sVCAM-1 levels are directly associated with LA remodeling. Also, the training level is associated with basal sVCAM-1 levels and changes after an intense and prolonged exercise (42.2 km). Whether sVCAM-1 levels predict the risk of AF in runners remains to be established.
