@@ -1,0 +1,11 @@
+Background
+Worldwide, dietary changes have resulted in an increased incidence of colorectal cancer (CRC). Circular RNAs (circRNAs) are involved in tumorigenesis of several human tumors, but their role in CRC remains unknown. This study aimed to investigate the expression and effects of Homo sapiens (hsa)_circ_0079993 of POLR2J4 and its impact on CRC.
+
+Material/Methods
+Paired CRC tissue and adjacent normal colorectal tissue samples (N=41), and HCT116 and SW620 human CRC cells were studied. The expression of circ_0079993 and its parental gene, POLR2J4, were examined using quantitative reverse transcription-polymerase chain reaction (qRT-PCR). Two small-interfering RNAs (siRNAs) against circ_0079993 were used to silence circ_0079993 expression in HCT116 and SW620 CRC cells. Cell proliferation was evaluated using the cell counting kit-8 (CCK-8) assay, colony formation, and in vivo tumor growth assays. The target miRNAs of circ_0079993 was predicted using TargetScan, and the interaction between circ_0079993 and its target miRNAs were verified by the dual-luciferase reporter (DLR) assay.
+
+Results
+In CRC tissue POLR2J4 expression was reduced, and circ_0079993 expression was increased compared with normal tissue. Knockdown of circ_0079993 significantly inhibited the proliferation of CRC cells in vitro. Also, circ_0079993 was predicted to sponge multiple miRNAs, miR-203a-3p.1 was verified as a target of circ_0079993, and circ_0079993 indirectly regulated mRNA expression of the CREB1 gene by sponging miR-203a-3p.1 in CRC cells. The use of anti-miR-203a-3p.1 reversed the inhibitory effects of circ_0079993 knockdown on CRC cell proliferation.
+
+Conclusions
+The findings supported that hsa_circ_0079993 acts as an oncogene in CRC through the miRNA-203a-3p.1/CREB1 axis.

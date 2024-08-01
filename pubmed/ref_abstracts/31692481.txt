@@ -1,0 +1,14 @@
+Background
+Persons with high-grade glioma face both neurological and cancer-related symptoms from the tumor itself and its treatment affecting their daily lives. Survival alone is not an adequate outcome, the quality of the survivorship experience needs to be regarded with equal importance. Patient-reported outcome (PRO) measures can be used to evaluate treatment effects and symptom management interventions.
+
+Purpose
+The aim of this review was to identify the use, challenges, and potential of PRO measures in survivors of high-grade glioma.
+
+Methods
+A narrative expert opinion review was performed on the subject. In addition to our own experiences we searched PubMed, Cumulative Index to Nursing and Allied Health Literature, the Cochrane Library, and PsycINFO for brain tumor-specific PRO measures used in the population of adult patients with high-grade glioma, both original articles and reviews were included.
+
+Results
+There are several PRO measures that have been validated for patients with primary brain tumors including high-grade glioma. PRO measures are used both in clinical trials to evaluate the effect of treatment on health-related quality of life, and in daily clinical practice for holistic needs assessment and symptom management. Common PRO measures used for patients with high-grade glioma are European Organization for Research and Treatment of Cancer general instrument for patients with cancer together with brain tumor module, Functional Assessment of Cancer Therapy-Brain, and MD Anderson Symptom Inventory for Brain Tumor. Neurologic and cognitive disorders often occur in patients with high-grade glioma, which affects patients’ ability to self-report over time, making it more challenging in this population. PRO as a primary outcome seems underutilized.
+
+Conclusion
+For clinical research, PRO measures need to be used together with other clinical outcome measures rather than replacing traditional outcome measures. Moving to more use of PRO measures in survivorship care has potential to improve patient-caregiver-healthcare team communication, symptom management, and quality of care. Implementing PROs in survivorship care should also involve caregivers and a response based on the results.

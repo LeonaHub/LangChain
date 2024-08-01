@@ -1,11 +1,11 @@
 import os
 import json
 import logging
-import spacy
 from pathlib import Path
 from openai import OpenAI
-from langchain_openai import ChatOpenAI
-from langchain_core.messages import HumanMessage, SystemMessage
+from langchain import LangChain
+from langchain.schema import SystemMessage, HumanMessage
+import spacy
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -17,15 +17,21 @@ class SummaryProcessor:
     def __init__(self, config):
         self.api_key = os.getenv('OPENAI_API_KEY')
         self.data_dir = Path(config['data_dir'])
-        self.summaries_dir_openai = Path(config['summaries_dir_openai'])
-        self.summaries_dir_langchain = Path(config['summaries_dir_langchain'])
+        self.summaries_dir_openai1 = Path(config['summaries_dir_openai1'])
+        self.summaries_dir_langchain1 = Path(config['summaries_dir_langchain1'])
+        self.summaries_dir_openai2 = Path(config['summaries_dir_openai12'])
+        self.summaries_dir_langchain2 = Path(config['summaries_dir_langchain12'])
         self.references_dir = Path(config['references_dir'])
         self.summary_options = config['summary_options']
+        self.openai_client = OpenAI(api_key=self.api_key)
+        self.langchain = LangChain(api_key=self.api_key, model="gpt-3.5-turbo", stateful=True)
         self.setup_directories()
 
     def setup_directories(self):
-        self.summaries_dir_openai.mkdir(parents=True, exist_ok=True)
-        self.summaries_dir_langchain.mkdir(parents=True, exist_ok=True)
+        self.summaries_dir_openai1.mkdir(parents=True, exist_ok=True)
+        self.summaries_dir_langchain1.mkdir(parents=True, exist_ok=True)
+        self.summaries_dir_openai2.mkdir(parents=True, exist_ok=True)
+        self.summaries_dir_langchain2.mkdir(parents=True, exist_ok=True)
         self.references_dir.mkdir(parents=True, exist_ok=True)
 
     def read_text_from_file(self, file_path):
@@ -44,106 +50,89 @@ class SummaryProcessor:
             logger.error(f"Error writing to file {file_path}: {e}")
             raise
 
-    def split_text(self, text, max_length=1500):
+    def split_text(self, text, max_length=5000):
         doc = nlp(text)
         segments = []
         current_segment = ""
+        current_length = 0
 
         for sent in doc.sents:
-            if len(current_segment) + len(sent.text) <= max_length:
-                current_segment += sent.text + " "
+            sent_text = sent.text.strip()
+            if current_length + len(sent_text) > max_length:
+                if current_segment:
+                    segments.append(current_segment)
+                current_segment = sent_text
+                current_length = len(sent_text)
             else:
-                segments.append(current_segment.strip())
-                current_segment = sent.text + " "
-    
+                current_segment += " " + sent_text if current_segment else sent_text
+                current_length += len(sent_text)
+
         if current_segment:
-            segments.append(current_segment.strip())
+            segments.append(current_segment)
 
         return segments
 
-    def update_context(self, old_context, new_segment, max_length=2000):
-        combined_text = old_context + " " + new_segment
-        doc = nlp(combined_text)
-        updated_context = ""
-        for sent in reversed(list(doc.sents)):
-            if len(updated_context) + len(sent.text) > max_length:
-                break
-            updated_context = sent.text + " " + updated_context
-        return updated_context.strip()
+    def process_text_with_models(self, segment):
+        # Process with LangChain-enhanced GPT-3.5
+        langchain_response = self.langchain.process_text(segment, additional_messages=[
+            SystemMessage(content="Summarize this text:"),
+            HumanMessage(content=segment)
+        ], **self.summary_options)
 
-    def generate_summary(self, model_type, text, prev_context="", target_length=500):
-        try:
-            # Estimate token count from input text, adjust dynamically based on target length
-            length_control = {"max_tokens": target_length}
-            messages = [{"role": "system", "content": "Summarize this text:"}]
-            if prev_context:
-                messages.append({"role": "system", "content": "Previous context: " + prev_context})
-            messages.append({"role": "user", "content": text})
+        # Process with standalone GPT-3.5
+        response = self.openai_client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "Summarize this text:"},
+                {"role": "user", "content": segment}
+            ],
+            **self.summary_options
+        )
 
-            if model_type == "openai":
-                client = OpenAI(api_key=self.api_key)
-                response = client.chat.completions.create(
-                    model="gpt-3.5-turbo",
-                    messages=messages,
-                    **{**self.summary_options, **length_control}
-                )
-                return response.choices[0].message.content
-            elif model_type == "langchain-openai":
-                model = ChatOpenAI(api_key=self.api_key, model="gpt-3.5-turbo")
-                response = model.invoke(messages, **{**self.summary_options, **length_control})
-                return response.content
-        except Exception as e:
-            logger.error(f"Error generating summary with {model_type}: {e}")
-            return None
-        
-    def call_model(self, model_type, messages, length_control):
-        if model_type == "openai":
-            client = OpenAI(api_key=self.api_key)
-            response = client.chat.completions.create(
-                model="gpt-3.5-turbo",
-                messages=messages,
-                **{**self.summary_options, **length_control}
-            )
-            return response.choices[0].message.content
-        elif model_type == "langchain-openai":
-            model = ChatOpenAI(api_key=self.api_key, model="gpt-3.5-turbo")
-            response = model.invoke(messages, **{**self.summary_options, **length_control})
-            return response.content
-        else:
-            logger.error(f"Unsupported model type: {model_type}")
-            return None
-            
-    def generate_summary(self, model_type, text, prev_context="", target_length=500):
-        try:
-            length_control = {"max_tokens": target_length}
-            messages = [{"role": "system", "content": "Summarize this text:"}]
-            if prev_context:
-                messages.append({"role": "system", "content": "Previous context: " + prev_context})
-            messages.append({"role": "user", "content": text})
-
-            # Call the abstracted model invocation function
-            return self.call_model(model_type, messages, length_control)
-        except Exception as e:
-            logger.error(f"Error generating summary with {model_type}: {e}")
-            return None
+        return langchain_response, response.choices[0].message.content if response else None
 
     def process_texts(self):
         for text_file in self.data_dir.iterdir():
             text_id = text_file.stem
             input_text = self.read_text_from_file(text_file)
-            ref_abstract_path = self.references_dir / f"{text_id}.txt"
-            ref_abstract = self.read_text_from_file(ref_abstract_path)
-            target_length = len(ref_abstract.split())  # Estimate target length based on reference abstract word count
-
-            accumulated_context = ""
             segments = self.split_text(input_text)
 
-            for segment in segments:
-                summary_segment = self.generate_summary("langchain-openai", segment, accumulated_context, target_length)
-                if summary_segment:
-                    self.write_text_to_file(summary_segment, self.summaries_dir_langchain / f"{text_id}.txt")
-                accumulated_context = self.update_context(accumulated_context, segment)
+            first_round_summaries_langchain = []
+            first_round_summaries_openai = []
 
+            self.langchain.reset()  # Resetting only at the beginning of a new document
+            for segment in segments:
+                langchain_summary, openai_summary = self.process_text_with_models(segment)
+                first_round_summaries_langchain.append(langchain_summary if langchain_summary else "")
+                first_round_summaries_openai.append(openai_summary if openai_summary else "")
+
+            # Combine all segment summaries for the second round for Langchain
+            combined_summary_langchain = ' '.join(first_round_summaries_langchain)
+            if combined_summary_langchain:
+                self.write_text_to_file(combined_summary_langchain, self.summaries_dir_langchain1 / f"{text_id}.txt")
+
+            second_round_langchain_summary = self.langchain.process_text(combined_summary_langchain, additional_messages=[
+                SystemMessage(content="Summarize this combined text:")
+            ])
+            if second_round_langchain_summary:
+                self.write_text_to_file(second_round_langchain_summary, self.summaries_dir_langchain2 / f"{text_id}.txt")
+
+            # Combine all segment summaries for the second round for OpenAI
+            combined_summary_openai = ' '.join(first_round_summaries_openai)
+            if combined_summary_openai:
+                self.write_text_to_file(combined_summary_openai, self.summaries_dir_openai1 / f"{text_id}.txt")
+
+            second_round_openai_summary = self.openai_client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[{"role": "system", "content": "Summarize this combined text:"},
+                          {"role": "user", "content": combined_summary_openai}],
+                **self.summary_options
+            )
+            if second_round_openai_summary:
+                self.write_text_to_file(second_round_openai_summary.choices[0].message.content, self.summaries_dir_openai2 / f"{text_id}.txt")
+
+            # Reset after processing the document
+            self.langchain.reset()
 
 if __name__ == "__main__":
     with open("config.json", "r") as file:
