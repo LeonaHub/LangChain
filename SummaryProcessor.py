@@ -3,8 +3,11 @@ import json
 import logging
 from pathlib import Path
 from openai import OpenAI
-from langchain import LangChain
-from langchain.schema import SystemMessage, HumanMessage
+from langchain_openai import ChatOpenAI
+from langchain.schema import HumanMessage
+from transformers import GPT2Tokenizer
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.prompts import ChatPromptTemplate
 import spacy
 
 # Configure logging
@@ -19,13 +22,20 @@ class SummaryProcessor:
         self.data_dir = Path(config['data_dir'])
         self.summaries_dir_openai1 = Path(config['summaries_dir_openai1'])
         self.summaries_dir_langchain1 = Path(config['summaries_dir_langchain1'])
-        self.summaries_dir_openai2 = Path(config['summaries_dir_openai12'])
-        self.summaries_dir_langchain2 = Path(config['summaries_dir_langchain12'])
+        self.summaries_dir_openai2 = Path(config['summaries_dir_openai2'])
+        self.summaries_dir_langchain2 = Path(config['summaries_dir_langchain2'])
         self.references_dir = Path(config['references_dir'])
         self.summary_options = config['summary_options']
+        self.tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
         self.openai_client = OpenAI(api_key=self.api_key)
-        self.langchain = LangChain(api_key=self.api_key, model="gpt-3.5-turbo", stateful=True)
+        langchain_model = ChatOpenAI(api_key=self.api_key, model="gpt-3.5-turbo")
+        self.parser = StrOutputParser()
+        self.langchain = langchain_model | self.parser
         self.setup_directories()
+        # Setup PromptTemplate
+        self.prompt_template = ChatPromptTemplate.from_messages(
+            [("system", "Summarize the text above.")]
+        )
 
     def setup_directories(self):
         self.summaries_dir_openai1.mkdir(parents=True, exist_ok=True)
@@ -50,6 +60,9 @@ class SummaryProcessor:
             logger.error(f"Error writing to file {file_path}: {e}")
             raise
 
+    def get_token_count(self, text):
+        return len(self.tokenizer.encode(text))
+
     def split_text(self, text, max_length=5000):
         doc = nlp(text)
         segments = []
@@ -72,13 +85,8 @@ class SummaryProcessor:
 
         return segments
 
-    def process_text_with_models(self, segment):
-        # Process with LangChain-enhanced GPT-3.5
-        langchain_response = self.langchain.process_text(segment, additional_messages=[
-            SystemMessage(content="Summarize this text:"),
-            HumanMessage(content=segment)
-        ], **self.summary_options)
 
+    def process_text_with_openai(self, segment):
         # Process with standalone GPT-3.5
         response = self.openai_client.chat.completions.create(
             model="gpt-3.5-turbo",
@@ -89,39 +97,31 @@ class SummaryProcessor:
             **self.summary_options
         )
 
-        return langchain_response, response.choices[0].message.content if response else None
-
+        return response.choices[0].message.content if response else None
+    
     def process_texts(self):
         for text_file in self.data_dir.iterdir():
             text_id = text_file.stem
             input_text = self.read_text_from_file(text_file)
+            reference_abstract = self.read_text_from_file(self.references_dir / f"{text_id}.txt")
+            target_length = self.get_token_count(reference_abstract)
+            self.summary_options['max_tokens'] = target_length
+
             segments = self.split_text(input_text)
 
-            first_round_summaries_langchain = []
             first_round_summaries_openai = []
+             # Accumulate all segments as messages for langchain_openai model
+            messages = []
+           
+            self.openai_client = OpenAI(api_key=self.api_key)
+            self.langchain = ChatOpenAI(api_key=self.api_key, model="gpt-3.5-turbo")
 
-            self.langchain.reset()  # Resetting only at the beginning of a new document
             for segment in segments:
-                langchain_summary, openai_summary = self.process_text_with_models(segment)
-                first_round_summaries_langchain.append(langchain_summary if langchain_summary else "")
+                openai_summary = self.process_text_with_openai(segment)
                 first_round_summaries_openai.append(openai_summary if openai_summary else "")
-
-            # Combine all segment summaries for the second round for Langchain
-            combined_summary_langchain = ' '.join(first_round_summaries_langchain)
-            if combined_summary_langchain:
-                self.write_text_to_file(combined_summary_langchain, self.summaries_dir_langchain1 / f"{text_id}.txt")
-
-            second_round_langchain_summary = self.langchain.process_text(combined_summary_langchain, additional_messages=[
-                SystemMessage(content="Summarize this combined text:")
-            ])
-            if second_round_langchain_summary:
-                self.write_text_to_file(second_round_langchain_summary, self.summaries_dir_langchain2 / f"{text_id}.txt")
 
             # Combine all segment summaries for the second round for OpenAI
             combined_summary_openai = ' '.join(first_round_summaries_openai)
-            if combined_summary_openai:
-                self.write_text_to_file(combined_summary_openai, self.summaries_dir_openai1 / f"{text_id}.txt")
-
             second_round_openai_summary = self.openai_client.chat.completions.create(
                 model="gpt-3.5-turbo",
                 messages=[{"role": "system", "content": "Summarize this combined text:"},
@@ -130,9 +130,17 @@ class SummaryProcessor:
             )
             if second_round_openai_summary:
                 self.write_text_to_file(second_round_openai_summary.choices[0].message.content, self.summaries_dir_openai2 / f"{text_id}.txt")
+                
+            # Accumulate messages for LangChain model
+            messages = [HumanMessage(content=segment) for segment in segments]
+            prompt_result = self.prompt_template.invoke({})  # Using an empty dict since there are no variables to replace
+            messages.extend(prompt_result.to_messages())
 
-            # Reset after processing the document
-            self.langchain.reset()
+            # Process with LangChain
+            langchain_summary = self.langchain.invoke(messages, **self.summary_options)
+            if langchain_summary:
+                self.write_text_to_file(langchain_summary.content, self.summaries_dir_langchain2 / f"{text_id}.txt")
+
 
 if __name__ == "__main__":
     with open("config.json", "r") as file:

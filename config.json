@@ -2,11 +2,11 @@
   "data_dir": "data",
   "summaries_dir_openai1": "summaries1/openai",
   "summaries_dir_langchain1": "summaries1/langchain-openai",
-  "summaries_dir_openai12": "summaries2/openai",
-  "summaries_dir_langchain12": "summaries2/langchain-openai",
+  "summaries_dir_openai2": "summaries2/openai",
+  "summaries_dir_langchain2": "summaries2/langchain-openai",
   "references_dir": "references",
   "summary_options": {
     "temperature": 0.1,
-    "max_tokens": 300
+    "max_tokens": 600
   }
 }
