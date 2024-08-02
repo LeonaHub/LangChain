@@ -1,0 +1,11 @@
+Background
+Regulations mandating kilocalorie (kcal) labelling for large businesses in the out-of-home food sector (OHFS) came into force on 6th April 2022 as a policy to reduce obesity in England. To provide indicators of potential reach and impact, kcal labelling practices were studied in the OHFS, and customer purchasing and consumption behaviours prior to implementation of the mandatory kcal labelling policy in England.
+
+Methods
+From August-December 2021, large OHFS businesses subject to the kcal labelling regulations were visited prior to regulations coming into force on 6th April 2022. 3308 customers were recruited from 330 outlets and collected survey information on the number of kcal purchased and consumed by customers, customers’ knowledge of the kcal content of their purchases, and customers noticing and use of kcal labelling. In a subset of 117 outlets, data was collected on nine recommended kcal labelling practices.
+
+Results
+The average number of kcals purchased (1013 kcal, SD = 632 kcal) was high with 69% of purchases exceeding the recommendation of a maximum of 600 kcal per meal. Participants underestimated the energy content of their purchased meals by on average 253 kcal (SD = 644 kcals). In outlets providing kcal labelling in which customer survey data was collected, a minority of customers reported noticing (21%) or using (20%) kcal labelling. Out of the 117 outlets assessed for kcal labelling practices, 24 (21%) provided any in-store kcal labelling. None of the outlets met all nine aspects of recommended labelling practices.
+
+Conclusions
+Prior to implementation of 2022 kcal labelling policy, the majority of sampled OHFS large business outlets in England did not provide kcal labelling. Few customers noticed or used the labels and on average customers purchased and consumed substantially more energy than recommended in public health guidelines. The findings suggest that reliance on voluntary action for kcal labelling implementation failed to produce widespread, consistent, and adequate kcal labelling practices.

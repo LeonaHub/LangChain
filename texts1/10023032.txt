@@ -1,0 +1,141 @@
+1. Introduction
+Nutrient plays an important role in the maintenance of the reproductive function 
+16
+, 
+21
+. For example, food deprivation suppresses the pulsatile luteinizing hormone (LH) secretion in female rats 
+2
+, 
+3
+. Insulin-induced hypoglycemia (IIH) and 2-deoxyglucose (2-DG), both of which induce cellular glycopenia, also have been shown to suppress pulsatile LH secretion in monkeys 
+4
+, 
+10
+, sheep 
+[5]
+and rats 
+9
+, 
+19
+. This cellular glucose deprivation probably suppressed LH secretion by decreasing pulsatile gonadotropin-releasing hormone (GnRH) secretion, since the electrical activity of the GnRH pulse generator, which is known to cause pulsatile LH secretion, is decreased by IIH in monkeys 
+[4]
+. But this latter effect of IIH on the electrical activity of the GnRH pulse generator has not been investigated in rats. In addition, it is not known whether metabolic fuels (carbohydrates) are able to prevent this IIH-induced suppression of LH secretion.
+
+In the present study, we first examined the effect of carbohydrates such as glucose and its related substrates on the IIH-induced suppression of LH secretion in estrogen-primed ovariectomized (OVX) rats (experiment 1). We then investigated the mechanism of action of IIH and glucose, if any, on LH secretion by electrophysiological methods (experiment 2). We have recorded multi-unit activity (MUA) in the hypothalamus as a marker for the activity of the GnRH pulse generator 
+13
+, 
+17
+, 
+22
+. MUA recorded from the median eminence of OVX rats shows characteristic increases (volleys) at 20–30 min intervals, each volley accompanied by a pulse of LH.
+
+2. Materials and methods
+2.1. Animals
+Adult female Wistar rats (Charles River, Yokohama, Japan, 7 weeks of age) were maintained at a constant temperature of 24–26°C under controlled lighting conditions (lights on from 0500 to 1900 h) with food and water available ad libitum. All animals were OVX at the age of 8 weeks, and were used 4–9 weeks later. All animal housing and surgical procedures were in accordance with the guidelines of the Institutional Animal Care and Use Committee of the Yokohama City University School of Medicine.
+
+Estrogen priming was performed by subcutaneously implanting, under light ether anesthesia, a silicone tubing (i.d., 1.5 mm; o.d., 2.5 mm; length, 25 mm) containing estradiol-17β dissolved in sesame oil at 20 μg/ml. We confirmed that this dose of estrogen priming did not have a significant negative feedback effect on the activity of the GnRH pulse generator. The implantation of MUA electrodes was performed under pentobarbital anesthesia, but MUA was recorded under freely moving conditions, as previously reported 
+[13]
+. Only rats showing MUA with intermittent volleys during the pre-experimental recording period were used for this study. For the blood sampling, an intracardiac cannula was inserted the day before experiment under ether anesthesia.
+
+2.2. Sampling and drugs
+The sampling of blood, approximately 120 μl each time, was performed at 30-min or 6-min intervals over a period of 5 h from 1200 to 1700 h or 3 h from 1400 to 1700 h, respectively. An equal volume of heparinized saline (2 IU/ml) was replaced after each blood sampling.
+
+Insulin (Novo Nordisk Human Insulin, Yamanouchi Medicine, Tokyo, Japan) was injected intravenously (i.v.) at a dose of 5 units/rat, dissolved in 0.2 ml saline, to induce a decrease in the blood glucose concentration. d(+)-glucose, d(+)-fructose, d(+)-mannose, d(+)-xylose, d(+)-galactose (Wako, Tokyo, Japan) or l(+)-lactic acid (Sigma, St. Louis, MO) was administered i.v. at a dose of 400 mg/kg, dissolved in 0.5 ml saline, through the same intracardiac cannula as the one for the blood sampling. Saline was administered as controls in all experiments.
+
+The blood glucose concentration was measured at 30-min intervals by a blood glucose analyzer, ADVANTAGE (Yamanouchi Medicine, Tokyo, Japan).
+
+2.3. Experimental protocols
+2.3.1. Experiment 1
+We first determined the duration of the effect of IIH on LH secretion and blood glucose by sampling at 30-min intervals. After the control sampling at the time defined as zero point (
+Fig. 1
+), the rats were injected i.v. with insulin and blood samplings were carried out for 5 h. Effects of glucose and its related substrates on the recovery of pulsatile LH secretion, which had been suppressed by IIH, were next examined based on this result. During the 3-h period of blood sampling at 6-min intervals, insulin was injected i.v. after the first 1-h period, and glucose, fructose, galactose, mannose, xylose or lactate was injected after the second 1-h period.
+Fig. 1. The effect of insulin on LH secretion and blood glucose (n=5). The points and vertical lines indicate the mean and S.E.M., respectively. (a) P<0.05 vs. the LH value at zero point. (b) P<0.05 vs. the glucose value obtained by ANOVA (P<0.006 for LH and P<0.0001 for glucose) followed by Fisher's PLSD post-hoc test.
+
+2.3.2. Experiment 2
+We determined the effects of glucose and also fructose on the GnRH pulse generator activity which was suppressed by IIH. After the first 1-h period of MUA recording, during which blood samplings were performed at 6-min intervals, insulin was injected i.v. Glucose or fructose was injected i.v. while the MUA volley was absent due to IIH, and further recording and blood sampling were performed.
+
+2.4. Radioimmunoassay and statistical analysis
+Serum concentrations of LH were measured by double-antibody radioimmunoassay with materials supplied by the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), and generously donated by Dr. K. Wakabayashi (Gunma University, Maebashi, Japan). The reference standard was NIDDK rat LH-RP-3, but the amounts of LH are expressed in terms of NIH LH-S1.
+
+The LH pulse was defined by the method reported previously 
+7
+, 
+8
+. The time of the i.v. injection of glucose, mannose, fructose, galactose, xylose, lactate or saline was defined as zero point and the time taken for the appearance of the first peak of the LH pulse or MUA volley was regarded as the latency (min). Since we restricted the sampling period to 3 h in the case of sampling at 6-min intervals, the maximum latency was arbitrarily set at 60 min when no LH pulse or MUA volley was observed within this period. All data were analyzed by One-way analysis of variance (ANOVA) followed by the Fisher's protected LSD post-hoc test, and significance was attained at P<0.05.
+
+3. Results
+3.1. Experiment 1
+As shown in 
+Fig. 1
+, 5 units of insulin resulted in a significant decrease in blood glucose over a 5-h period, though it began to recover towards the pre-treatment level 3 h after injection. LH concentrations were significantly lower than the control value at zero point throughout the period between 60 and 120 min after insulin injection, but LH concentrations at 240, 270 and 300 min were not significantly different from that at the zero point. The results indicated that the inhibitory effect of insulin on LH secretion lasted for at least 3 h but not 4 h.
+
+Representative responses to the i.v. injection of glucose and related substrates 1 h after insulin injection are shown in 
+Fig. 2
+. When saline as the control was injected, the peak of the first LH pulse appeared with a mean (±S.E.M.) latency of 46.5±5.7 min (
+Fig. 3
+, n=4), indicating that the inhibitory effect of insulin on LH secretion continued for about 2 h (
+Fig. 2
+A).
+Fig. 2. Representative profiles of the effect of i.v. injection of saline (A), glucose (B), mannose (C), fructose (D), galactose (E), xylose (F) or lactate (G) after i.v. injection of insulin (5 uints/rat) on pulsatile LH secretion. Arrowheads indicate statistically defined LH pulses.
+Fig. 3. The time (mean±S.E.M.) taken for the appearance of the first LH pulse. (a) P<0.05 vs. saline, galactose, xylose and lactate. (b) P<0.05 vs. saline, xylose and lactate. (c) P<0.05 vs. saline and lactate, obtained by ANOVA (P<0.0001) followed by post-hoc comparison. Numbers in parentheses indicate numbers of animal.
+
+Analysis of variance revealed significant effects of treatment on the pulse latency (
+Fig. 3
+, P<0.0001). The latency after injection of glucose, mannose, fructose, galactose and xylose was significantly smaller than that after saline. An LH pulse appeared almost instantly after i.v. injection of glucose and mannose, showing latency significantly smaller than those of galactose, xylose, lactate and saline (P<0.05 by post-hoc). Likewise, the pulse latency after fructose was significantly smaller than that after xylose and saline (P<0.05), but not after galactose. Galactose and xylose shortened the latency after saline, but they showed latencies significantly longer than those after glucose and mannose (P<0.05). It was noticeable that lactate had no significant effect on the latency.
+
+3.2. Experiment 2
+Along with the injection of insulin which induced a decrease in the blood concentration of glucose, the MUA volley was rapidly arrested (
+Fig. 4
+). Saline injection 1 h after insulin injection induced no change in the MUA or in the pulsatile LH secretion, in good agreement with the results in the experiment 1. When glucose was injected, a MUA volley appeared immediately, followed by a pulse of LH. The mean latency for the MUA volley in glucose-injected rats was remarkably small as compared to that in saline-injected rats (ANOVA P<0.0001, post-hoc P<0.0001) (
+Fig. 5
+). The injection of fructose also induced an MUA volley significantly earlier than that of saline, but significantly later than that of glucose (ANOVA P<0.0001, post-hoc P<0.0001).
+Fig. 4. Representative profiles of the effect of i.v. injection of saline, glucose or fructose after i.v. injection of insulin (5 uints/rat) on the electrical activity (MUA) of the GnRH pulse generator. Arrowheads indicate statistically defined LH pulses.
+Fig. 5. The time (mean±S.E.M.) taken for the appearance of the first MUA volley. (a) P<0.001 vs. saline and fructose. (b) P<0.001 vs. saline by ANOVA (P<0.0001) followed by post-hoc comparison.
+
+4. Discussion
+The present study demonstrates that IIH suppresses the pulsatile LH secretion by decreasing the electrical activity of the GnRH pulse generator in estrogen-primed OVX rats. Furthermore, glucose recovers the activity of the GnRH pulse generator and thus, the pulsatile LH secretion from the suppression by IIH.
+
+Insulin-induced hypoglycemia suppresses the pulsatile LH secretion in a variety of animals 
+4
+, 
+5
+, 
+9
+, but it is not yet known whether such an IIH effect depends on changes in GnRH secretion from the hypothalamus or not, except for monkeys. In monkeys, it is reported that IIH decreases the electrical activity of the GnRH pulse generator, suggesting that IIH decreases the activity of GnRH neurons 
+[4]
+. The present study is, therefore, in good agreement with the latter report, and indicates that IIH decreases the activity of the GnRH pulse generator, followed by the suppression of pulsatile LH secretion in rats as well.
+
+Although we do not yet know the precise mechanism by which IIH suppresses the GnRH pulse generator, it is unlikely that insulin itself acts at the hypothalamus. In the present study, administration of glucose recovered the activity of the GnRH pulse generator which had been suppressed by insulin. This would not have occurred if the cause of suppression of the GnRH pulse generator activity by insulin was insulin itself. In addition, we observed that 2-DG, which induces cellular glycopenia, also decreased the activity of the GnRH pulse generator in rats (He and Kimura, unpublished observation). In OVX ewes, because IIH but not insulin per se caused a suppression of the pulsatile LH secretion 
+[5]
+, the hypoglycemia itself may cause a decrease in GnRH secretion by directly acting on GnRH neurons.
+
+In the present study, we found that glucose was somewhat different in nature from other carbohydrates. Glucose could rapidly recover the activity of the GnRH pulse generator that had been suppressed by IIH, suggesting that it plays a certain special, critical role in the maintenance of the activity of GnRH neurons. Furthermore, its very rapid effect suggests that it acts directly on the central nervous system without peripheral mechanisms intervening. In support of this, fructose, which does not cross the blood–brain barrier 
+[14]
+, took a longer time to have an effect than glucose did. This slowness of the fructose action might be due to its conversion to glucose 
+[1]
+, because in the present study, after fructose injection, the blood glucose concentration rose gradually and the activity of the GnRH pulse generator was recovered thereafter.
+
+A specific role of glucose in the synaptic function has also been reported 
+12
+, 
+20
+. In the guinea pig hippocampal slice, no population spikes occurred even when the level of high energy phosphates, ATPs, was maintained, if d-glucose was removed from the standard medium and fructose, galactose or lactate was replaced. Data indicated that only d-glucose could support the synaptic activity. The present finding that fructose, galactose, xylose and lactate did not cause the same effect as that of glucose is consistent with these data 
+12
+, 
+20
+, suggesting that the suppression of pulsatile LH secretion may not be simply caused by an exhaustion of ATP.
+
+It was interesting that mannose behaved similarly to glucose in the present study. According to Hetenyi 
+[11]
+, mannose, but not fructose, abolishes compensatory changes in glucose release during IIH. And because mannose, but not fructose, is known to penetrate the blood–brain barrier 
+6
+, 
+14
+and to be transported into the cerebellar granule neurons 
+[15]
+, it is possible that the hypoglycemia-sensing mechanism in the brain 
+[18]
+cannot distinguish between glucose and mannose.
+
+5. Conclusion
+The results of the present study support the notion that IIH suppresses the pulsatile LH secretion by decreasing the activity of the GnRH pulse generator. Glucose availability, but not simply a metabolic state such as the ATP level, is an essential factor for maintaining the electrical activity of the GnRH pulse generator which is responsible for pulsatile LH secretion.

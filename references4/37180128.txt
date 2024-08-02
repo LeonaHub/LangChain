@@ -1,0 +1,11 @@
+Introduction
+The prevalence of obesity in general pediatric population increases without sparing children with T1D. We intended to find factors associated with the possibility of preserving endogenous insulin secretion in individuals with long-standing T1D. At onset, higher BMI is associated with higher C-peptide level, which may indicate to be one of the favorable factors involved in preserving residual β-cell function. The study determines the influence of BMI on C-peptide secretion in children newly diagnosed with T1D in two years observation.
+
+Methods
+We assessed the possible relationship between selected pro- and anti-inflammatory cytokines, body mass at recognition and β-cell function status. 153 pediatric patients with newly diagnosed T1D were divided into quartiles according to BMI-SDS index. We separated a group consisted of patients with BMI-SDS >1. Participants were followed up for two years and examined for changes in body weight, HbA1c, and insulin requirement. C-peptide was assessed at baseline and after two years. We evaluated the patients’ levels of selected inflammatory cytokines at baseline.
+
+Results
+Subjects with higher BMI-SDS presented higher serum C-peptide levels and lower insulin requirements at diagnosis than children with lower body weight. The two-year follow-up showed that C-peptide levels of obese patients dropped more rapidly than in children with BMI-SDS within normal limits. The group with BMI-SDS >1 showed the greatest decrease in C-peptide level. Despite statistically insignificant differences in HbA1c at diagnosis between the study groups, in the fourth quartile and BMI-SDS >1 groups, HbA1c as well as insulin requirements increased after two years. The levels of cytokines varied the most between BMI-SDS <1 and BMI-SDS >1 groups and were significantly higher within BMI-SDS >1 group.
+
+Discussion
+Higher BMI, associated with enhanced levels of inflammatory cytokines, relates to preservation of C-peptide at T1D recognition in children but is not beneficial in the long term. A decrease in C-peptide levels combined with an increase in insulin requirements and in HbA1c among patients with high BMI occur, which may indicate a negative effect of excessive body weight on the long term preservation of residual β-cell function. The process seems to be mediated by inflammatory cytokines.

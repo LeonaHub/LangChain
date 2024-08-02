@@ -1,0 +1,11 @@
+Background
+Dyslipidaemia is an intermediary exacerbation factor for various diseases but the impact of obstructive sleep apnoea (OSA) on dyslipidaemia remains unclear.
+
+Methods
+A total of 3582 subjects with suspected OSA consecutively admitted to our hospital sleep centre were screened and 2983 (2422 with OSA) were included in the Shanghai Sleep Health Study. OSA severity was quantified using the apnoea–hypopnea index (AHI), the oxygen desaturation index and the arousal index. Biochemical indicators and anthropometric data were also collected. The relationship between OSA severity and the risk of dyslipidaemia was evaluated via ordinal logistic regression, restricted cubic spline (RCS) analysis and multivariate linear regressions.
+
+Results
+The RCS mapped a nonlinear dose–effect relationship between the risk of dyslipidaemia and OSA severity, and yielded knots of the AHI (9.4, 28.2, 54.4 and 80.2). After integrating the clinical definition and RCS-selected knots, all subjects were regrouped into four AHI severity stages. Following segmented multivariate linear modelling of each stage, distinguishable sets of OSA risk factors were quantified: low-density lipoprotein cholesterol (LDL-C), apolipoprotein E and high-density lipoprotein cholesterol (HDL-C); body mass index and/or waist to hip ratio; and HDL-C, LDL-C and triglycerides were specifically associated with stage I, stages II and III, and stages II–IV with different OSA indices.
+
+Conclusions
+Our study revealed the multistage and non-monotonic relationships between OSA and dyslipidaemia and quantified the relationships between OSA severity indexes and distinct risk factors for specific OSA severity stages. Our study suggests that a new interpretive and predictive strategy for dynamic assessment of the risk progression over the clinical course of OSA should be adopted.

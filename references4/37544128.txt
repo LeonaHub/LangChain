@@ -1,0 +1,14 @@
+Objectives
+Suicidal ideation and behaviour are potential outcomes of workplace bullying. This review aimed to determine the extent of the association between workplace bullying and suicidal ideation and behaviour.
+
+Study design
+The study incorporated a systematic review and meta-analysis.
+
+Methods
+The Preferred Reporting Items for Systematic Reviews and Meta-Analyses statement was followed to conduct a comprehensive systematic review and meta-analysis. A combination of subject terms and free words was used to search nine electronic databases. Two reviewers independently screened articles and extracted information according to the inclusion criteria. A meta-analysis was performed with averaged weighted correlations across samples using the STATA software (version 16.0) from pooled estimates of the main results from all studies.
+
+Results
+In total, 25 articles of high or medium quality were included in the systematic review; 15 of these were included in the meta-analysis. The prevalence of suicidal ideation and behaviour was 18% and 4%, respectively. Individuals who experienced workplace bullying had 2.03-times and 2.67-times higher odds of reporting suicidal ideation and behaviour, respectively, after adjustment for confounding factors. Moderating and mediating factors may help reduce the risk of suicidal ideation and behaviour for individuals experiencing workplace bullying.
+
+Conclusion
+This study indicated that exposure to workplace bullying significantly increased the risk of suicidal ideation and behaviour.

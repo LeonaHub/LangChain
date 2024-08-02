@@ -1,0 +1,11 @@
+Background
+Despite the risk of bleeding is a well-known adverse effect of oral anticoagulants, there is scarce evidence on the preventability of oral anticoagulant-induced bleedings. Therefore, we investigated the potential risk factors related to preventable cases of oral anticoagulant-induced bleedings.
+
+Methods
+We performed a study using Individual Case Safety Reports (ICSRs) with an oral anticoagulant as suspected drug among those reported through the spontaneous reporting system of Campania Region from 1 July 2012 to 31 December 2017. The P-method was used for the preventability assessment of all cases of bleeding.
+
+Results
+In total, 58 cases out of 253 (22.9%) were preventable, and the most reported suspected drug was an indirect oral anticoagulant (warfarin). Sixty-eight critical criteria for preventability were identified, all related to healthcare professionals’ practices. The most detected risk factor related to healthcare professionals’ practices was the labeled drug–drug interaction for both direct and indirect oral anticoagulants.
+
+Conclusion
+Our findings describe the most reported risk factors for preventability of oral anticoagulant-induced bleedings. These factors may be useful for targeting interventions to improve pharmacovigilance activities in our regional territory and to reduce the burden of medication errors and inappropriate prescription.

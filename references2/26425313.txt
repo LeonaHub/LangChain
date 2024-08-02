@@ -1,0 +1,11 @@
+Purpose:
+To assess the association of LTBP2 mutations with primary angle closure glaucoma (PACG).
+
+Methods:
+We studied 54 unrelated patients with PACG and one individual with pseudoexfoliation accompanied with angle closure glaucoma; these consisted of 28 female and 27 male subjects aged 27 to 82 (mean, 63) years. The 36 exons and flanking intronic sequences of LTBP2 in all patients were amplified by PCR and sequenced by the Sanger protocol. The sequences were compared to LTBP2 reference sequences. A total of 100 to 400 controls aged at least 60 years old were screened for various variations.
+
+Results:
+Out of 24 observed sequence variations, ten were in amino acid coding regions; of these four created synonymous codons while six caused amino acid changes. Based on allele frequencies, biochemical parameters, absence in control individuals, evolutionary conservation of affected amino acids, and bioinformatic predictions on the effects on protein function, it was concluded that only two mutations causing p. Gln1417Arg and p. Gly1660Trp may contribute to PACG. The p. Gly1660Trp mutation was observed in a patient with both PACG and PEX syndrome. P. Gln1417Arg had previously been reported only in a subject with POAG.
+
+Conclusion:
+LTBP2 may contribute to PACG. This finding emphasizes that there may be an overlap in the etiology of various forms of glaucoma and the overlaps likely contribute to common features in various forms of glaucoma.

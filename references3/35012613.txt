@@ -1,0 +1,11 @@
+Background
+Breast cancer incidence differs between non-immigrants and immigrants from low- and middle-income countries. This study investigates whether immigrants also have different subtype-specific incidences.
+
+Methods
+We used national health registries in Norway and calculated subtype-specific incidence rate ratios (IRRs) for invasive breast cancer among women aged 20–75 and 20–49 years between 2005 and 2015. Immigrant groups were classified by country of birth broadly defined based on WHO regional groupings. Subtype was defined using estrogen receptor (ER), progesterone receptor (PR) and human epidermal growth factor 2 (HER2) status as luminal A-like (ER+ PR+ HER2-), luminal B-like/HER2- (ER+ PR- HER2-), luminal B-like/HER2+ (ER+ PR any HER2+), HER2+ (ER-PR-HER2+) and triple-negative breast cancer (TNBC) (ER-PR-HER2-).
+
+Results
+Compared to non-immigrants, incidence of the luminal A-like subtype was lower in immigrants from Sub-Saharan Africa (IRR 0.43 95% CI 0.28–0.66), South East Asia (IRR 0.63 95% CI 0.51–0.79), South Asia (IRR 0.67 95% CI 0.52–0.86) and Eastern Europe (IRR 0.86 95% CI 0.76–0.99). Immigrants from South Asia had higher rates of HER2 + tumors (IRR 2.02 95% CI 1.26–3.23). The rates of TNBC tended to be similar regardless of region of birth, except that women from South East Asia had an IRR of 0.54 (95% CI 0.32–0.91).
+
+Conclusions
+Women from Eastern Europe, Sub-Saharan Africa and Asia had different subtype-specific incidences compared to women from high-income countries (including non-immigrants). These differences in tumor characteristics between immigrant groups should be taken into consideration when planning preventive or screening strategies.

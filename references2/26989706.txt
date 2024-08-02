@@ -1,0 +1,11 @@
+Background:
+Recently, reports have indicated a role for the membrane form of Toll-like Receptor 2 (TLR2) in asthma pathogenesis. In this study we examined soluble TLR2 levels in serum and sputum of asthmatic and healthy subjects.
+
+Methods:
+Serum and sputum samples were obtained from 33 asthmatic and 19 healthy subjects. The asthmatics were classified into four groups according to the Global Initiative for Asthma. A sandwich ELISA was developed to measure soluble TLR2 (sTLR2) in serum and sputum. TLR2 mRNA expression was determined by semi-quantitative RT-PCR of all sputum samples.
+
+Results:
+The mean sTLR2 levels from serum and sputum of asthmatics were significantly lower than those from healthy subjects. Moreover, sTLR2 concentration decreased concomitantly with asthma severity. The differences observed, however, were not statistically significant. TLR2/GAPDH mRNA of sputum leukocytes was also significantly lower in asthmatics than in healthy subjects.
+
+Conclusion:
+This study demonstrated for the first time thatsTLR2 levels are lower in serum and sputum samples from asthmatic than from healthy subjects, and this could be an indicator of TLR2 expression. We also found that sTLR2 concentration in serum decreased concomitantly with an increase of asthma severity clinical score.

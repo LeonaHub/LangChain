@@ -1,0 +1,11 @@
+Background:
+More than 700,000 people in the United States undergo total knee arthroplasty (TKA) each year. Chronic venous insufficiency (CVI) affects 5% to 30% of adults, sometimes resulting in leg ulceration. These CVI cases in TKAs have been associated with worse outcomes; however, we found no study differentiating CVI severity.
+
+Methods:
+This retrospective study analyzed TKA outcomes at one institution from 2011 to 2021 using patient-specific codes. Analyses included short-term complications (< 90 days postoperative), long-term complications (< 2 years), and CVI status (yes/no; simple/complex/unclassified). Complex CVI consisted of pain, ulceration, inflammation, and/or other complications. Revisions within 2 years and readmissions within 90 days post-TKA were assessed. Composite complications included short-term and long-term complications, revisions, and readmissions. Multivariable logistic regressions predicted complication (any/long/short) as a function of CVI status (yes/no; simple/complex) and potential confounding variables. Of 7,665 patients, 741 (9.7%) had CVI. Among CVI patients, 247 (33.3%) had simple CVI, 233 (31.4%) had complex CVI, and 261 (35.2%) had unclassified CVI.
+
+Results:
+There was no difference in CVI versus control in composite complications (P = .722), short-term complications (P = .786), long-term complications (P = .15), revisions (P = .964), or readmissions (P = .438) postadjustment. Composite complication rates were 14.0% without CVI, 16.7% with complex CVI, and 9.3% with simple CVI. Complication rates differed between simple and complex CVI (P = .035).
+
+Conclusion:
+Overall, CVI did not affect postoperative complications versus control. Patients who have complex CVI are at higher risk for post-TKA complications compared to those who have simple CVI.

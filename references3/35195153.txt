@@ -1,0 +1,13 @@
+The mechanisms that stimulate the proliferation of epithelial cells in inflammatory periapical lesions are not completely understood and the literature suggests that changes in the balance between apoptosis and immunity regulation appear to influence this process.
+
+Objective:
+To evaluate the expression of the epidermal growth factor (EGF), its receptor (EGFR) and of the keratinocyte growth factor (KGF), the presence of CD57+ cells, the epithelial cell proliferation index, and the expression of the Bcl-2 protein in inflammatory periapical lesions (IPL) at different stages of development.
+
+Methodology:
+Our sample was composed of 52 IPLs (22 periapical granulomas - PG - and 30 periapical cysts - PC), divided into three groups: PGs, small PCs, and large PCs. Specimens were processed for histopathologic and immunohistochemical analyses. Sections were evaluated according to the amount of positive staining for each antibody.
+
+Results:
+We found no significant differences among the groups regarding Bcl-2 (p=0.328) and Ki-67 (p>0.05) expression or the presence of CD57+ cells (p=0.748). EGF (p=0.0001) and KGF (p=0.0001) expression was more frequent in PCs than in PGs, and CD57+ cells were more frequent in IPLs with intense inflammatory infiltrates (p=0.0001). We found no significant differences in KGF (p=0.423), Bcl-2 (p=0.943), and EGF (p=0.53) expression in relation to inflammatory infiltrates or to the type of PC epithelial lining, but observed greater KGF expression (p=0.0001) in initial PCs. EGFR expression was similar among the groups (p>0.05).
+
+Conclusion:
+More frequent EGF and KGF expression in PCs and the greater presence of CD57+ cells in lesions with intense inflammatory infiltrates suggest that these factors influence IPL development. The greater KGF expression in initial PCs suggests its importance for the initial stages of PC formation.

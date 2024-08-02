@@ -1,0 +1,12 @@
+The text discusses the molecular characteristics and functional implications of the γ chain variants of human plasma fibrinogen, specifically focusing on the γ50 and γ57.5 chains. It describes the heterogeneity in molecular weight and amino acid sequence differences at the C-terminus of these chains. The study investigates the role of the γ57.5 chain in platelet-fibrinogen interactions and its impact on platelet aggregation.
+
+Key findings include:
+- The γ55 chain is a post-translational modification of the γ57.5 chain, with differences in C-terminal amino acids.
+- The γ57.5 chain is expressed in hepatocytes but not in megakaryocytes.
+- The C-terminal extension of fibrinogen γ57.5 affects platelet aggregation, with differences in binding compared to γ50.
+- Synthetic peptides and monoclonal antibodies were used to study the binding and inhibitory effects on platelet function.
+- The L2B epitope was localized to residues R-409-PEH-412 on the γ57.5 chain.
+- The secondary structure and hydrophobicity of the γ57.5 chain were predicted to be different from the γ50 chain.
+- The γ57.5 C-terminus is exposed in fibrin clots, supporting its role in hemostatic events.
+
+Overall, the study provides insights into the structural and functional differences between γ50 and γ57.5 chains of fibrinogen, highlighting the importance of the C-terminal region in platelet-fibrinogen interactions and hemostasis.

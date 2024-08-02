@@ -1,0 +1,7 @@
+Objective: Fluorescence visualization devices are screening devices that can be used to examine lesions of the oral mucosa non-invasively. We observed oral squamous cell carcinoma (OSCC) and leukoplakia using the IllumiScan (Shofu, Kyoto, Japan) fluorescence visualization device and examined its usefulness and characteristics.
+
+Methods: We investigated 31 OSCC and nine leukoplakia in patients who were examined using the IllumiScan and treated in our department from January 2017 to February 2018. Images taken with the IllumiScan were analyzed using image analysis software. We also examined the lesions using narrowband imaging (NBI). Additionally, the IllumiScan and NBI images and the non-stained areas of iodine staining method (IOM) were visually evaluated.
+
+Results: The average luminance of OSCC in the keratinized mucosa was significantly lower than that of OSCC in non-keratinized mucosa. The average luminance of OSCC was significantly lower than that of leukoplakia. Even in keratinized mucosa where IOM is impossible to use, the OSCC lesion exhibited fluorescence visualization loss.
+
+Conclusion: The application of the fluorescence visualization device to the oral mucosa may be useful for distinguishing between cancer and normal areas and can be used to detect OSCC in the keratinized mucosa. The use of the IllumiScan in combination with other conventional screening methods may lead to a better diagnosis.

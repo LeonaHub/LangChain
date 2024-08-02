@@ -1,0 +1,11 @@
+Objective
+To investigate the diagnostic accuracy of the PI-RADS v2.1 multiparametric magnetic resonance imaging (mpMRI) features in predicting extraprostatic extension (mEPE) of prostate cancer (PCa), as well as to develop and validate a comprehensive mpMRI-derived score (mEPE-score).
+
+Methods
+We retrospectively reviewed all consecutive patients admitted to two institutions for radical prostatectomy for PCa with available records of mpMRI performed between January 2015 and December 2020. Data from one institution was used for investigating diagnostic performance of each mEPE feature using radical prostatectomy specimens as benchmark. The results were implemented in a mEPE-score as follows: no mEPE features: 1; capsular abutment: 2; irregular or spiculated margin: 3; bulging prostatic contour, or asymmetry of the neurovascular bundles, or tumor-capsule interface > 1.0 cm: 4; ≥ 2 of the previous three parameters or measurable extraprostatic disease: 5. The performance of mEPE features was evaluated using the five diagnostic parameters and ROC curve analysis.
+
+Results
+Two-hundred patients were enrolled at site 1 and 76 at site 2. mEPE features had poor sensitivities ranging from 0.08 (0.00–0.15) to 0.71 (0.59–0.83), whereas specificity ranged from 0.68 (0.58–0.79) to 1.00. mEPE-score showed excellent discriminating ability (AUC > 0.8) and sensitivity = 0.82 and specificity = 0.77 with a threshold of 3. mEPE-score had AUC comparable to ESUR-score (p = 0.59 internal validation; p = 0.82 external validation), higher than or comparable to mEPE-grade (p = 0.04 internal validation; p = 0.58 external validation), and higher than early-and-late-EPE (p < 0.0001 internal and external validation). There were no significant differences between readers having different expertise with EPE-score (p = 0.32) or mEPE-grade (p = 0.45), but there were significant differences for ESUR-score (p = 0.02) and early-versus-late-EPE (p = 0.03).
+
+Conclusions
+The individual mEPE features have low sensitivity and high specificity. The use of mEPE-score allows for consistent and reliable assessment for pathologic EPE.

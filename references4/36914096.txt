@@ -1,0 +1,11 @@
+Background
+We aimed to estimate the lifetime risk (LTR) of cardiovascular disease (CVD) in the Iranian population, stratified by sex and traditional risk factors including high body mass index (BMI), hypertension, diabetes, smoking, and hypercholesterolemia.
+
+Methods
+We included 10222 (4430 men) participants aged ≥20 years without CVD at baseline. LTRs at index ages 20 and 40 years and number of years lived without CVD was estimated. We further assessed the effect of traditional risk factors on the LTR of CVD and the number of years lived without CVD, stratified by sex and index ages.
+
+Results
+During a median follow-up of 18 years, 1326 participants (774 men) developed CVD and 430 (238 men) died from non-cardiovascular causes. At age 20, the remaining LTR for CVD was 66.7% (95% CI 62.9–70.4) in men and 52.0% (47.6–56.8) in women, with similar LTRs at age 40 for both men and women. The LTRs at both index ages for those with ≥3 risk factors were about 30% and 55% higher in men and women, respectively, than those without any of the five risk factors. At the age of 20, men with ≥3 risk factors lived 24.1 fewer years without CVD compared with men with no risk factors; the corresponding value was 8 years in their female counterparts.
+
+Conclusions
+Our findings suggest that both sexes may benefit from effective prevention strategies early in the life course, despite the observed differences between men and women in LTR for CVD and number of years lived without CVD.

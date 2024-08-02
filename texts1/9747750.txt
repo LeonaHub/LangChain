@@ -1,0 +1,73 @@
+Introduction
+Sheehan's syndrome is a pituitary necrosis after postpartum haemorrhage and hypovolaemia [ 1]. It is mainly diagnosed retrospectively, sometimes after a delay of several years, as a classical cause of hypopituitarism [ 2].
+
+In the acute phase, symptoms suggestive of a sellar mass apoplexy, such as headaches or visual field impairment, might be present, but very few cases had been documented. Similarly, CT scans or MRI studies of the pituitary gland have generally been done in the later course of Sheehan's syndrome and have shown a small sellar volume or an empty sella [ 3–5]. Very few observations of CT or MRI features in the acute phase are available [ 6].
+
+We present a patient with postpartum pituitary apoplexy, where immediate neuroradiological imaging and extensive pituitary function testing were carried out in the acute phase. This is highly exceptional, which may explain the pitfalls in the initial diagnosis. Indeed, both spontaneous infarction of a silent pituitary adenoma and lymphocytic hypophysitis may be associated with a similar clinical presentation at onset, and should therefore be considered in the differential diagnosis.
+
+A 32-year-old woman was admitted to the maternity at 40 weeks of pregnancy. Delivery was complicated by the occurrence of a severe hypotension episode at the beginning of the epidurale anaesthesia with loss of consciousness. The patient delivered a 4510 g boy with an Apgar score of 0/2/5 at 1, 5 and 10 min, who was immediately transferred to neonatal reanimation.
+
+Five hours later, she complained of very severe headache of sudden onset. There was no visual disturbance, but slight clinical signs of meningeal irritation with nausea. A brain CT scan, performed in emergency at 48th hour, did eliminate a subarachnoidal haemorrhage.
+
+On the third day, she developed a polyuropolydypsic syndrome. Lactation did not occur but was prevented by Parlodel® treatment. The persistence of a violent headache and a diuresis ranging from 6 to 8 L 24 h−1 prompted the realization of magnetic resonance imaging (MRI) on day 6. MRI disclosed the presence of a holosellar 11-mm-diameter mass, which appeared as an homogenous hyposignal T1 and high-signal T2. No contrast enhancement of the enlarged pituitary gland was noted, except for a distinctive peripheral rim. The sellar mass extended in the suprasellar cistern close to the optic chiasm. Goldman perimetry was normal.
+
+The patient was referred to a neurosurgeon with the diagnosis of a pituitary adenoma. Conservative management rather than immediate surgery was decided, and she was addressed to our endocrine department 17 days after delivery for a pre-operative check-up.
+
+On admission, she was feeling very weak, dizzy, cold and depressed. She still complained of a severe non remitting headache and polyuro-polydipsia. There was no galactorrhea. Physical signs included cutanea pallor, low blood pressure with orthostatic hypotension and a mild bradychardia.
+
+Hormonal tests (performed on J18 postpartum, 5 days after discontinuation of Parlodel® treatment) gave the results displayed on Table 1. Dynamic tests confirmed a complete deficiency of the corticotrope, somatotrope, lactotrope and gonadotrope axis. Diuresis was measured at 6.5 L 24 h−1. Urine density at 8 h was <1010 with a plasma osmolarity at 296 mOsm/kg H2O and urine osmolarity at 83 mOsm/kg H2O, establishing the central defect in AVP secretion.
+
+Table 1. Endocrine parameters on admission, 17 days after the traumatic delivery
+Magnetic resonance imaging control, performed 30 days after delivery, showed a dramatic shrinkage of the pituitary mass; adenohypophysis appeared as an homogenous unenhanced hyposignal area on T1 and was measured at 4 mm height. The peripheral enhanced rim of the sellar content was still present but less striking, and the hyperintense bright spot signal of normal neurohypophisis on sagittal T1 had disappeared.
+
+Diagnosis of pituitary ischaemia was proposed. She was discharged from the hospital on hormone replacement therapy with hydrocortisone (30 mg day−1) and dDAVP (0,1 mL intranasally twice daily).
+
+In the follow-up, from 3 to 24 months, controls were performed at regular intervals: MRI were all identical, showing an empty sella, and the pituitary deficiencies remained stable.
+
+Discussion
+We describe a case of Sheehan's syndrome documented in the acute, as well as later phase. Only a minority of patients in the literature had presented with a clinical episode suggestive for pituitary apoplexy, and very few of them have been documented in the acute phase. Thus, this type of presentation tends to be forgotten.
+
+Normally weighing about 0.5 g, the pituitary may double during pregnancy, mostly due to a massive hyperplasia of lactotrophs [ 7]. The pituitary is one of the most highly vascularized tissues in the body [ 8]. Pituitary growth induced by pregnancy could cause compression of the superior hypophyseal artery against the sellar diaphragm, thereby inducing a mild ischaemia. Sudden changes in the arterial pressure occurring during delivery might then result in arterial spasm in small vessels and apoplexy. In his description of post-mortem examination of the pituitary glands, Sheehan reported that the lesion had ‘the typical appearances of an infarct’ and that ‘the parts which normally escape are (. . .) and a very thin layer on the surface’ [ 1].
+
+Classic features of Sheehan's syndrome are related to the partial or rather complete destruction of the anterior lobe of the gland: it can cause failure of lactation and amenorrhea, adrenal insufficiency and hypothyroidism. Diabetes insipidus has been reported, occurring in about 5% of the patients [ 9, 10].
+
+This patient presented with acute symptoms derived both from mass effects (severe headache of sudden onset) and pituitary hypofunction (inability to breast-feed, initially masked by bromocriptine treatment, and polyuropolydypsic syndrome). Biological and endocrine tests confirmed the multiple deficiencies. Clinical course was suggestive of postpartum apoplexy because of the sudden onset of symptoms, occurring rapidly after a traumatic delivery. Initial differential diagnosis of subarachnoidal haemorrhage was easily ruled out by normal emergency CT scan.
+
+Necrosis of a pre-existing silent pituitary adenoma was the first diagnosis hypothesis in our case. Bromocriptine as well as pregnancy are indeed two classical predisposing factors associated with apoplexy or intratumoral haemorrhage of a macro adenoma [ 8, 11, 12]. In our case though, MRI at day 7 clearly excluded an intrasellar haemorrhage. It showed an hyposignal T1 and isosignal T2, instead of the spontaneous bright signal expected on both T1 and T2 in the sub acute phase of an haemorrhage, in relation with the extra cellular methemoglobin present at that time [ 11, 12].
+
+A ring-enhancing lesion with a low-density centre on CT scans could also be suggestive of pituitary apoplexy due to infarction of an adenoma [ 10, 13]. The ischaemic apoplexy of a non secreting adenoma could therefore resemble our case. However, the tumoral syndrome in case of an adenoma responsible of hypopituitarism is usually more prominent and indirect signs may be present (such as lateral deviation of pituitary stalk, enlargement of sella turcica or erosion of the sella floor). In addition, one may expect on MRI a discrete area with different enhancement suggestive of pituitary tissue separated from the adenoma [ 14].
+
+Each one of these elements can be misleading, and the most important diagnostic criteria for Sheehan's syndrome remains the clinical context, with the key feature of a recent traumatic delivery.
+
+Lymphocytic hypophysitis was the second diagnosis hypothesis, and more difficult to rule out: hypopituitarism associated with pituitary enlargement in the immediate postpartum, could indeed be the typical presentation of an hypophysitis [ 14–17].
+
+The clinical context is similar with a striking predilection for female and for the peripartum period. Clinical features at onset, such as headaches and hormonal deficiencies, can be the presenting symptoms of both conditions [ 15]. Early CT scans or MRI disclose in both aetiologies a large holosellar mass [ 18, 19].
+
+The natural history of hypophysitis is variable, but may be similar in the long term (i.e. permanent hypopituitarism and an empty sella).
+
+However, some characteristics may help differentiate between the two diagnoses. Among them, the history of a traumatic delivery is the most important clue for Sheehan's syndrome. Slight differences in endocrine features have been reported, such as a 40% occurrence of hyperprolactinemia in hypophysitis [ 16, 18] while a low baseline prolactin level without any response to TRH has been proposed as the most sensitive screening test for detecting Sheehan's syndrome [ 20, 21]. Diabetes insipidus is a rare event in both conditions [ 9, 10].
+
+If present, a coexisting auto immune disorder (found in about 20% of the cases) would be very much in favour of an hypophysitis, but its absence can not be discriminatory [ 14, 16]. Measurement of serum antipituitary antibodies has been proposed, but is still unreliable: circulating antibodies have been detected in only a minority of patients with the disease, while being present in many other conditions [ 16].
+
+Imaging differences are more significant. In hypophysitis, MRI typically shows a clear symmetrical and homogenous contrast-enhancement of the enlarged pituitary gland [ 16, 18, 22]. Powrie et al. suggested that a marked early diffuse uptake of gadolinium on MRI by the pituitary mass may be an important diagnostic feature, which should raise suspicion of the presence of adenohypophysitis [ 22].
+
+In contrast to that, the enlarged pituitary gland in our case appears as a high signal T2 and isosignal T1, with no contrast-enhancement of the parenchyma after Gd-DPA, which has been reported to be in relation with the acute ischaemia of the gland. Very few MRI studies of the acute phase of Sheehan are published. The only MRI report of the pituitary in the immediate post infarction phase of Sheehan syndrome is strikingly similar to ours, describing a peripheral enhancement surrounding a isodense mass bulging under the optic chiasm [ 6]. This pattern may be related to the ‘non infarcted thin layer on the surface of the pituitary gland’ described by Sheehan in 1937 [ 1].
+
+The clinical course, with the marked and spontaneous shrinkage of the mass within 20 days, is much in favour of our diagnosis. Indeed in the previous report, evolution was comparable with a disappearance of the mass in 6 weeks, leaving an atrophic gland [ 6]. Such a rapid and spontaneous evolution would be highly atypical for an hypophysitis [ 16, 17, 23]
+
+The definitive diagnosis of hypophysitis used to rely on a biopsy. Here however, it would have been rather aggressive and useless for the patient. Some authors now suggest performing a biopsy only when a trial of steroid therapy fails [ 19].
+
+Long-term follow-up was that of the classical course of the Sheehan's syndrome. The pituitary deficiencies remain complete and the imaging evolved to that of an empty sella, as reported in the literature [ 3, 4].
+
+Conclusion
+Whilst many case reports have shown late findings such as a partially or completely empty sella, very few patients with similar clinical symptoms have had early diagnosis and neuroimaging in Sheehan's syndrome. Only one report, to the best of our knowledge, pointed out the possibility of an enlarged non hemorrhagic pituitary gland in the post infarction phase of Sheehan syndrome [ 6].
+
+With improvements of obstetric care, Sheehan's syndrome is decreasing in frequency and hypophysitis has become the most common cause of postpartum hypopituitarism. If Sheehan's syndrome used to be over diagnosed in any parous women with hypopituitarism and small glands, it may now be under diagnosed in the acute phase. The history of a delivery complicated with an episode of hypotension remains a key feature for the diagnosis.
+
+While the diagnosis a posteriori of an empty sella has no clinical consequences, the early diagnosis of Sheehan's syndrome may be important to establish the best therapeutic approach. Hypophysitis and necrosis of a macroadenoma are the two most critical alternative diagnoses to consider, with immediate therapeutic implications including:
+
+High-dose corticotherapy is sometimes indicated in both hypophysitis [ 16] and apoplexy [ 13], but never discussed in Sheehan's syndrome.
+
+Decompressive surgery can be necessary in the management of a macroadenoma apoplexy [ 11, 13, 24], as well as in hypophysitis [ 25] but of course never in Sheehan's syndrome where the clinical course is very predictable.
+
+Therefore, the acute post infarction phase of Sheehan's syndrome should always be considered in the diagnosis of an enlarged non haemorrhagic pituitary gland, ruling out the need for any aggressive treatment.

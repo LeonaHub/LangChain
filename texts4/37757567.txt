@@ -1,0 +1,235 @@
+1. Introduction
+Cardiac arrest (CA) is a leading cause of mortality worldwide, resulting in up to 20% of deaths in western societies 
+[1]
+. The prevalence of ventricular fibrillation (VF) as the initial rhythm during CA is highly time-dependent and affected by the age and underlying medical condition of the subject in humans. In the United States, VF is the initial documented rhythm by Emergency Medical Service in approximately 20% of cases for out of hospital CA 
+[2]
+. The survival rate decreases by 10% per minute after the onset of the CA 
+[3]
+. Early high-quality cardiopulmonary resuscitation (CPR), including chest compression, breathing, and defibrillation, is the key to effectively improving the survival outcome of CA.
+
+The complex cardiac function involves both electrical and mechanical activities. The electrical activities including depolarization and repolarization can be usually detected by electrocardiographic (ECG) signals. The mechanical activities including systolic and diastolic pressures, cardiac output, and vascular resistance can be reflected by photoplethysmography (PPG) that can be simply and conveniently obtained by a pulse oximeter 
+[4]
+. Traditional studies about CPR after CA are mostly focused on the electrical or mechanical activities separately. For example, studies about electrical activities showed that the robustness of VF and defibrillation success could be predicted according to the ECG signals quantified by detrended fluctuation analysis 
+[5]
+; and that the amplitude spectrum area calculated by the higher-frequency components of the ECG spectrum could be used to identify VF and predict prognosis of CA 
+[6]
+, 
+[7]
+, 
+[8]
+. Previous studies about the mechanical activities showed that the frequency analysis of PPG waveforms allows the detection of spontaneous pulses and determination of the pulse rate 
+[9]
+, and that the PPG may provide decision support during CPR, especially related to preventing and shortening interruptions for unnecessary pulse checks 
+[10]
+. Considering both the electrical and mechanical performances could be used to characterize the cardiac function, it would be of interest to examine both the electrical and mechanical activities simultaneously and interactively to explore more details about the abnormal cardiac function, particularly under the CA condition.
+
+From a viewpoint of system theory, the electrical activities presented by ECG and the mechanical activities reflected by PPG are deemed to be behaviors of two relatively independent but tightly coupled sub-systems. The sub-systems perform highly nonlinear dynamic processes, so that the traditional analytical approaches, such as fast Fourier transform (FFT) or wavelet transform (WT) could not be used to fully reflect the inherent changes underlying the coupled performance. Recently, a cross recurrence quantitative analysis (CRQA) has been proposed based on the reconstruction of phase space that can be used to reflect the coupling of two dynamic systems. The base of CRQA is recurrence quantitative analysis (RQA), which is a nonlinear analytical approach to quantify the number and duration of recurrences of a dynamical system presented by its phase space trajectory. Previous studies showed that the RQA enables characterizing the dynamics of intracardiac signals, identifying the phase transitions, and distinguishing electrophysiological features associated with cardiac diseases 
+[11]
+, 
+[12]
+, 
+[13]
+, 
+[14]
+. In addition, the CRQA provides a set of parameters to assess the cross recurrence plot (CRP), which is a visual depiction of the matrix whose members indicate all of the instances in which the phase-space trajectories of one system cross paths with those of another system 
+[15]
+. Because the CRQA can disclose the interactions of two dynamical systems with robustness to model presupposition, it would be a suitable tool to quantify the dynamical coupling of electrical and mechanical processes of the cardiovascular system.
+
+This study aimed to investigate the electrical and mechanical dynamical coupling during CPR after CA using CRQA. The VF-induced CA (VFCA) model was realized in pigs. The electrical and mechanical activities reflected by the ECG and PPG signals during four representative periods, including Baseline, CA, CPR, and recovery of spontaneous circulation (ROSC), were recorded and analyzed with RQA and CRQA. It was hypothesized that the dynamical structures of ECG and those of PPG could present distinct patterns across the four periods. It was also hypothesized that the dynamical coupling of the ECG and PPG could also show different patterns across the periods, reflecting more details in the evolvement of cardiovascular function during CPR.
+
+2. Materials and methods
+2.1. Experimental procedure
+Ten healthy Bama pigs (3 male and 7 female, weight: 43.74 ± 10.58 kg) were selected for the experiment. The pigs were given one-night fasting and were weighed and anesthetized before the experiment. The experimental procedures were approved by the Institutional Review Board of Shandong University (DWLL-2021–194) and were in accordance with the Declaration of Helsinki. The ECG and PPG signals were collected using a multi-channel physiological monitor (LY-M501, Leyutek Corp). The raw ECG signals were collected via standard lead II with the electrodes positioned at limbs, including right arm (RA), right leg (RL), left arm (LA), left leg (LL), and sternum (V) (
+Fig. 1
+(a)). The raw PPG waveforms were acquired with a reflectance pulse oximetry probe (MEC1000, Redy-Med Corp) attached to the nose (
+Fig. 1
+(b)). A programmable electrophysiological stimulation system (KST2-CH, Kardiotek Corp) was used to realize a VFCA model on the pigs. The ECG and PPG signals were collected simultaneously throughout the experiment at sampling frequencies of 500 Hz and 125 Hz, respectively, and were resampled to 250 Hz.
+
+Fig. 1. ECG and PPG positioning and representative signals at Baseline, CA, CPR and ROSC.
+
+(a-b) Positions of ECG and PPG electrodes, respectively; (c-d) representative signals of ECG and PPG at Baseline, CA, CPR and ROSC.
+
+The flowchart of the experiment protocol is shown in 
+Fig. 2
+. Specifically, the ECG and PPG signals before CA were selected as the baseline. After the successful construction of the VFCA model, no intervention was given for 7 min, which was defined as the period of CA. Following the period of CA, standard CPR was performed for about 10 min. After the initial CPR, a sequence of resuscitation operations including a standard CPR for 2 min, defibrillation, and an injection of epinephrine were performed and repeated until the pig reached to ROSC stage. Signals were continuously recorded at the ROSC stage for 4 h. If the pig could not return to the ROSC stage after 30 min of the initial CPR, it was confirmed dead and the resuscitation treatment was terminated.
+
+Fig. 2. flowchart of experiment.
+
+2.2. Signal preprocessing
+Three out of the ten pigs (No. 4, No. 7, and No. 8) were not successfully rescued to the ROSC conditions and induction of ventricular fibrillation failed for one pig (No. 6). The data of the four pigs were excluded, leaving the data of 6 pigs for the following analyses. The raw ECG signal and PPG signals were first preprocessed using MATLAB (The Mathworks, Natick, MA, USA). There were three steps in preprocessing: (1) ruling out the unusable signals due to the interruption of PPG signal and the shedding of ECG electrodes; (2) eliminating the drift noises of baseline by median filtering; and (3) removing the pressing artifacts out of the ECG signals using a 5th-order Butterworth bandpass filter with 3 - 30 Hz passband.
+
+According to the experimental protocol, all data were divided into four periods, including the Baseline, CA, CPR, and ROSC. For signal analysis, datasets were selected according to the following criteria: (1) for the Baseline, signals were selected as the electrodes had been successfully positioned upon the skin for 10 min; (2) for the CA, signals of half a minute after the onset of multiple consecutive wide QRS complexes were selected; (3) for the CPR, signals at 10 min before the first defibrillation; (4) for the ROSC, the signals were selected as the ROSC status had been confirmed for half an hour. Two minutes of signals were intercepted from each of the four periods, and the signal was processed using sliding windows with size of 5 s and sliding step of 1 s. The RQA parameters of ECG and PPG, and the CRQA parameters of ECG-PPG coupling in four periods, including recurrence rate (RR), determinism (DET), entropy (ENTR) and trapping time (TT), were computed, respectively.
+
+2.3. RQA and CRQA analysis
+RQA is a quantification of recurrence plots (RP) that is a graphic representation of dynamical systems. The RP is usually constructed from a recurrence matrix Ri,jwhose values are either 1 or zero 
+[16]
+, reflecting the distance between the two vector trajectories in a phase space. Based on the RQA, a CRQA has been recently developed, which could quantify the dynamic coupling of two systems represented by Cross Recurrence Plot (CRP) constructed based on a cross-recurrence matrixCRi,j.
+
+For the N-length ECG series {x(i), 1 ≤ i ≤ N}and PPG series{y(i), 1 ≤ i ≤ N}, reconstruct the phase-space vectors 
+and
+, respectively. In which m is the embedding dimension, andτ represents the time delay. The parameters of RQA and CRQA, such as embedding dimension or time delay, were determined by both quantitative and empirical ways. First, mutual information (MI) and false nearest neighbors (FNN) were applied to screen the time delay and embedding dimension, respectively (
+Fig. 3
+a-
+3
+c). In this case, the recurrence matrix Ri,j can be defined in terms of the distance between the respective reconstructed states 
+ and 
+, which can be expressed as:
+
+Fig. 3. Construction of RP plots.
+
+(a-b) The process of determining the delay and dimension using mutual information and false nearest neighbor test, respectively; (c) vector reconstruction in state space; (d) distance plot based on state space map; and (e) recurrence plot after threshold ε was applied on the distance plot.
+
+The dynamic correlation of the ECG signals and PPG signals was analyzed using the CRQA. The CRQA is calculated from the CRP, a graphical representation of a cross matrix defined as:
+(2)
+where, Θis the Heaviside function, and εis the chosen distance threshold. RP and CRP are obtained by drawing the black and white binary image of the recurrence matrix (
+Fig. 3
+d,
+3
+e).
+
+The binary pattern observed in a RP or CRP is intrinsically related to the generative dynamics of the observation: the vertical/horizontal structures are associated with the laminarity (or turbulence) of the signal; the diagonal structures reflect the coevolution of states and indicate possible deterministic dynamics 
+[17]
+. The typical coupling modes can be roughly divided into four types, namely, homogeneous, periodic, drift, and disrupted. A detailed description and visualization of the different modes can be found in reference 
+[15]
+.
+
+The following parameters were derived from both RP and CRP:
+(1)
+Recurrence rate (RR): Indicates the density of recurrence points in an RP.
+(3)
+
+where, N is the length of the signal. Replace the Ri,j(ε)by the
+defined in (2), then we can get the RR for CRP. The RR indicates the regularity by calculating the probability of semblable state's appearance in two dynamic systems. The RR could measure the stability and periodicity of a system. Specifically, as the stability increases the relative RR values also increase.
+(2)
+Determinism (DET): represents the ratio of recurrence points that form diagonal structures (of at least length lmin) to all recurrence points. The DET can reflect the degree of determinism or repeatability of a system. A more deterministic system always shows greater DET values; whereas a system with lower repeatability always shows lower DET values.
+(4)
+
+where, P(l) is the frequency distribution of diagonal line length.
+(3)
+Entropy (ENTR): refers to the Shannon entropy of the probability
+ to find a diagonal line of exact length l in the RP. The ENTR reflects the complexity of the diagonal segment length distribution in the RP, and the ENTR of a random system is often low.
+(5)
+
+(4)
+Trapping time (TT), which represents the average length of vertical structures in the RP. The TT reflects the relative speed of the state change of the system, thereby reflecting the stability of the system.
+(6)
+
+where, P(v)is the frequency distribution of vertical line length.
+
+The embedding dimension used in this study was 1, the time delay was 1 sample, and the threshold was set to 0.1 
+[18]
+. Parameters of RQA and CRQA were implemented by MATLAB cross recurrence plot toolbox 5.16.
+
+2.4. Statistical analyses
+Statistical analyses were performed using SPSS (SPSS Inc., Chicago, IL). Kolmogorov-Smirnov (K-S) test was applied to examine the data distribution. The results of the K-S test showed that RR (p < 0.001), DET (p < 0.001), ENTR (p < 0.001) and TT (p < 0.001) of ECG, PPG, and the ECG-PPG coupling did not conform to the normal distribution. Therefore, the Friedman test was applied to examine the differences of the RQA and CRQA parameters across the periods in normal and non-normal distributions, respectively. The post hoc test was used to verify the difference for RR, DET, ENTR, and TT among different periods (Baseline vs. CA, CA vs. CPR, CPR vs. ROSC). A p-value of less than 0.05 was considered statistically significant.
+
+3. Results
+The recurrence matrix of ECG and PPG, and the cross-recurrence matrix of ECG with PPG from a representative subject (No1. pig) over the Baseline, CA, CPR, and ROSC periods were shown in 
+Fig. 4
+. More deterministic structures, shown as periodic rectangular structures, were found in the recurrence matrix of Baseline and ROSC than those of CA and CPR. More irregular structures were observed in the recurrence matrix of CA than the other states (e. g. Baseline, ROSC and CPR) for either the ECG, PPG or the ECG-PPG coupling.
+The deterministic structures in CPR were between those of the CA and the ROSC for the ECG, PPG or the ECG-PPG coupling. The ECG and PPG showed more nonperiodic distributions with higher irregularity in the cross-recurrence matrix of CA than in the matrix of the Baseline, CPR and ROSC (
+
+Results of RQA for ECG showed significant differences in the RR (p < 0.001), DET (p < 0.001), ENTR (p < 0.001), and TT (p < 0.001) across the four periods (
+Fig. 5
+). Specifically, the DET, ENTR, and TT were significantly higher at CPR than at CA (p < 0.01). The RR, DET, ENTR and TT of the Baseline and ROSC were significantly higher than those of the CA and CPR (p < 0.01).
+
+Fig 5
+Download: Download high-res image (360KB)
+Download: Download full-size image
+Fig. 5. RQA parameters of ECG for all the subjects
+
+(a) RR. (b) DET. (c) ENTR. (d) TT. * p<0.01.
+
+Distance plots of ECG, PPG and ECG-PPG coupling at Baseline (a-c), CA (d-f), CPR (g-i) and ROSC (j-l)
+
+Results of RQA for the PPG are showed in 
+Fig. 6
+. There were significant differences in RR (p < 0.001), DET (p < 0.001), ENTR (p < 0.001), and TT (p < 0.001) across the four periods. Specifically, the CA showed significantly lower DET (p < 0.01), ENTR (p < 0.01) and TT (p < 0.01) than the Baseline, CPR and ROSC.
+
+Fig 6
+Download: Download high-res image (375KB)
+Download: Download full-size image
+Fig. 6. RQA parameters of PPG for all the subjects.
+
+(a) RR; (b) DET; (c) ENTR; (d) TT. * p<0.01.
+
+Results of CRQA for the ECG and PPG coupling are shown in 
+Fig. 7
+. There were significant differences in RR (p < 0.001), DET (p < 0.001), ENTR (p < 0.001), and TT (p < 0.001) across the four periods. The DET (p < 0.01), ENTR (p < 0.01) and TT (p < 0.01) of CA were significantly reduced from Baseline (
+Fig. 7
+). The RR of CA showed higher values than that of the Baseline and CPR. The CPR showed significantly higher DET (p < 0.01), ENTR (p < 0.01) and TT (p < 0.01) than the CA (
+Fig. 7
+).
+
+Fig 7
+Download: Download high-res image (361KB)
+Download: Download full-size image
+Fig. 7. CRQA parameters of ECG and PPG coupling for all the subjects.
+
+(a) RR; (b) DET; (c) ENTR; (d) TT. * p<0.01.
+
+4. Discussion
+This study aimed to examine the dynamic changes of electrical and mechanical coupling in the whole process of CPR, from the Baseline before CA till the ROSC period. Results showed that the nonlinear dynamics of ECG and PPG reflected by the RQA parameters have highly relied on the status of cardiac function (
+Fig. 5
+ and 
+Fig. 6
+). Moreover, the dynamical ECG-PPG coupling reflected by the CRQA was also associated with the progress of CPR (
+Fig. 7
+).
+
+Results showed that the RR, DET, ENTR, and TT of ECG were significantly lower during CA and CPR compared to the stage of Baseline and ROSC, and the DET, ENTR, and TT of CA were even lower than those of CPR (
+Fig. 5
+). The decreased RR at CA revealed a lower recurrence probability of the similar status and thus a lower regularity of cardiac dynamics. The decreased DET at CA with respect to the Baseline, CPR and ROSC may indicate less deterministic structures (or less predictable structures) in the ECG signals due to the failure of ventricles contraction. The decreased ENTR and decreased TT with CA, in physics indicated a reduced complexity of the dynamical structures and reduced probability that the system remains stable, reflecting a more simple but unstable autonomic behavior [
+15
+,
+19
+]. Electrophysiological changes due to arrhythmia and inaccurate control of myocardium contraction may result in these changes [
+17
+,
+20
+]. It is noteworthy that although the CPR parameters were significantly lower than those of Baseline and ROSC, others including DET, ENTR, and TT at CPR were still increased compared to the CA. These changes confirmed the effectiveness of CPR in benefiting the dynamics of electrical activities after CA. In physiology, normal heart rhythm is maintained by cyclic changes in the electrical currents that drive and coordinate heart-muscle contraction 
+[21]
+. The electrical impulses during CA could stop tracking their normal paths but adopt complex, chaotic and vortex-like paths 
+[21]
+. The abnormal electrical activations associated with CA could be observed from the RP plots (
+Fig. 4
+d) and the decrease of the RR, DET, ENTR and TT (
+Fig. 5
+) in CA compared with the Baseline. Defibrillation shock can interact with cardiomyocytes, and thus resynchronizes the myocardial cells by direct excitation during CPR 
+[22]
+. The effects of chest compression can be visualized from the RP plots (
+Fig. 4
+g) and be quantified by the RQA parameters, such as the DET, ENTR and TT, showing significantly increased values at CPR compared with CA. The ECG signals became more regular and organized in ROSC than in CPR, which can be observed from the increases in RR, DET, ENTR, and TT. The difference of the above parameters between CPR and ROSC was significantly greater than that between CA and CPR, suggesting these parameters may facilitate the detection of ROSC.
+
+Results further showed that the PPG at CA had lower DET, ENTR, and TT compared with Baseline, ROSC and CPR (
+Fig. 6
+). This finding suggested that the CA can lead to decreased determinism, complexity and stability, reflecting increased uncertainty of the system dynamics during cardiac mechanical activities 
+[23]
+. More irregular blood volume changes in the microvascular tissue as the heart pumps the blood to the periphery at cardiac cycle could be a reason for these changes 
+[24]
+. Hemoglobin concentration and hemoglobin direction according to the cardiac cycle may also play a role in forming the mechanical changes of PPG associated with CA [
+25
+,
+26
+]. The RR, DET, ENTR and TT were significantly higher during ROSC than during CPR, which may indicate that PPG signals were more stable and regular during ROSC. The PPG signals are produced by the heart pumping blood to the periphery. Blood is pumped through the body with each chest compression, causing regular fluctuations within the PPG signal. The RR, DET, ENTR and TT were significantly increased with CPR, suggesting improved recurrence, determinism and stability of the cardiac function, which could be related to the more regular blood volumes, hemoglobin concentration and hemoglobin direction by the heart pumps and reflects that CPR did produce pulsations in the PPG.
+
+This study for the first time evaluates the electrical-mechanical coupling of ECG and PPG signals in process of CPR after CA. The CRQA is an analytical tool identifying physiological changes in fuzzy, complex, and nonlinear dynamics, such as deterministic or stochastic components, structural complexity, periodic patterns, or synchronization, underlying dynamical coordination across the ECG and PPG signals [
+15
+,
+27
+]. Results revealed significantly lower DET, ENTR and TT at CA than at Baseline (
+Fig. 7
+), suggesting the electrical-mechanical dynamic coupling may serve as an index for cardiovascular function 
+[17]
+. This dynamic coupling suggested that myocardia electrical parameters and the peripheral mechanical characteristics including the blood volumes and flows may evolve with cardiac functional changes during CPR after CA. In normal hearts, the timing of mechanical activation roughly follows that of the electrical activation, giving rise to fairly synchronous contractions 
+[28]
+. According to the results, patients with CA displayed a reduction in complexity of electromechanical coupling, suggesting dysfunction of cardiovascular system with reduced electromechanical coordination 
+[29]
+. Unbalanced cardiac autonomic regulation, alternated excitability, conduction and contractility, and abnormal automaticity may lead to the loss of cardiac ability and the immediate mechanical response to the electrical activity 
+[30]
+.
+
+Observing and quantifying the physiological changes associated with CA in process of CPR is a challenging issue due to the nonstationary bio-signals and nonlinear dynamic of the cardiovascular system. This study proposed a novel recurrence-based analytical tool for identifying the nonlinear dynamic changes in the electrical-mechanical coupling, which may serve as a functional indicator for the progress of CPR after CA. The difference in the RR and TT of ECG between CPR and ROSC may offer a non-invasive indicator for ROSC. Considering the ECG and PPG are noninvasive signals that can be practically measured in first aid, testing and analyzing the electrical-mechanical coupling may play a role in future pre- and post-hospital emergency treatment. In addition, the electrical-mechanical coupling may serve as a physiological biomarker associated with the progress of CPR and play a role in evaluation and prognosis. There are still limitations in the study. More data would be better collected from more animal subjects. Considering the differences between animals and human subjects, clinical studies with human subjects are needed towards future clinical practice.
+
+5. Conclusions
+In this study, recurrence-based analyses were used to examine the changes in electrical-mechanical coupling in cardiovascular system in the process of CPR before and after CA. Parameters including RR, DET, ENTR, and TT showed significant changes at the four representative stages, suggesting dynamic coupling between the electrical and mechanical functions changes with the cardiac functions in process of CPR. The measurement and analysis of this study may facilitate to identify the nonlinear dynamic changes in electrical-mechanical coupling that can be an indicator of quality for CPR.

@@ -1,0 +1,11 @@
+Introduction
+Early detection and treatment of sepsis improves chances of survival; however, sepsis is often difficult to diagnose initially. This is especially true in the prehospital setting, where resources are scarce, yet time is of great significance. Early warning scores (EWS) based on vital signs were originally developed to guide medical practitioners in determining the degree of illness of a patient in the in-patient setting. These EWS were adapted for use in the prehospital setting to predict critical illness and sepsis. We performed a scoping review to evaluate the existing evidence for use of validated EWS to identify prehospital sepsis.
+
+Methods
+We performed a systematic search using the CINAHL, Embase, Ovid-MEDLINE, and PubMed databases on September 1, 2022. Articles that examined the use of EWS to identify prehospital sepsis were included and assessed.
+
+Results
+Twenty-three studies were included in this review: one validation study, two prospective studies, two systematic reviews, and 18 retrospective studies. Study characteristics, classification statistics, and primary conclusions of each article were extracted and tabulated. Classification statistics varied markedly for prehospital sepsis identification across all included EWS: sensitivities ranged from 0.02–1.00, specificities from 0.07–1.00, and PPV and NPV from 0.19–0.98 and 0.32–1.00, respectively.
+
+Conclusions
+All studies demonstrated inconsistency for the identification of prehospital sepsis. The variety of available EWS and study design heterogeneity suggest it is unlikely that new research can identify a single gold standard score. Based on our findings in this scoping review, we recommend future efforts focus on combining standardized prehospital care with clinical judgment to provide timely interventions for unstable patients where infection is considered a likely etiology, in addition to improving sepsis education for prehospital clinicians. At most, EWS can be used as an adjunct to these efforts, but they should not be relied on alone for prehospital sepsis identification.

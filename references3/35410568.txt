@@ -1,0 +1,11 @@
+Aims
+This study aimed to ascertain the number of patients with chronic myelogenous leukemia (CML) and transplant-ineligible patients with multiple myeloma (MM) not recommended by their physicians for optimal drug treatment or who refuse, discontinue, reduce, or skip treatment owing to cost in Japan.
+
+Methods
+A cross-sectional survey was conducted among hematologists, hematologic oncologists, and oncologists in Japan treating ≥1 patient with CML or ≥5 transplant-ineligible patients with MM per year.
+
+Results
+A total of 212 physicians participated: 105 treating patients with CML and 107 treating transplant-ineligible patients with MM. While treatment cost did not lead to non-optimal treatment most patients, physicians reported that they recommended non-optimal treatment to 6.53% of their patients with CML and 1.41% of their transplant-ineligible patients with MM, that 1.51 and 0.35% of their patients, respectively, refused treatment and that 1.97 and 0.71% discontinued treatment owing to treatment cost. However, no significant differences in the effect of treatment cost on recommendation, discontinuation, refusal, or reduction of treatment were observed. Non-recommendation of optimal treatment owing to treatment cost was most common for third-line CML and fourth-line transplant-ineligible MM treatment. Discontinuation due to treatment cost was most common in third-line treatment for both.
+
+Conclusion
+Our results show that non-optimal treatment due to treatment cost occurs among some physicians in Japan for patients with CML and transplant-ineligible patients with MM, but it may be limited to a small percentage of patients. Further research is needed to identify the drivers of treatment decisions for physicians and patients, including those involving treatment cost.

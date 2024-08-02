@@ -1,0 +1,11 @@
+Objective:
+Post-traumatic stress disorder is a complex psychiatric disorder that develops after exposure to traumatic events, such as violent physical assaults, accidents, rape, natural disasters, and conflicts, stranger than usual human experiences. The typical presentation of intrusive thoughts, the persistence of the trauma, the avoidance of pertinent stimuli, emotional numbness, and physiological hyperarousal are the characteristics of this anxiety symptom. Despite the presence of a study conducted on this problem, the pooled effect, particularly in Ethiopia, is not known; therefore, this study assessed the allover burden of post-traumatic stress disorder.
+
+Method:
+The available study was extracted and conducted on post-traumatic stress disorder and its associated factors in Ethiopia by three independent authors. The data were analyzed by using STATA version 11 after extraction was done on a Microsoft Excel spreadsheet. The random-effect model was used to estimate the pooled effect size of post-traumatic stress disorder and its effect in the previous studies with 95% confidence intervals. Funnel plots analysis and Egger regression tests were conducted to detect the presence of publication bias. A subgroup analysis and a sensitivity analysis were done.
+
+Result:
+Thirteen (13) studies were included with a total of 5874 study participants in this meta-analysis and systematic reviews. The pooled prevalence of post-traumatic stress disorder in Ethiopia was 39.28% with a 95% confidence interval (26.54, 52.01). Poor social support (adjusted odds ratio = 2.86; 95% confidence interval (1.81, 4.53)), being female (adjusted odds ratio = 1.89; 95% confidence interval (1.53, 2.34)), presence of previous mental illness (adjusted odds ratio = 4.72; 95% confidence interval (2.62, 8.36)), and witness (adjusted odds ratio = 2.01; 95% confidence interval (1.30, 3.11)) were associated with post-traumatic stress disorder.
+
+Conclusion:
+The burden of post-traumatic stress disorder in this meta-analysis and systematic review is high; therefore, immediate intervention is needed for those specific traumatized individuals.

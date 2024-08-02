@@ -1,0 +1,117 @@
+Introduction
+Multiparametric magnetic resonance imaging (mpMRI) is playing an increasingly important role in the diagnostic pathway of patients with prostate cancer (PCa), both in identifying suspicious lesions and in locoregional staging [1].
+
+Correct tumor staging is critical for disease management. Curative treatment becomes more likely in the absence of pathologic extra prostatic extension (pEPE); additionally, organ-confined disease allows for more conservative surgical approaches [2, 3].
+
+Many studies investigated the accuracy of mpMRI in local staging [4]. Use of magnetic field strengths, endorectal coils, and combinations of anatomic and functional mpMRI methods differs between studies, including also emerging technologies based on radiomics or artificial intelligence [5–7]. A recent meta-analysis [4] reported that mpMRI has poor and heterogeneous sensitivity (Se) for local PCa staging, but high specificity (Sp). These disparate findings have driven the ongoing discussion regarding the use of mpMRI for PCa staging, as well as which mpMRI criteria are most accurate and how to combine them.
+
+In recent years, a few imaging-based scores were proposed for the assessment of EPE at mpMRI (mEPE). Among them, a score based on qualitative parameters (i.e., Likert scale) showed good performance [8, 9] and low inter-observer variability [8]; however, Likert scales lack objective criteria and are often difficult to reproduce. Three more “quantitative” scores [10–12] attempted to create a progressive risk score by combining in different ways some of the imaging features present in Prostate Imaging Reporting and Data System (PI-RADS) v2.1 [1], i.e., “asymmetry or invasion of the neurovascular bundles, bulging prostatic contour, irregular or spiculated margin, obliteration of the recto-prostatic angle, tumor-capsule interface greater than 1.0 cm, breach of the capsule with evidence of direct tumor extension or bladder wall invasion.”
+
+To the best of our knowledge, the literature lacks studies that examine individually the PI-RADS v2.1 features considered EPE predictors, or that employ an all-inclusive score that incorporates all of them. The aim of the study was to investigate the diagnostic accuracy of the PI-RADS v2.1 mEPE features in predicting pEPE of PCa, as well as to develop and validate a comprehensive mEPE-score.
+
+Methods
+The study was piloted in agreement with the 1964 Helsinki Declaration and its later amendments. The Local Institutional Review Board of each Institution approved this retrospective study and waived the need for written informed consent.
+
+Study design and patient population
+The study involved patients with a biopsy-proven PCa and pre-operative mpMRI examination performed in one of two different structures: Azienda Ospedaliero-Universitaria Città della Salute e della Scienza di Torino - Presidio Ospedaliero Molinette, hereon identified as site 1, and Azienda Ospedaliera Ordine Mauriziano di Torino - Ospedale Umberto I, hereon identified as site 2.
+
+In both sites, all consecutive patients admitted between January 2015 and December 2020 were retrospectively reviewed.
+
+We design a study aimed at:
+
+Evaluating the diagnostic value of each mEPE parameter in the PI-RADS v2.1 criteria [1] for pEPE;
+Introducing a standardized grading system including all such variables;
+Comparing its performance against the three mEPE quantitative scoring systems in the literature [10–12];
+Validating internally and externally the mEPE-score;
+Investigating its performance for different levels of biopsy ISUP and of expertise of observers.
+Inclusion criteria for enrolment were:
+
+Radical prostatectomy for PCa.
+Definitive histological examination based on International Society of Urological Pathology criteria [13–16].
+Pre-operative mpMRI examination performed no earlier than 6 months from the date of radical prostatectomy.
+Exclusion criteria were:
+
+Hormonotherapy
+Radiotherapy
+Previous endoscopic prostate resection
+Significant artifacts (i.e., motion artifact, artifactual distortion caused by air and/or stool in the rectum, metallic artifact caused by hip prosthesis replacement) at mpMRI, Prostate Imaging Quality (PI-QUAL) score < 3 [17], or incomplete exams (i.e., interrupted for claustrophobia).
+The flow diagram is reported in Fig. ​Fig.11.
+mpMRI protocol
+The MR examination was performed at 1.5 T (Achieva and Ingenia, Philips Medical Systems) using a 32-phased-array coil. A minimal preparation enema was administered to the patient in the hours prior to the examination. If tolerated, a 1 mg hyoscinbutylbromide (Buscopan, Boehringer Ingelheim) intravenous injection was given to the patient to reduce peristaltic motion. The MR protocol is shown in Tables S1 and S2.
+
+Pathology
+All histopathological examinations were performed by three senior pathologists (L.D., L.M., and D.P.), all of whom had more than 10 years of experience in genitourinary pathology. The processing and reporting were carried out in accordance with the International Society of Urological Pathology (ISUP) recommendations [13–16]. Notably, the prostate margins were inked, the prostate and seminal vesicles were completely embedded and examined using whole mounts and standard blocks, and the presence and location (i.e., side) of pEPE were included in the pathological report.
+
+Imaging analysis
+Image evaluation was performed using a dedicated medical imaging workstation (IntelliSpace Portal, Philips Healthcare).
+
+Image analysis at site 1 was done in consensus by an expert radiologist (R.F.; > 2000 cases analyzed) and a beginner radiologist (M.G.; about 500 cases). Image analysis at site 2 was done in double-blinded fashion, by an expert radiologist (S.C., > 4000 cases analyzed) and a beginner radiologist (A.F., > 500 cases) [18]. In both sites, the radiologists were blinded to the pathologic data.
+
+The index lesion was defined as the largest suspected tumor focus or, alternatively, the most likely to contribute to mEPE. Each lesion was assigned a sector map location, and the mEPE features (Fig. ​(Fig.2)2) present in PI-RADS v2.1 were reported [1].
+Following the radiological evaluation, a beginner radiologist (F.G. with approximately 500 cases analyzed) who was not involved in the imaging analysis but had access to all available data from mpMRI and pathology reviewed the pathology reports to see if pEPE was found on radical prostatectomy specimens at the site of the index lesion.
+
+Statistical analysis
+Continuous variables are expressed as median (1st–3rd quartile), and categorical variables as counts and percentages. The investigation for significant association with pEPE used non-parametric tests (Mann-Whitney’s for independent continuous variables and Fisher’s exact test for dichotomic ones) and binary logistic regression (BLR). The concordance between two individual items of two distributions, including scores by two readers, was measured by Cohen’s kappa coefficient (0 ≤ k ≤ 1). The following labels are assigned to the corresponding ranges of kappa: < 0.00: poor, 0.00–0.20: slight; 0.21–0.40: fair; 0.41–0.60: moderate; 0.61–0.80: substantial; and 0.81–1.00: almost perfect [19].
+
+The performance of the scoring approaches was evaluated with the ROC curve (plot of Se vs. (1-Sp)) and quantified by the area under the curve (AUC). The threshold for positive diagnosis was set at the value which satisfied the triple condition of (i) maximization of the harmonic mean of Se and Sp, (ii) maximization of Youden’s index (Se+Sp-1), and (iii) minimization of the distance of the curve from the upper left corner (Se = Sp = 1).
+
+Significant association corresponds to p < 0.05 and 95%CI of BLR odds ratio not including 1. Analyses were performed using StatPlus for Macintosh ver. 7 (AnalystSoft, Walnut).
+
+Results
+The patients who met the inclusion criteria were 200 at site 1 and 76 at site 2. No patients were excluded for technically limited study (i.e., all studies were PI-QUAL score > 3). The clinical data, reported in Table ​Table1,1, showed no significant differences between sites.
+The 200 patients at site 1 were split by alphabetical order into two groups, A and B, each composed by 100 patients. Since there were no significant differences in the features of the two subgroups (see Table ​Table2),2), group A was randomly picked for deriving the new comprehensive score, assigning to Group B the task of internal validation.
+Determination of EPE-score
+The diagnostic performance of the individual mEPE features included in PI-RADS v2.1 was investigated using as benchmark the identification of pEPE on radical prostatectomy specimens at the location of the index lesion. For each feature, we computed detection rate (ratio of number of patients with pEPE to number of patients with the mEPE feature), Se, Sp, positive predictive value (PPV), and negative predictive value (NPV) and used univariate BLR to determine its association with pEPE. The results are summarized in Table ​Table3:3: the feature with the lowest detection rate and highest Se was capsular abutment, followed by irregular or spiculated margin and bulging prostatic contour; the parameters with 100% detection rate and highest Sp (and lowest Se) were measurable extraprostatic disease and obliteration of recto-prostatic angle. For capsular abutment, measurable extraprostatic disease, and obliteration of recto-prostatic angle, the BLR odds ratio intervals were undetermined (0–infinite).
+These results were implemented in a comprehensive grading system, labeled mEPE-score (mpMRI-derived extra prostatic extension score), based on the following scores:
+
+Absence of all mEPE features: 1
+Abutment of the capsule: 2
+Irregular or spiculated margin: 3
+Bulging prostatic contour, asymmetry of the neurovascular bundles, or tumor-capsule interface > 1.0 cm: 4
+At least two of the previous three parameters: 5
+Measurable extraprostatic disease (i.e., obliteration of the recto-prostatic angle or breach of the capsule with evidence of direct tumor extension or bladder wall invasion): 5.
+The mEPE-score thus has five possible values: 1 (no indicators), 2, 3, 4, and 5. Examples of tumors classified according to the mEPE-score system are shown in Figs. ​Figs.3,3, ​,4,4, and ​and55 and S1.
+The accuracy of the proposed score was tested with the ROC curve procedure, obtaining AUC = 0.84 (0.77–0.92). The diagnostic parameters vary with the threshold chosen for pEPE prediction. The three statistical demands agree on mEPE-score > 3 as threshold for positive diagnosis, corresponding to Se = 0.82, Sp = 0.77, PPV = 0.74, and NPV = 0.84. Whenever clinical reasons may require privileging Se over Sp, or vice versa, the threshold might be lowered to > 1 (Se = 0.87, Sp = 0.57, PPV = 0.62, NPV = 0.84) or raised to > 4 (Se = 0.51, Sp = 0.96, PPV = 0.92, NPV = 0.71).
+
+Univariate BLR assessed the significant association of increasing values of mEPE-score with pEPE: p < 0.0001, OR = 2.4 (1.7–3.4).
+
+To investigate whether the grade of the disease affected the predicting power of mEPE-score, the 100 patients were subdivided into two groups identified by values of biopsy ISUP < 3 (N = 40) and ≥ 3 (N = 60). The two respective ROC curves evidenced no significant differences: AUC = 0.80 (0.60–0.99) for ISUP < 3 and 0.82 (0.72–0.92) for ISUP ≥ 3 (p = 0.87). The agreement was confirmed by the overlapping of the 95%CIs of the BLR odds ratio for the two ISUP ranges, respectively (2.25 (1.1–4.5) and 2.2 (1.4–3.5)).
+
+Comparison with other scoring systems
+The performance of mEPE-score was tested against those of the three quantitative scoring systems ESUR-score [10], mEPE-grade [11], and early-and-late-EPE [12]. Table ​Table44 and Fig. ​Fig.66 report the results on the ROC curve procedure: mEPE-score had AUC comparable to ESUR-score (p = 0.59) and higher than mEPE-grade (p = 0.04) and early-and-late-EPE (p < 0.0001). Since the four methods have different score ranges and threshold, we tested the concordance of the prediction on mEPE (yes/no) for each patient with the relative pEPE. The results on Cohen’s k are shown at the bottom of Table ​Table44.
+Internal validation of EPE-score
+The internal validation of mEPE-score was done on the 100 patients of group B. The ROC curve for group B had AUC 0.86 (0.79–0.94), very close to the value 0.84 (0.77–0.92) for group A (p = 0.78). The diagnostic parameters at mEPE-score > 3 were Se = 0.80, Sp = 0.78, A = 0.79, PPV = 0.72, and NPV = 0.85.
+
+The univariate BLR yielded p < 0.0001, with OR = 2.7 (1.8–4), again very close to the OR = 2.4 (1.7–3.4) obtained for group A. The concordance on each patient between pEPE and mEPE-RADs > 3, measured by Cohen’s k = 0.57 (0.41–0.73), was in moderate to substantial agreement with the value of k = 0.60 (0.44–0.76) obtained for group A.
+
+External validation of EPE-score and impact of reader’s experience on the assessment of individual indicator
+The sample of 76 patients enrolled at site 2 was used for the external validation of the mEPE-score and for testing the impact of the experience of the mpMRI reader (expressed as number of cases examined) on the identification of the indicators used in the scoring system.
+
+Table ​Table55 shows separately the inter-reader concordance, measured by Cohen’s kappa, of expert reader (> 4000 cases) and beginner reader (> 500) on (i) the individual mEPE features (lowest for capsular abutment and asymmetry of neurovascular bundle and highest for measurable extraprostatic disease), (ii) the score values computed for the four scoring approaches, and (iii) the positive EPE diagnosis (lowest for early-and-late-EPE, similar for mEPE-score, ESUR-score, and mEPE-grade, despite the difference in the value range and threshold). Overall, the percentage agreement between the two readers was 64.5% for the individual features and 88.2% for the positive EPE diagnosis.
+The level of diagnostic performance with mEPE-score, according to the ROC curve procedure, was similar for the two readers: AUC = 0.82 (0.73–0.91) for the expert reader and 0.79 (0.69–0.88) for the beginner reader (p = 0.32). Similar agreement was observed for mEPE-grade: AUC = 0.80 (0.72–0.88) for the expert reader and 0.82 (0.74–0.90) for the beginner one (p = 0.45), whereas the ESUR-score ROC curves had AUC = 0.83 (0.75–0.90) for the expert reader vs. 0.79 (0.70–0.87) for the beginner reader (p = 0.02). A difference was present also for early-and-late-EPE: AUC = 0.63 (0.55–0.71) for the expert reader vs. 0.69 (0.60–0.78) for the beginner one (p = 0.03).
+
+The performance of the expert reader with mEPE-score was similar to the performance with mEPE-grade (p = 0.58) and ESUR (p = 0.82), significantly better than with early-and-late-EPE (p = 0.0001).
+Discussion
+In our study, each of the PI-RADS v2.1 mEPE feature for predicting pEPE was evaluated for its diagnostic accuracy. A standardized grading system (mEPE-score) was created and tested with internal and external validation. The main findings are that mEPE features have low Se and high Sp and even with tumors of varying aggressiveness and observers’ experience, using a composite score with qualitative and quantitative parameters yielded good diagnostic performances.
+
+As predictors for pEPE, individual PI-RADS v2.1 mEPE features had poor sensitivities ranging from 0.08 (0.00–0.15) to 0.71 (0.59–0.83), whereas Sp ranged from 0.68 (0.58–0.79) to 1.00. Capsule abutment had the highest Se, but low Sp. PI-RADS v2.1 considers a contact of over 10 mm significant for pEPE. This feature in our derivation set had a Se of 0.48 (0.34–0.62) and Sp of 0.89 (0.82–0.96), lower in Se but higher in Sp than those reported in a recent meta-analysis [20], in which the summary Se and Sp were 0.79 (0.73–0.83) and 0.67 (0.60–0.74). Our data still agreed with some of the papers in that study, namely 5 out of 13 studies used to evaluate the capsule tumor contact length’s Se and 4 out of 13 studies’ Sp.
+
+Breach of the capsule with evidence of direct tumor extension and obliteration of the recto-prostatic angle were the most specific parameters. These data are consistent with the findings of Mehralivand et al [11]. Since these features have very high and comparable Sp, and are frequently correlated, they were summarized and evaluated as “measurable extraprostatic disease” in the readings performed at site 2.
+
+A recent meta-analysis [4] of 45 studies and 5681 patients reported a Se of 0.57 (0.49–0.64) and Sp of 0.91 (0.88–0.93) in assessing mEPE. However, there is no universal definition of mEPE; instead, numerous criteria are reported, and the data, expressed in a binary format, can be misleading. The PI-RADS v2.1 document recommends reporting suspicious features for mEPE for staging, but refrains from assigning a probability of pEPE based on a combination of these findings.
+
+The mEPE-score is a score that combines all the parameters included in PI-RADS v2.1 for the assessment of pEPE and showed excellent discriminating ability (i.e., AUC > 0.8 both in the derivation and validation set) [21] and Se = 0.82, Sp = 0.77, PPV = 0.74, and NPV = 0.84 with a threshold of 3 in the derivation set.
+
+The “ESUR prostate MR guidelines 2012” [10] for the first time introduced an increasing probability EPE-score (ESUR-score). However, this score is purely qualitative and does not include the extent of the tumor-capsule interface, a parameter that in the aforementioned meta-analysis [20] showed good diagnostic power.
+
+Mehralivand et al [11] recently introduced mEPE-grade, a system which ranked the risk of pEPE from 1 to 3 and guaranteed an AUC of 0.77 (up to 0.81 when combined with clinical features). However, the tumor-capsule interface considered positive in the mEPE-grade was 15 mm rather than 10 mm, and the capsule abutment and asymmetry of the neurovascular bundle were omitted. This score performed at roughly the same level as our proposed score (worse, albeit by a small margin, p = 0.04, in the internal validation and comparable, p = 0.58, in the external validation). However, while using a scale with “only” four points produces excellent AUC results, having to dichotomize to find a clinically useful cutoff may cause issues, as shown by the lowest Se (i.e., 0.55 vs. 0.75 of the EPE-score). Increasing the cutoff of capsule tumor contact reduces Se, as does using fewer mEPE features than mEPE-score.
+
+The most recent score published in the literature is that by Pesapane et al [12], who categorize mEPE features into “early” and “late,” with the first having a high prevalence but a low PPV and the latter having a lower prevalence but a higher PPV. However, this score is purely qualitative, and when compared to the results of the single predictor analysis, two features do not match our findings: they included capsule abutment (features with very low Sp) in the “early”; additionally, they included irregular prostatic contour in the “late” (as “measurable extraprostatic disease”), which demonstrated a Sp and positive predictive value of less than 0.7 in our dataset.
+
+The impact of reader’s experience in lesion detection at mpMRI has already been reported [22]. Using an mpMRI-derived EPE-score simplifies the process of reporting pEPE suspicion at mpMRI. This is underlined by the fact that while concordance between observers with varying levels of experience ranged from fair to moderate for each mEPE feature (except for the identification of “measurable extraprostatic disease”), the use of a score resulted in substantial agreement for the majority of scores included in the analysis (except for early-and-late-EPE). Our findings are consistent with those of Pesapane et al [12], who demonstrated that agreement between two readers for “late signs” was significantly greater than that for “early signs,” reaching a score of 0.94 for recto-prostatic angle obliteration and periprostatic mass, and with those of Park et al [14], who reported similar concordance (from 0.63 to 0.71) with the use of mEPE-grade and ESUR-score. Moreover, for mEPE-score, both observers performed comparably, while with the use of ESUR-score and early-and-late-EPE had significant differences. This could be at least partly related to the inclusion of a quantitative parameter within the scores.
+
+Clinically, our findings strongly suggest that a score should be used to define mEPE, as this is critical for obtaining consistent and reliable results. Nowadays, mpMRI is the first diagnostic step in the work-up for PCa, and the only data available to the radiologist during the examination are the results of the urological examination and the PSA value. Numerous scores developed for the evaluation of EPE incorporate biopsy data but do not include mpMRI [23, 24]. Due to the excellent performance and wide availability of mpMRI, a purely radiological score may provide radiologists with an initial reliable information to be eventually integrated into the clinical scenario. Moreover, the possibility of tailoring the threshold based on the specific needs of the patient under examination (raising the cutoff to 4 for want of higher specificity or lowering to 2 to increase sensitivity) is a further help for the urologist. Overall, some attempts have already been made in this direction [11, 25–27] and the work presented here aspires to be the foundation for standardizing the evaluation of mEPE and generating a comprehensive highly performing clinical-radiological score.
+
+This study has some limitation. First, it was a retrospective study, albeit one of the largest and from two Institutions. Second, the mpMRIs of each site were evaluated by radiologists of the local staff, so we cannot exclude performance disparities. However, we believe that this option was preferable than having a single radiologist interpreting also exams obtained from MRI scanners which she/he was unfamiliar with. Third, we tested the different scores only on examinations done without endorectal coil and on a single vendor MRI scanner.
+
+In conclusion, even if the individual mEPE features used to assess pEPE in PI-RADS v2.1 have low Se and high Sp, the use of mEPE-score, a score that includes all of them, allows for consistent and reliable assessment for pEPE.

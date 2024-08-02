@@ -1,0 +1,11 @@
+Background
+This study examined the effects of addition of 10% and 25% by weight calcium hydroxide on the physicochemical properties of Portland cement associated with 20% bismuth oxide in order to develop a new pulp capping material.
+
+Material and Methods
+The solubility, pH value, setting time, compressive strength, and push out bond strength of modified Portland were evaluated and compared to those of mineral trioxide aggregate (MTA) and Portland cement containing 20% bismuth oxide.
+
+Results
+The statistical analysis was performed with ANOVA and Duncan’s post-hoc test. The results show that the strength properties and push out bond strength of Portland cement were adversely affected by addition of calcium hydroxide especially with a ratio of 25 wt%, however, the setting time and pH were not affected. MTA showed a statistically significant lower setting time than other cements (P≤0.001). Portland cement with bismuth oxide and Port Cal I showed a statistically significant higher Push out Bond strength than MTA and Port Cal II (P=0.001).
+
+Conclusions
+Taking the setting time, push out bond strength and pH value into account, addition of 10 wt% calcium hydroxide to Portland cement associated with 20% bismuth oxide produces a new pulp capping material with acceptable physical and adhesive properties. Further studies are recommended to test this cement biologically as a new pulp capping material.

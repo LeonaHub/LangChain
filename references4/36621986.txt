@@ -1,0 +1,11 @@
+Background
+Ileostomy formation may be permanent or intended as temporary to defunction a high-risk pelvic anastomosis to reduce the risk of septic consequences of anastomotic leak. However, these procedures have a high rate of readmission, most commonly due to dehydration and associated with acute kidney injury (AKI).
+
+Methods
+A single centre retrospective cohort study of patients who underwent ileostomy formation from 2015 to 2020 and analysed in two groups: those who needed readmission within 60 days and those who did not. Data collected included demographics and renal function and electrolytes at baseline (ileostomy formation) and at elective ileostomy closure.
+
+Results
+A total of 171 patients were included in the analysis, with a readmission rate 38% within 60 days of discharge. There was a significant increase in creatinine from baseline blood tests compared to date of elective ileostomy closure in both the readmission and no readmission arms. There was a significant decrease in eGFR from baseline blood tests compared with date of ileostomy closure in both readmission and no readmission arms. There was no significant difference in creatinine or eGFR between readmission and no readmission arms at date of ileostomy closure. Baseline serum sodium levels were lower in the readmission arm compared to no readmission arm.
+
+Conclusion
+Ileostomy formation is associated with a deterioration in renal function, which occurs independent of whether the patient requires readmission to hospital. Low serum sodium may be used as a predictor for patients with an increased risk of readmission.

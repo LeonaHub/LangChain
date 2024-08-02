@@ -1,0 +1,11 @@
+Objective
+Protease-activated receptor-2 (PAR2) also known as F2RL1 is a G protein-coupled receptor that intimately correlates with cancer occurrence. DNA methylation turns out a vital mechanism regulating gene expression, while PAR2 promoter methylation is proven to be involved in cancer development. Hence, this study attempted to clarify the molecular mechanism by which PAR2 mediates lung adenocarcinoma (LUAD) progression, via identifying the effect of PAR2 promoter methylation on LUAD cell progression.
+
+Methods
+Associations of PAR2 promoter methylation with PAR2 gene expression and prognosis of LUAD patients were analyzed via bioinformatics analysis. PAR2 promoter methylation and gene expression at the cellular level were measured using methylation-specific PCR, qRT-PCR, and Western blot assays. DNA methyltransferase inhibitor 5-AzadC was used to treat cells to assess PAR2 gene expression alteration. Cell biological behaviors upon PAR2 overexpression were characterized via MTT, wound healing assay, and Transwell assay.
+
+Results
+Bioinformatics analysis revealed that PAR2 promoter methylation was negatively related to PAR2 gene expression, while PAR2 promoter hypermethylation and low gene expression indicated favorable LUAD prognosis. Besides, it turned out that PAR2 presented upregulated expression and hypomethylated promoter in LUAD cells. Moreover, PAR2 gene expression was elevated in cells treated with 5-AzadC, and the proliferative, migratory, and invasive capabilities of cells with 5-AzadC or high PAR2 gene expression were all enhanced.
+
+Conclusion
+In sum, PAR2 promoter hypomethylation potentiates LUAD cell progression, in turn affecting the prognosis of LUAD patients.

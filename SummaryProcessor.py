@@ -20,10 +20,8 @@ class SummaryProcessor:
     def __init__(self, config):
         self.api_key = os.getenv('OPENAI_API_KEY')
         self.data_dir = Path(config['data_dir'])
-        self.summaries_dir_openai1 = Path(config['summaries_dir_openai1'])
-        self.summaries_dir_langchain1 = Path(config['summaries_dir_langchain1'])
-        self.summaries_dir_openai2 = Path(config['summaries_dir_openai2'])
-        self.summaries_dir_langchain2 = Path(config['summaries_dir_langchain2'])
+        self.summaries_dir_openai = Path(config['summaries_dir_openai'])
+        self.summaries_dir_langchain = Path(config['summaries_dir_langchain'])
         self.references_dir = Path(config['references_dir'])
         self.summary_options = config['summary_options']
         self.tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
@@ -38,10 +36,8 @@ class SummaryProcessor:
         )
 
     def setup_directories(self):
-        self.summaries_dir_openai1.mkdir(parents=True, exist_ok=True)
-        self.summaries_dir_langchain1.mkdir(parents=True, exist_ok=True)
-        self.summaries_dir_openai2.mkdir(parents=True, exist_ok=True)
-        self.summaries_dir_langchain2.mkdir(parents=True, exist_ok=True)
+        self.summaries_dir_openai.mkdir(parents=True, exist_ok=True)
+        self.summaries_dir_langchain.mkdir(parents=True, exist_ok=True)
         self.references_dir.mkdir(parents=True, exist_ok=True)
 
     def read_text_from_file(self, file_path):
@@ -129,7 +125,7 @@ class SummaryProcessor:
                 **self.summary_options
             )
             if second_round_openai_summary:
-                self.write_text_to_file(second_round_openai_summary.choices[0].message.content, self.summaries_dir_openai2 / f"{text_id}.txt")
+                self.write_text_to_file(second_round_openai_summary.choices[0].message.content, self.summaries_dir_openai / f"{text_id}.txt")
                 
             # Accumulate messages for LangChain model
             messages = [HumanMessage(content=segment) for segment in segments]
@@ -139,7 +135,7 @@ class SummaryProcessor:
             # Process with LangChain
             langchain_summary = self.langchain.invoke(messages, **self.summary_options)
             if langchain_summary:
-                self.write_text_to_file(langchain_summary.content, self.summaries_dir_langchain2 / f"{text_id}.txt")
+                self.write_text_to_file(langchain_summary.content, self.summaries_dir_langchain / f"{text_id}.txt")
 
 
 if __name__ == "__main__":
