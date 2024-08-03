@@ -1,7 +1,7 @@
 {
   "data_dir": "texts1",
-  "summaries_dir_openai": "summaries2/openai",
-  "summaries_dir_langchain": "summaries2/langchain-openai",
+  "summaries_dir_openai": "summaries3/openai",
+  "summaries_dir_langchain": "summaries3/langchain-openai",
   "references_dir": "references1",
   "summary_options": {
     "temperature": 0.1,
