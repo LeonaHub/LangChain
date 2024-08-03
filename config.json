@@ -1,8 +1,13 @@
 {
-  "data_dir": "texts1",
-  "summaries_dir_openai": "summaries3/openai",
-  "summaries_dir_langchain": "summaries3/langchain-openai",
-  "references_dir": "references1",
+  "data_dir": "texts",
+  "summaries_dir_openai1": "summaries1/openai",
+  "summaries_dir_langchain1": "summaries1/langchain-openai",
+  "summaries_dir_openai2": "summaries2/openai",
+  "summaries_dir_langchain2": "summaries2/langchain-openai",
+  "summaries_dir_openai3": "summaries3/openai",
+  "summaries_dir_langchain3": "summaries3/langchain-openai",
+  "references_dir": "references",
+  "output_dir": "evaluation_results",
   "summary_options": {
     "temperature": 0.1,
     "max_tokens": 300
