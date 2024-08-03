@@ -1,0 +1,5 @@
+The text discusses the utility of studying human sensory neuron models in preclinical pain research. It highlights the advantages of using in vitro models, such as reduced cost and ethical concerns, and the ability to study human-specific responses. The discussion focuses on two main types of human sensory neuron models: endogenous human dorsal root ganglion (hDRG) neurons and stem cell-derived sensory neurons (SC-SNs). 
+
+hDRG neurons, obtained from human donors, offer a valuable platform to validate drug targets and study chronic pain mechanisms. They have been increasingly used in translational pain studies due to improved availability and culturing methods. However, challenges such as donor heterogeneity and culture conditions need to be addressed to maximize their potential.
+
+SC-SNs, generated from stem cells, provide opportunities to study rare genetic disorders and investigate the effects of environmental factors on chronic pain. They offer advantages such as the ability to create isogenic control lines and study a wide range of pain conditions. However, technical challenges like variability in differentiation batches and the need for long-term culture
