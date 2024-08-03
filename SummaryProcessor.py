@@ -59,7 +59,7 @@ class SummaryProcessor:
     def get_token_count(self, text):
         return len(self.tokenizer.encode(text))
 
-    def split_text(self, text, max_length=5000):
+    def split_text(self, text, max_length=2500):
         doc = nlp(text)
         segments = []
         current_segment = ""

@@ -1,0 +1,10 @@
+The text discusses the use of high-strength steel sandwich panels in lightweight high-speed vehicles and the challenges associated with welding the T-joints in these structures. It introduces the flux bands constricting arc (FBCA) welding method as a solution to compensate for the insufficient weld width in T-joints. The study explores the effect of flux bands on arc behavior, arc shape, arc heat, and arc stability in FBCA welding compared to traditional gas metal arc welding (GMAW) in ultra-narrow gap grooves. 
+
+Key findings include:
+1. Flux bands have a solid-wall constricting effect (SWCE) on the arc, compressing the arc shape and intensifying the heating degree of the arc to the core-plate.
+2. The SWCE of flux bands suppresses the arc climbing up phenomenon (APCP) observed in GMAW welding, leading to a more stable arc burning position in FBCA welding.
+3. Flux bands increase the effective heating area of the arc, resulting in improved side-wall fusion and core-plate penetration.
+4. The temperature distribution and cross-section analysis show that flux bands regulate the heat distribution and fusion characteristics in the welding process.
+5. The use of flux bands in FBCA welding reduces the proportion of short-circuiting time, arc extinction time, and unstable arc burning time, leading to increased arc stability.
+
+Overall, the study demonstrates that flux bands play a crucial role in enhancing arc stability, improving weld quality,
