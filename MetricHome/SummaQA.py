@@ -18,7 +18,7 @@ class EvaluateSummaries:
         self.data_dir = Path(self.config['data_dir'])
         self.references_dir = Path(self.config['data_dir'])
         self.output_dir = Path(self.config['output_dir'])
-        self.summa_qa_dir = self.output_dir / "SummaQA"
+        self.summa_qa_dir = self.output_dir / "SummaQA" / self.config['summaries_dir']
         self.summa_qa_dir.mkdir(parents=True, exist_ok=True)
 
     def read_file(self, path):

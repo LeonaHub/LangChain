@@ -18,7 +18,7 @@ class EvaluateSummaries:
         self.data_dir = Path(self.config['data_dir'])
         self.references_dir = Path(self.config['references_dir'])
         self.output_dir = Path(self.config['output_dir'])
-        self.s3_dir = self.output_dir / "S3"
+        self.s3_dir = self.output_dir / "S3" / self.config['summaries_dir']
         self.s3_dir.mkdir(parents=True, exist_ok=True)
 
     def read_file(self, path):

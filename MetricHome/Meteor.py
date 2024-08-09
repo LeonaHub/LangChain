@@ -18,7 +18,7 @@ class EvaluateSummaries:
         self.data_dir = Path(self.config['data_dir'])
         self.references_dir = Path(self.config['references_dir'])
         self.output_dir = Path(self.config['output_dir'])
-        self.meteor_dir = self.output_dir / "Meteor"
+        self.meteor_dir = self.output_dir / "Meteor" / self.config['summaries_dir']
         self.meteor_dir.mkdir(parents=True, exist_ok=True)
 
     def read_file(self, path):
