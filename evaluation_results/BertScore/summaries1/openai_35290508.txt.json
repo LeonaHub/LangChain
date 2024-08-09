@@ -1,0 +1,7 @@
+{
+    "bert_score": {
+        "bert_score_precision": 0.6697197556495667,
+        "bert_score_recall": 0.5152839422225952,
+        "bert_score_f1": 0.5824384093284607
+    }
+}
