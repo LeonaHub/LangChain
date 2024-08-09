@@ -2,11 +2,7 @@ import os
 import json
 import logging
 from pathlib import Path
-from summ_eval import (
-    BertScoreMetric, BlancMetric, BleuMetric, ChrfppMetric, CiderMetric,
-    DataStatsMetric, MeteorMetric, MoverScoreMetric, RougeMetric, RougeWeMetric,
-    S3Metric, SentenceMoversMetric, SummaQAMetric, SupertMetric, SyntacticMetric
-)
+from summ_eval.rouge_metric import RougeMetric
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -16,33 +12,15 @@ class EvaluateSummaries:
     def __init__(self, config):
         self.config = config
         self.setup_directories()
-        self.initialize_metrics()
+        self.rouge = RougeMetric()
 
     def setup_directories(self):
         self.data_dir = Path(self.config['data_dir'])
         self.references_dir = Path(self.config['references_dir'])
         self.output_dir = Path(self.config['output_dir'])
-        self.output_dir.mkdir(parents=True, exist_ok=True)
+        self.rouge_dir = self.output_dir / "Rouge"
+        self.rouge_dir.mkdir(parents=True, exist_ok=True)
         self.summary_dirs = [Path(self.config[d]) for d in self.config if 'summaries_dir' in d]
-
-    def initialize_metrics(self):
-        self.metrics = {
-            "bert_score": BertScoreMetric(),
-            "blanc": BlancMetric(),
-            "bleu": BleuMetric(),
-            "chrfpp": ChrfppMetric(),
-            "cider": CiderMetric(),
-            "data_stats": DataStatsMetric(),
-            "meteor": MeteorMetric(),
-            "mover_score": MoverScoreMetric(),
-            "rouge": RougeMetric(),
-            "rouge_we": RougeWeMetric(),
-            "s3": S3Metric(),
-            "sentence_movers": SentenceMoversMetric(),
-            "summa_qa": SummaQAMetric(),
-            "supert": SupertMetric(),
-            "syntactic": SyntacticMetric()
-        }
 
     def read_file(self, path):
         with open(path, 'r', encoding='utf-8') as file:
@@ -60,13 +38,13 @@ class EvaluateSummaries:
                         reference = self.read_file(reference_path)
                         self.evaluate_and_save_results(summary, reference, dir_path, file_name)
                     except Exception as e:
-                        logger.error(f"Error processing {file_name}: {e}")
+                        logger.error(f"Failed to evaluate Rouge for {summary_path} against {reference_path}: {e}")
 
     def evaluate_and_save_results(self, summary, reference, dir_path, file_name):
-        results = {metric_name: metric.evaluate_batch([summary], [reference]) for metric_name, metric in self.metrics.items()}
-        output_file = self.output_dir / f"{dir_path.name}_{file_name}.json"
+        results = self.rouge.evaluate_batch([summary], [reference])
+        output_file = self.rouge_dir / f"{dir_path.name}_{file_name}.json"
         with open(output_file, 'w', encoding='utf-8') as out_file:
-            json.dump(results, out_file, ensure_ascii=False, indent=4)
+            json.dump({ "rouge": results }, out_file, ensure_ascii=False, indent=4)
         logger.info(f"Results written to {output_file}")
 
 if __name__ == "__main__":
