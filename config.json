@@ -1,11 +1,8 @@
 {
   "data_dir": "texts",
+  "summaries_dir": "summaries1",
   "summaries_dir_openai1": "summaries1/openai",
   "summaries_dir_langchain1": "summaries1/langchain-openai",
-  "summaries_dir_openai2": "summaries2/openai",
-  "summaries_dir_langchain2": "summaries2/langchain-openai",
-  "summaries_dir_openai3": "summaries3/openai",
-  "summaries_dir_langchain3": "summaries3/langchain-openai",
   "references_dir": "references",
   "output_dir": "evaluation_results",
   "summary_options": {

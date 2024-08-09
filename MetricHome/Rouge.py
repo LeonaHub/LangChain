@@ -18,7 +18,7 @@ class EvaluateSummaries:
         self.data_dir = Path(self.config['data_dir'])
         self.references_dir = Path(self.config['references_dir'])
         self.output_dir = Path(self.config['output_dir'])
-        self.rouge_dir = self.output_dir / "Rouge"
+        self.rouge_dir = self.output_dir / "Rouge" / self.config['summaries_dir']
         self.rouge_dir.mkdir(parents=True, exist_ok=True)
         self.summary_dirs = [Path(self.config[d]) for d in self.config if 'summaries_dir' in d]
 
