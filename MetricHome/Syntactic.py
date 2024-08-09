@@ -24,7 +24,7 @@ class EvaluateSyntacticComplexity:
         with open(path, 'r', encoding='utf-8') as file:
             return file.read()
 
-    def evaluate_summaries(self):
+    def evaluate_summaries(self, subfolder):
         dir_path = Path(self.config['summaries_dir'] + '/' + self.config[subfolder])
         for file_name in os.listdir(dir_path):
             summary_path = dir_path / file_name
