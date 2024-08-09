@@ -1,0 +1,14 @@
+{
+    "DataStats": {
+        "coverage": 0.910958904109589,
+        "density": 2.458904109589041,
+        "compression": 31.472602739726028,
+        "summary_length": 146.0,
+        "percentage_novel_1-gram": 0.16091954022988506,
+        "percentage_repeated_1-gram_in_summ": 0.27586206896551724,
+        "percentage_novel_2-gram": 0.556390977443609,
+        "percentage_repeated_2-gram_in_summ": 0.07518796992481203,
+        "percentage_novel_3-gram": 0.7857142857142857,
+        "percentage_repeated_3-gram_in_summ": 0.02857142857142857
+    }
+}
