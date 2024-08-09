@@ -17,7 +17,7 @@ class EvaluateSyntacticComplexity:
     def setup_directories(self):
         self.data_dir = Path(self.config['data_dir'])
         self.output_dir = Path(self.config['output_dir'])
-        self.syntactic_dir = self.output_dir / "Syntactic"
+        self.syntactic_dir = self.output_dir / "Syntactic" / self.config['summaries_dir']
         self.syntactic_dir.mkdir(parents=True, exist_ok=True)
 
     def read_file(self, path):
