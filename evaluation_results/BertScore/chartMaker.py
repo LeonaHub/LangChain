@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the provided CSV file
-file_path = 'summary3_scores.csv'
+file_path = 'summary1_scores.csv'
 
 data = pd.read_csv(file_path)
 
@@ -22,11 +22,17 @@ for metric in ['bert_score_precision', 'bert_score_recall', 'bert_score_f1']:
 # Plotting the average difference for each metric
 plt.figure(figsize=(12, 6))
 mean_diffs = pivot_data[[f'{metric}_diff' for metric in ['bert_score_precision', 'bert_score_recall', 'bert_score_f1']]].mean()
-mean_diffs.plot(kind='bar', color=['green' if x > 0 else 'red' for x in mean_diffs])
+bars = mean_diffs.plot(kind='bar', color=['green' if x > 0 else 'red' for x in mean_diffs])
 plt.title('Mean Differences in BERT Scores (LangChain-enhanced GPT 3.5 vs OpenAI GPT 3.5)')
 plt.ylabel('Mean Difference')
 plt.axhline(0, color='black', linewidth=0.8)
 plt.xticks(rotation=45, ha='right')
+
+# Annotate each bar with its value
+for bar in bars.patches:
+    plt.text(bar.get_x() + bar.get_width() / 2, bar.get_height(),
+             f'{bar.get_height():.4f}', ha='center', va='bottom')
+
 plt.show()
 
 # Count how many documents favored LangChain or OpenAI for each metric
@@ -35,10 +41,27 @@ better_openai = (pivot_data[[f'{metric}_diff' for metric in ['bert_score_precisi
 
 # Plotting the document count comparison
 plt.figure(figsize=(12, 6))
-better_langchain.plot(kind='bar', color='green', width=0.4, position=1, label='LangChain')
-better_openai.plot(kind='bar', color='blue', width=0.4, position=0, label='OpenAI')
+bar_width = 0.4
+bar_positions = range(len(better_langchain))
+
+# Plot LangChain bars
+bars_langchain = plt.bar([p + bar_width for p in bar_positions], better_langchain, width=bar_width, color='green', label='LangChain')
+
+# Plot OpenAI bars
+bars_openai = plt.bar(bar_positions, better_openai, width=bar_width, color='blue', label='OpenAI')
+
 plt.title('Document Count Comparison (LangChain-enhanced GPT 3.5 vs OpenAI GPT 3.5)')
 plt.ylabel('Number of Documents')
-plt.xticks(rotation=45, ha='right')
+plt.xticks([p + bar_width / 2 for p in bar_positions], better_langchain.index, rotation=45, ha='right')
 plt.legend()
+
+# Annotate each bar with its value
+for bar in bars_langchain:
+    plt.text(bar.get_x() + bar.get_width() / 2, bar.get_height(),
+             f'{int(bar.get_height())}', ha='center', va='bottom')
+
+for bar in bars_openai:
+    plt.text(bar.get_x() + bar.get_width() / 2, bar.get_height(),
+             f'{int(bar.get_height())}', ha='center', va='bottom')
+
 plt.show()
