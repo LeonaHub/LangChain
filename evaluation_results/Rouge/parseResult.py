@@ -42,7 +42,7 @@ for filename in os.listdir(directory):
 
 try:
     df = pd.DataFrame(data)
-    df.to_csv('summary1_scores.csv', index=False)
+    df.to_csv('summary3_scores.csv', index=False)
     logging.info("Dataframe was successfully saved to summary3_scores.csv")
 except Exception as e:
     logging.error(f"Failed to save dataframe to CSV: {str(e)}")

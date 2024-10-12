@@ -32,5 +32,5 @@ def generate_bleu_diff_barplot(file_path):
 
     plt.show()
 
-file_path = 'summary3_scores.csv'
+file_path = 'summary1_scores.csv'
 generate_bleu_diff_barplot(file_path)

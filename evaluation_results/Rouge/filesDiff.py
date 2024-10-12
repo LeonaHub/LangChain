@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-file_path = 'summary3_scores.csv' 
+file_path = 'summary1_scores.csv' 
 data = pd.read_csv(file_path)
 
 data['model_type'] = data['filename'].apply(lambda x: 'langchain' if 'langchain' in x else 'openai')
